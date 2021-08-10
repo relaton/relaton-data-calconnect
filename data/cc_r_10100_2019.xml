@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title format="text/plain" language="en">Alignment to international principles — WTO TBT principles for the Development of International Standards, Guides and Recommendations</title>
+  <uri type="xml">https://standards.calconnect.org/csd/cc-10100.xml</uri>
+  <uri type="pdf">https://standards.calconnect.org/csd/cc-10100.pdf</uri>
+  <uri type="doc">https://standards.calconnect.org/csd/cc-10100.doc</uri>
+  <uri type="html">https://standards.calconnect.org/csd/cc-10100.html</uri>
+  <uri type="rxl">https://standards.calconnect.org/csd/cc-10100.rxl</uri>
+  <docidentifier type="csd">CC/R 10100:2019</docidentifier>
+  <docnumber>10100</docnumber>
+  <date type="published">
+    <on>2019-03-18</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>CalConnect</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>CalConnect</name>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <version>
+    <revision-date>2019-03-18</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>published</stage>
+  </status>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>CalConnect</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>report</doctype>
+    <editorialgroup>
+      <committee>PUBLISH</committee>
+    </editorialgroup>
+  </ext>
+</bibdata>

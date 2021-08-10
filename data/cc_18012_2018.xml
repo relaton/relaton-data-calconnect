@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title format="text/plain" language="en">Date and time — General recurrence representation</title>
+  <uri type="xml">https://standards.calconnect.org/csd/cc-18012.xml</uri>
+  <uri type="pdf">https://standards.calconnect.org/csd/cc-18012.pdf</uri>
+  <uri type="doc">https://standards.calconnect.org/csd/cc-18012.doc</uri>
+  <uri type="html">https://standards.calconnect.org/csd/cc-18012.html</uri>
+  <uri type="rxl">https://standards.calconnect.org/csd/cc-18012.rxl</uri>
+  <docidentifier type="csd">CC 18012:2018</docidentifier>
+  <docnumber>18012</docnumber>
+  <date type="published">
+    <on>2018-09-10</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>CalConnect</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>CalConnect</name>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <version>
+    <revision-date>2018-09-10T00:00:00Z</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>published</stage>
+  </status>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>CalConnect</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>standard</doctype>
+    <editorialgroup>
+      <committee>VCARD, CALENDAR</committee>
+    </editorialgroup>
+  </ext>
+</bibdata>

@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title format="text/plain" language="en">Report on CalConnect Conference XLIV, February 5 - February 8, 2019</title>
+  <uri type="xml">https://standards.calconnect.org/csd/csd-report-conference-44.xml</uri>
+  <uri type="pdf">https://standards.calconnect.org/csd/csd-report-conference-44.pdf</uri>
+  <uri type="doc">https://standards.calconnect.org/csd/csd-report-conference-44.doc</uri>
+  <uri type="html">https://standards.calconnect.org/csd/csd-report-conference-44.html</uri>
+  <uri type="rxl">https://standards.calconnect.org/csd/csd-report-conference-44.rxl</uri>
+  <docidentifier type="csd">CC/A 1901:2019</docidentifier>
+  <docnumber>1901</docnumber>
+  <date type="published">
+    <on>2019-03-07</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>CalConnect</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>CalConnect</name>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <version>
+    <revision-date>2019-03-07T00:00:00Z</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>published</stage>
+  </status>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>CalConnect</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>administrative</doctype>
+    <editorialgroup>
+      <committee>CHAIRS</committee>
+    </editorialgroup>
+  </ext>
+</bibdata>

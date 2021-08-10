@@ -1,0 +1,72 @@
+<bibdata type="standard">
+  <title format="text/plain" language="en">Calendaring and scheduling — Consensus scheduling — iCalendar VPOLL component</title>
+  <uri type="xml">https://standards.calconnect.org/csd/cc-51006.xml</uri>
+  <uri type="pdf">https://standards.calconnect.org/csd/cc-51006.pdf</uri>
+  <uri type="doc">https://standards.calconnect.org/csd/cc-51006.doc</uri>
+  <uri type="html">https://standards.calconnect.org/csd/cc-51006.html</uri>
+  <uri type="rxl">https://standards.calconnect.org/csd/cc-51006.rxl</uri>
+  <docidentifier type="csd">CC/CD 51006:2018</docidentifier>
+  <docnumber>51006</docnumber>
+  <date type="published">
+    <on>2018-11-19</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>CalConnect</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename>Eric York</completename>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename>Cyrus Daboo</completename>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename>Michael Douglass</completename>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>CalConnect</name>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <version>
+    <revision-date>2018-11-19</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>committee-draft</stage>
+  </status>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>CalConnect</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>standard</doctype>
+    <editorialgroup>
+      <committee>FREEBUSY</committee>
+    </editorialgroup>
+  </ext>
+</bibdata>

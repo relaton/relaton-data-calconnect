@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title format="text/plain" language="en">Calendaring and scheduling — Support for Series in iCalendar</title>
+  <uri type="xml">https://standards.calconnect.org/csd/cc-51003.xml</uri>
+  <uri type="pdf">https://standards.calconnect.org/csd/cc-51003.pdf</uri>
+  <uri type="doc">https://standards.calconnect.org/csd/cc-51003.doc</uri>
+  <uri type="html">https://standards.calconnect.org/csd/cc-51003.html</uri>
+  <uri type="rxl">https://standards.calconnect.org/csd/cc-51003.rxl</uri>
+  <docidentifier type="csd">CC/CD 51003:2018</docidentifier>
+  <docnumber>51003</docnumber>
+  <date type="published">
+    <on>2018-11-30</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>CalConnect</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="author"/>
+    <person>
+      <name>
+        <completename>Michael Douglass</completename>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>CalConnect</name>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <version>
+    <revision-date>2018-11-30</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>committee-draft</stage>
+  </status>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>CalConnect</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>standard</doctype>
+    <editorialgroup>
+      <committee>CALENDAR</committee>
+    </editorialgroup>
+  </ext>
+</bibdata>

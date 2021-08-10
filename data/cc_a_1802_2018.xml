@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title format="text/plain" language="en">Report on CalConnect Test Event and Developers Forum XLI, January 29-31, 2018</title>
+  <uri type="xml">https://standards.calconnect.org/csd/csd-report-ioptestevent-41.xml</uri>
+  <uri type="pdf">https://standards.calconnect.org/csd/csd-report-ioptestevent-41.pdf</uri>
+  <uri type="doc">https://standards.calconnect.org/csd/csd-report-ioptestevent-41.doc</uri>
+  <uri type="html">https://standards.calconnect.org/csd/csd-report-ioptestevent-41.html</uri>
+  <uri type="rxl">https://standards.calconnect.org/csd/csd-report-ioptestevent-41.rxl</uri>
+  <docidentifier type="csd">CC/A 1802:2018</docidentifier>
+  <docnumber>1802</docnumber>
+  <date type="published">
+    <on>2018-03-02</on>
+  </date>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>CalConnect</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>CalConnect</name>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <version>
+    <revision-date>2018-03-02</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>published</stage>
+  </status>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>CalConnect</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>administrative</doctype>
+    <editorialgroup>
+      <committee>IOPTEST</committee>
+    </editorialgroup>
+  </ext>
+</bibdata>

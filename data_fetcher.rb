@@ -25,9 +25,13 @@ class DataFetcher
     # return if there aren't any changes since last fetching
     return unless resp.status == 200
 
-    self.etag = resp[:etag]
     data = YAML.safe_load resp.body
-    data['root']['items'].each { |doc| parse_page doc }
+    all_success = true
+    data['root']['items'].each do |doc|
+      success = parse_page doc
+      all_success &&= success
+    end
+    self.etag = resp[:etag] if all_success
   end
 
   private
@@ -41,12 +45,22 @@ class DataFetcher
     bib = bib_item doc
     bib.link.each { |l| l.content.merge!(scheme: SCHEME, host: HOST) unless l.content.host }
     xml = bib.to_xml bibdata: true
-    file = File.join DATADIR, "#{doc['docid']['id'].downcase.gsub(%r{[/\s:]}, '_')}.xml"
-    if File.exist? file
-      warn "#{file} exist"
-    else
-      File.write file, xml, encoding: 'UTF-8'
-    end
+    write_doc doc['docid']['id'], xml
+    true
+  rescue StandardError => e
+    warn "Document: #{doc['docid']['id']}"
+    warn e.message
+    puts e.backtrace
+    false
+  end
+
+  def write_doc(docid, xml)
+    file = File.join DATADIR, "#{docid.downcase.gsub(%r{[/\s:]}, '_')}.xml"
+    # if File.exist? file
+    #   warn "#{file} exist"
+    # else
+    File.write file, xml, encoding: 'UTF-8'
+    # end
   end
 
   def bib_item(doc)

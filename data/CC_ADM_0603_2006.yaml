@@ -1,0 +1,27 @@
+---
+id: CC/Adm0603-2006
+title:
+- type: title-main
+  content: January 2006 CalConnect Interoperability Test Report V1.0 (CD 0603)
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: January 2006 CalConnect Interoperability Test Report V1.0 (CD 0603)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://standards.calconnect.org/pubdocs/CD0603%20January%202006%20CalConnect%20Interoperability%20Test%20Report%20V1.0.pdf
+  type: pdf
+type: standard
+docid:
+  id: CC/Adm 0603:2006
+  type: CC
+version:
+  revision_date: '2006-02-09'
+revdate: '2006-02-09'
+fetched: '2020-06-23'
+doctype: administrative
+editorialgroup:
+  name: IOPTEST

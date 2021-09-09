@@ -1,0 +1,48 @@
+---
+id: CC/A1702-2017
+title:
+  content: Report on Test Event and Developers Forum XXXVIII, February 13-15, 2017
+  language: en
+  format: text/plain
+link:
+- content: https://standards.calconnect.org/csd/csd-report-ioptestevent-38.xml
+  type: xml
+- content: https://standards.calconnect.org/csd/csd-report-ioptestevent-38.pdf
+  type: pdf
+- content: https://standards.calconnect.org/csd/csd-report-ioptestevent-38.doc
+  type: doc
+- content: https://standards.calconnect.org/csd/csd-report-ioptestevent-38.html
+  type: html
+- content: https://standards.calconnect.org/csd/csd-report-ioptestevent-38.rxl
+  type: rxl
+type: standard
+docid:
+  id: CC/A 1702:2017
+  type: csd
+docnumber: '1702'
+date:
+  type: published
+  value: '2017-03-10'
+contributor:
+- organization:
+    name: CalConnect
+  role: author
+- organization:
+    name: CalConnect
+  role: publisher
+edition: '1'
+version:
+  revision_date: '2017-03-10'
+revdate: '2017-03-10'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+  owner:
+    name: CalConnect
+  from: '2017'
+doctype: administrative
+editorialgroup:
+  name: IOPTEST

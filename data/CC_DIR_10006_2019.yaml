@@ -1,0 +1,48 @@
+---
+id: CC/DIR10006-2019
+title:
+  content: 'CalConnect Directive: Intellectual property rights policy'
+  language: en
+  format: text/plain
+link:
+- content: https://standards.calconnect.org/csd/cc-10006.xml
+  type: xml
+- content: https://standards.calconnect.org/csd/cc-10006.pdf
+  type: pdf
+- content: https://standards.calconnect.org/csd/cc-10006.doc
+  type: doc
+- content: https://standards.calconnect.org/csd/cc-10006.html
+  type: html
+- content: https://standards.calconnect.org/csd/cc-10006.rxl
+  type: rxl
+type: standard
+docid:
+  id: CC/DIR 10006:2019
+  type: csd
+docnumber: '10006'
+date:
+  type: published
+  value: '2019-03-18'
+contributor:
+- organization:
+    name: CalConnect
+  role: author
+- organization:
+    name: CalConnect
+  role: publisher
+edition: '1'
+version:
+  revision_date: '2019-03-18'
+revdate: '2019-03-18'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+  owner:
+    name: CalConnect
+  from: '2019'
+doctype: directive
+editorialgroup:
+  name: PUBLISH

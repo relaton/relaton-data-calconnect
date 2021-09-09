@@ -1,0 +1,24 @@
+---
+id: CC/IETF70025-2017
+title:
+- type: title-main
+  content: Push Discovery and Notification Dispatch Protocol
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Push Discovery and Notification Dispatch Protocol
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: CC/IETF 70025:2017
+  type: CC
+version:
+  revision_date: '2017-05-02'
+revdate: '2017-05-02'
+fetched: '2020-06-23'
+doctype: standard
+editorialgroup:
+  name: PUSH

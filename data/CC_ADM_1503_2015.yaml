@@ -1,0 +1,27 @@
+---
+id: CC/Adm1503-2015
+title:
+- type: title-main
+  content: Report on CalConnect Conference XXXIII (CD 1503)
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Report on CalConnect Conference XXXIII (CD 1503)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://standards.calconnect.org/pubdocs/conference33rpt.pdf
+  type: pdf
+type: standard
+docid:
+  id: CC/Adm 1503:2015
+  type: CC
+version:
+  revision_date: '2015-06-22'
+revdate: '2015-06-22'
+fetched: '2020-06-23'
+doctype: administrative
+editorialgroup:
+  name: CALCONNECT

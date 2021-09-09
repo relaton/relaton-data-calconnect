@@ -1,0 +1,27 @@
+---
+id: CC/Adm1303-2013
+title:
+- type: title-main
+  content: Report on Interoperability Test Event XXVI (CD 1303)
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Report on Interoperability Test Event XXVI (CD 1303)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://standards.calconnect.org/pubdocs/ioptestevent26rpt.pdf
+  type: pdf
+type: standard
+docid:
+  id: CC/Adm 1303:2013
+  type: CC
+version:
+  revision_date: '2013-02-20'
+revdate: '2013-02-20'
+fetched: '2020-06-23'
+doctype: administrative
+editorialgroup:
+  name: IOPTEST

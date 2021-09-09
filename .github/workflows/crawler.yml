@@ -16,23 +16,15 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.0
-      - name: Use cahed gems
-        uses: actions/cache@v2
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
-      - name: Update gems
+      - name: Install gem
         run: |
-          gem install bundler
-          bundle config path vendor/bundle
-          bundle install --jobs 4 --retry 3
+          gem install relaton-cli
       - name: Fetch documents
-        run: bundle exec ruby data_fetcher.rb
+        run: relaton fetch-data calconnect-org
       - name: Push data
         run: |
+          echo `date` > flag.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add data/* Gemfile.lock
+          git add data/* flag.txt
           git diff --quiet && git diff --staged --quiet || (git commit -m 'update documents' && git push)

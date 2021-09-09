@@ -1,0 +1,38 @@
+---
+id: CC/R0510-2005
+title:
+- type: title-main
+  content: Report on Timezone Questionnaire Results (CD 0510)
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Report on Timezone Questionnaire Results (CD 0510)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://standards.calconnect.org/pubdocs/CD0510%20Report%20on%20TIMEZONE%20Questionnaire%20Results.pdf
+  type: pdf
+type: standard
+docid:
+  id: CC/R 0510:2005
+  type: CC
+version:
+  revision_date: '2005-10-03'
+revdate: '2005-10-03'
+abstract:
+  content: This document is one in a series of documents summarizing the results of
+    questionnaires that the Calendaring and Scheduling Consortium has conducted to
+    help better understand the requirements, problems and needs for calendaring and
+    scheduling solutions. It is expected that the results of these questionnaires
+    will be used to help define requirements and recommendations for calendaring and
+    scheduling products. This particular document summarizes the results of the Timezone
+    Technical Committee's questionnaire on Timezone support in iCalendar products.
+    Other questionnaire summary documents will cover different areas of calendaring
+    and scheduling, and will be made available by the Consortium.
+  format: text/plain
+fetched: '2020-06-23'
+doctype: report
+editorialgroup:
+  name: CALCONNECT

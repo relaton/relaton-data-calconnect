@@ -2,6 +2,6 @@
 
 This repository is used by Relaton-CalConnect to represent known publications.
 
-Data is stored in Relaton XML format.
+Data is stored in Relaton YAML format.
 
 This repository contains a crawler script which runs daly. The script parses file https://standards.calconnect.org/relaton/index.yaml and store documents into the data directory.

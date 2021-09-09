@@ -1,0 +1,27 @@
+---
+id: CC/Adm1014-2011
+title:
+- type: title-main
+  content: October 2010 CalConnect Interoperability Test Event Report V1.0 (CD 1014)
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: October 2010 CalConnect Interoperability Test Event Report V1.0 (CD 1014)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: https://standards.calconnect.org/pubdocs/CD1014%20October%202010%20CalConnect%20Interoperability%20Test%20Event%20Report%20V1.0.pdf
+  type: pdf
+type: standard
+docid:
+  id: CC/Adm 1014:2011
+  type: CC
+version:
+  revision_date: '2011-01-11'
+revdate: '2011-01-11'
+fetched: '2020-06-23'
+doctype: administrative
+editorialgroup:
+  name: IOPTEST

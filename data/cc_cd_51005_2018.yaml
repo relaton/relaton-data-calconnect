@@ -1,0 +1,52 @@
+---
+id: CC/CD51005-2018
+title:
+  content: Calendaring and scheduling — Calendar subscription upgrades
+  language: en
+  format: text/plain
+link:
+- content: https://standards.calconnect.org/csd/cc-51005.xml
+  type: xml
+- content: https://standards.calconnect.org/csd/cc-51005.pdf
+  type: pdf
+- content: https://standards.calconnect.org/csd/cc-51005.doc
+  type: doc
+- content: https://standards.calconnect.org/csd/cc-51005.html
+  type: html
+- content: https://standards.calconnect.org/csd/cc-51005.rxl
+  type: rxl
+type: standard
+docid:
+  id: CC/CD 51005:2018
+  type: csd
+docnumber: '51005'
+date:
+  type: published
+  value: '2018-11-30'
+contributor:
+- organization:
+    name: CalConnect
+  role: author
+- person:
+    name:
+      completename: Michael Douglass
+  role: author
+- organization:
+    name: CalConnect
+  role: publisher
+edition: '1'
+version:
+  revision_date: '2018-11-30'
+revdate: '2018-11-30'
+language: en
+script: Latn
+docstatus:
+  stage:
+    value: committee-draft
+copyright:
+  owner:
+    name: CalConnect
+  from: '2018'
+doctype: standard
+editorialgroup:
+  name: CALENDAR

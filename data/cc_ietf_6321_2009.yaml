@@ -1,0 +1,24 @@
+---
+id: CC/IETF6321-2009
+title:
+- type: title-main
+  content: xCal - The XML Format for iCalendar (IETF RFC 6351)
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: xCal - The XML Format for iCalendar (IETF RFC 6351)
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: CC/IETF 6321:2009
+  type: CC
+version:
+  revision_date: '2009-06-04'
+revdate: '2009-06-04'
+fetched: '2020-06-23'
+doctype: standard
+editorialgroup:
+  name: XML

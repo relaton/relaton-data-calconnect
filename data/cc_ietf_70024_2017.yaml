@@ -1,0 +1,24 @@
+---
+id: CC/IETF70024-2017
+title:
+- type: title-main
+  content: Support for Series in iCalendar
+  language: en
+  script: Latn
+  format: text/plain
+- type: main
+  content: Support for Series in iCalendar
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+  id: CC/IETF 70024:2017
+  type: CC
+version:
+  revision_date: '2017-02-15'
+revdate: '2017-02-15'
+fetched: '2020-06-23'
+doctype: standard
+editorialgroup:
+  name: CALENDAR

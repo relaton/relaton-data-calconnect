@@ -3,20 +3,24 @@ id: CC/Adm0511-2005
 title:
 - type: title-main
   content: Report on Roundtable II (CD 0511)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Report on Roundtable II (CD 0511)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://standards.calconnect.org/pubdocs/roundtable2rpt.pdf
+- content: https://standards.calconnect.org/pubdocs/roundtable2rpt.pdf
   type: pdf
 type: standard
 docid:
-  id: CC/Adm 0511:2005
+- id: CC/Adm 0511:2005
   type: CC
 version:
   revision_date: '2005-01-13'
@@ -24,4 +28,4 @@ revdate: '2005-01-13'
 fetched: '2020-06-23'
 doctype: administrative
 editorialgroup:
-  name: CALCONNECT
+- name: CALCONNECT

@@ -3,17 +3,21 @@ id: CC/IETF7808-2010
 title:
 - type: title-main
   content: Time Zone Data Distribution Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Time Zone Data Distribution Service
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
-  id: CC/IETF 7808:2010
+- id: CC/IETF 7808:2010
   type: CC
 version:
   revision_date: '2016-03-01'
@@ -21,4 +25,4 @@ revdate: '2016-03-01'
 fetched: '2020-06-23'
 doctype: standard
 editorialgroup:
-  name: TIMEZONE
+- name: TIMEZONE

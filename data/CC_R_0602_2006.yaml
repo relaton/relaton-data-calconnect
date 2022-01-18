@@ -3,26 +3,30 @@ id: CC/R0602-2006
 title:
 - type: title-main
   content: iCalendar Timezone Problems and Recommendations V1.0 (CD 0602)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: iCalendar Timezone Problems and Recommendations V1.0 (CD 0602)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://standards.calconnect.org/pubdocs/CD0602%20iCalendar%20Timezone%20Problems%20and%20Recommendations%20V1.0.pdf
+- content: https://standards.calconnect.org/pubdocs/CD0602%20iCalendar%20Timezone%20Problems%20and%20Recommendations%20V1.0.pdf
   type: pdf
 type: standard
 docid:
-  id: CC/R 0602:2006
+- id: CC/R 0602:2006
   type: CC
 version:
   revision_date: '2006-01-24'
 revdate: '2006-01-24'
 abstract:
-  content: This document was created by the TIMEZONE Technical Committee of the Calendaring
+- content: This document was created by the TIMEZONE Technical Committee of the Calendaring
     and Scheduling Consortium. It contains information about common time zone implementation
     issues and recommendations on how to resolve these issues. We first justify the
     need for time zones, then we identify time zone implementation problems, and then
@@ -32,4 +36,4 @@ abstract:
 fetched: '2020-06-23'
 doctype: report
 editorialgroup:
-  name: TIMEZONE
+- name: TIMEZONE

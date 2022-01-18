@@ -3,20 +3,24 @@ id: CC/Adm1302-2013
 title:
 - type: title-main
   content: Report on Roundtable XXVI (CD 1302)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Report on Roundtable XXVI (CD 1302)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://standards.calconnect.org/pubdocs/roundtable26rpt.pdf
+- content: https://standards.calconnect.org/pubdocs/roundtable26rpt.pdf
   type: pdf
 type: standard
 docid:
-  id: CC/Adm 1302:2013
+- id: CC/Adm 1302:2013
   type: CC
 version:
   revision_date: '2013-02-20'
@@ -24,4 +28,4 @@ revdate: '2013-02-20'
 fetched: '2020-06-23'
 doctype: administrative
 editorialgroup:
-  name: CALCONNECT
+- name: CALCONNECT

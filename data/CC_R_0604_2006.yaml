@@ -3,26 +3,30 @@ id: CC/R0604-2006
 title:
 - type: title-main
   content: iCalendar Recurrence Problems and Recommendations V1.0 (CD 0604)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: iCalendar Recurrence Problems and Recommendations V1.0 (CD 0604)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://standards.calconnect.org/pubdocs/CD0604%20iCalendar%20Recurrence%20Problems%20and%20Recommendations%20V1.0.pdf
+- content: https://standards.calconnect.org/pubdocs/CD0604%20iCalendar%20Recurrence%20Problems%20and%20Recommendations%20V1.0.pdf
   type: pdf
 type: standard
 docid:
-  id: CC/R 0604:2006
+- id: CC/R 0604:2006
   type: CC
 version:
   revision_date: '2006-03-16'
 revdate: '2006-03-16'
 abstract:
-  content: This document contains information about recurrence implementation issues
+- content: This document contains information about recurrence implementation issues
     and recommendations on how to resolve these issues. We first explain what recurrences
     are, justify the need for recurrences, identify recurrence implementation problems
     and ambiguities, and then offer some guidelines and recommendations to solve these
@@ -31,4 +35,4 @@ abstract:
 fetched: '2020-06-23'
 doctype: report
 editorialgroup:
-  name: RECURR
+- name: RECURR

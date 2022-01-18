@@ -1,9 +1,10 @@
 ---
 id: CC/A1802-2018
 title:
-  content: Report on CalConnect Test Event and Developers Forum XLI, January 29-31,
+- content: Report on CalConnect Test Event and Developers Forum XLI, January 29-31,
     2018
-  language: en
+  language:
+  - en
   format: text/plain
 link:
 - content: https://standards.calconnect.org/csd/csd-report-ioptestevent-41.xml
@@ -18,32 +19,39 @@ link:
   type: rxl
 type: standard
 docid:
-  id: CC/A 1802:2018
+- id: CC/A 1802:2018
   type: csd
 docnumber: '1802'
 date:
-  type: published
+- type: published
   value: '2018-03-02'
 contributor:
 - organization:
-    name: CalConnect
-  role: author
+    name:
+    - CalConnect
+  role:
+  - author
 - organization:
-    name: CalConnect
-  role: publisher
+    name:
+    - CalConnect
+  role:
+  - publisher
 edition: '1'
 version:
   revision_date: '2018-03-02'
 revdate: '2018-03-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
 copyright:
-  owner:
-    name: CalConnect
+- owner:
+  - name:
+    - CalConnect
   from: '2018'
 doctype: administrative
 editorialgroup:
-  name: IOPTEST
+- name: IOPTEST

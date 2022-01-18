@@ -3,26 +3,30 @@ id: CC/S0505-2005
 title:
 - type: title-main
   content: Results from Recurrence Questionnaire (CD 0505)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Results from Recurrence Questionnaire (CD 0505)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://standards.calconnect.org/pubdocs/CD0505%20Results%20from%20First%20Recurrence%20Questionnaire.pdf
+- content: https://standards.calconnect.org/pubdocs/CD0505%20Results%20from%20First%20Recurrence%20Questionnaire.pdf
   type: pdf
 type: standard
 docid:
-  id: CC/S 0505:2005
+- id: CC/S 0505:2005
   type: CC
 version:
   revision_date: '2005-09-26'
 revdate: '2005-09-26'
 abstract:
-  content: The Recurrence Technical Committee of The Calendaring and Scheduling Consortium
+- content: The Recurrence Technical Committee of The Calendaring and Scheduling Consortium
     has collected specific information on how Calendaring and Scheduling implementations
     have, or have not, implemented the Recurrence Rules of RFCs 2445 and 2446, iCalendar
     and iTIP. This document is part of the committee's work to compile actual usage
@@ -37,4 +41,4 @@ abstract:
 fetched: '2020-06-23'
 doctype: specification
 editorialgroup:
-  name: RECURRENCE
+- name: RECURRENCE

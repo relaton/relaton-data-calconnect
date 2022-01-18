@@ -3,17 +3,21 @@ id: CC/IETF70019-2015
 title:
 - type: title-main
   content: 'v-event URI: An URI scheme for events'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'v-event URI: An URI scheme for events'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
-  id: CC/IETF 70019:2015
+- id: CC/IETF 70019:2015
   type: CC
 version:
   revision_date: '2015-11-24'
@@ -21,4 +25,4 @@ revdate: '2015-11-24'
 fetched: '2020-06-23'
 doctype: standard
 editorialgroup:
-  name: EVENTPUB
+- name: EVENTPUB

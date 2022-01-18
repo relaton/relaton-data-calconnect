@@ -4,27 +4,31 @@ title:
 - type: title-main
   content: A Recommendation for Minimum Interoperability of Resource Information V1.0
     (CD 0907)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: A Recommendation for Minimum Interoperability of Resource Information V1.0
     (CD 0907)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://standards.calconnect.org/pubdocs/CD0907%20A%20Recommendation%20for%20Minimum%20Interoperability%20of%20Resource%20Information%20V1.0.pdf
+- content: https://standards.calconnect.org/pubdocs/CD0907%20A%20Recommendation%20for%20Minimum%20Interoperability%20of%20Resource%20Information%20V1.0.pdf
   type: pdf
 type: standard
 docid:
-  id: CC/R 0907:2009
+- id: CC/R 0907:2009
   type: CC
 version:
   revision_date: '2009-06-10'
 revdate: '2009-06-10'
 abstract:
-  content: This document was created by the USECASE Technical Committee of the Calendaring
+- content: This document was created by the USECASE Technical Committee of the Calendaring
     and Scheduling Consortium. The document presents a recommendation for enhancing
     inter-operability of resources within the calendaring and scheduling application
     domain. Minimum interoperability is the basic level of functionality our collective
@@ -39,4 +43,4 @@ abstract:
 fetched: '2020-06-23'
 doctype: report
 editorialgroup:
-  name: USECASE
+- name: USECASE

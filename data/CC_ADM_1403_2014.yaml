@@ -4,21 +4,25 @@ title:
 - type: title-main
   content: Workshop on the Veterans Administration Scheduling System Challenge (CD
     1403)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Workshop on the Veterans Administration Scheduling System Challenge (CD
     1403)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://standards.calconnect.org/pubdocs/vachallengeworkshopreport.pdf
+- content: https://standards.calconnect.org/pubdocs/vachallengeworkshopreport.pdf
   type: pdf
 type: standard
 docid:
-  id: CC/Adm 1403:2014
+- id: CC/Adm 1403:2014
   type: CC
 version:
   revision_date: '2014-05-20'
@@ -26,4 +30,4 @@ revdate: '2014-05-20'
 fetched: '2020-06-23'
 doctype: administrative
 editorialgroup:
-  name: CALCONNECT
+- name: CALCONNECT

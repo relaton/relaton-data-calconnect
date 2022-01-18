@@ -3,17 +3,21 @@ id: CC/IETF70013-2013
 title:
 - type: title-main
   content: Schedulable Objectclass for vCard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Schedulable Objectclass for vCard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
-  id: CC/IETF 70013:2013
+- id: CC/IETF 70013:2013
   type: CC
 version:
   revision_date: '2013-01-25'
@@ -21,4 +25,4 @@ revdate: '2013-01-25'
 fetched: '2020-06-23'
 doctype: standard
 editorialgroup:
-  name: RESOURCE
+- name: RESOURCE

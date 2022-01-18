@@ -1,8 +1,9 @@
 ---
 id: CC/WD19160-6-2019
 title:
-  content: Addressing — Digital interchange models
-  language: en
+- content: Addressing — Digital interchange models
+  language:
+  - en
   format: text/plain
 link:
 - content: https://standards.calconnect.org/csd/cc-19160-6.xml
@@ -17,36 +18,44 @@ link:
   type: rxl
 type: standard
 docid:
-  id: CC/WD 19160-6:2019
+- id: CC/WD 19160-6:2019
   type: csd
 docnumber: 19160-6
 date:
-  type: published
+- type: published
   value: '2019-06-05'
 contributor:
 - organization:
-    name: CalConnect
-  role: author
+    name:
+    - CalConnect
+  role:
+  - author
 - person:
     name:
       completename: Ronald Tse
-  role: author
+  role:
+  - author
 - organization:
-    name: CalConnect
-  role: publisher
+    name:
+    - CalConnect
+  role:
+  - publisher
 edition: '1'
 version:
   revision_date: '2019-06-05'
 revdate: '2019-06-05'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: working-draft
 copyright:
-  owner:
-    name: CalConnect
+- owner:
+  - name:
+    - CalConnect
   from: '2019'
 doctype: standard
 editorialgroup:
-  name: VCARD
+- name: VCARD

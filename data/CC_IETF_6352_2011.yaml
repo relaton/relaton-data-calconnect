@@ -4,18 +4,22 @@ title:
 - type: title-main
   content: 'CardDAV: vCard Extensions to Web Distributed Authoring and Versioning
     (WebDAV) (IETF RFC 6352)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'CardDAV: vCard Extensions to Web Distributed Authoring and Versioning
     (WebDAV) (IETF RFC 6352)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
-  id: CC/IETF 6352:2011
+- id: CC/IETF 6352:2011
   type: CC
 version:
   revision_date: '2011-08-01'
@@ -23,4 +27,4 @@ revdate: '2011-08-01'
 fetched: '2020-06-23'
 doctype: standard
 editorialgroup:
-  name: CALCONNECT
+- name: CALCONNECT

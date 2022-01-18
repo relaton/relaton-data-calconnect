@@ -3,26 +3,30 @@ id: CC/S0903-2009
 title:
 - type: title-main
   content: Freebusy Read URL V1.0 (CD 0903)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Freebusy Read URL V1.0 (CD 0903)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://standards.calconnect.org/pubdocs/CD0903%20Freebusy%20Read%20URL%20V1.0.pdf
+- content: https://standards.calconnect.org/pubdocs/CD0903%20Freebusy%20Read%20URL%20V1.0.pdf
   type: pdf
 type: standard
 docid:
-  id: CC/S 0903:2009
+- id: CC/S 0903:2009
   type: CC
 version:
   revision_date: '2009-04-15'
 revdate: '2009-04-15'
 abstract:
-  content: This document, developed by the Freebusy Technical Committee, defines a
+- content: This document, developed by the Freebusy Technical Committee, defines a
     standardized form of Freebusy read URL to improve interoperability between client
     and server implementations, while extending the functionality and utility through
     the use of optional parameters.
@@ -30,4 +34,4 @@ abstract:
 fetched: '2020-06-23'
 doctype: specification
 editorialgroup:
-  name: FREEBUSY
+- name: FREEBUSY

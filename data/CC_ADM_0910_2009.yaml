@@ -3,20 +3,24 @@ id: CC/Adm0910-2009
 title:
 - type: title-main
   content: Report on Roundtable XVI (CD 0910)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Report on Roundtable XVI (CD 0910)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://standards.calconnect.org/pubdocs/roundtable16rpt.pdf
+- content: https://standards.calconnect.org/pubdocs/roundtable16rpt.pdf
   type: pdf
 type: standard
 docid:
-  id: CC/Adm 0910:2009
+- id: CC/Adm 0910:2009
   type: CC
 version:
   revision_date: '2009-10-19'
@@ -24,4 +28,4 @@ revdate: '2009-10-19'
 fetched: '2020-06-23'
 doctype: administrative
 editorialgroup:
-  name: CALCONNECT
+- name: CALCONNECT

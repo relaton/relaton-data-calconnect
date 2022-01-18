@@ -4,27 +4,31 @@ title:
 - type: title-main
   content: State of Resource Interoperability for Calendaring, Groupware, and Project
     (CD 0905) Management V1.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: State of Resource Interoperability for Calendaring, Groupware, and Project
     (CD 0905) Management V1.0
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://standards.calconnect.org/pubdocs/CD0905%20State%20of%20Resource%20Interoperability%20V1.0.pdf
+- content: https://standards.calconnect.org/pubdocs/CD0905%20State%20of%20Resource%20Interoperability%20V1.0.pdf
   type: pdf
 type: standard
 docid:
-  id: CC/R 0905:2009
+- id: CC/R 0905:2009
   type: CC
 version:
   revision_date: '2009-06-10'
 revdate: '2009-06-10'
 abstract:
-  content: This document was created by the USECASE Technical Committee of the Calendaring
+- content: This document was created by the USECASE Technical Committee of the Calendaring
     and Scheduling Consortium. This document is a survey of the present state of resource
     interoperability for a representative sample of calendaring, groupware, and project
     management applications. \"Interoperability of resources\" within the domains
@@ -35,4 +39,4 @@ abstract:
 fetched: '2020-06-23'
 doctype: report
 editorialgroup:
-  name: USECASE
+- name: USECASE

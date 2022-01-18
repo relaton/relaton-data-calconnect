@@ -1,10 +1,11 @@
 ---
 id: CC/Adv18018-2018
 title:
-  content: 'CalConnect calls on EU to reconsider timeline for proposed seasonal time
+- content: 'CalConnect calls on EU to reconsider timeline for proposed seasonal time
     changes: Workshop and mailing list announced to discuss technical impact of planned
     changes'
-  language: en
+  language:
+  - en
   format: text/plain
 link:
 - content: https://standards.calconnect.org/csd/cc-18018.xml
@@ -19,32 +20,39 @@ link:
   type: rxl
 type: standard
 docid:
-  id: CC/Adv 18018:2018
+- id: CC/Adv 18018:2018
   type: csd
 docnumber: '18018'
 date:
-  type: published
+- type: published
   value: '2018-10-30'
 contributor:
 - organization:
-    name: CalConnect
-  role: author
+    name:
+    - CalConnect
+  role:
+  - author
 - organization:
-    name: CalConnect
-  role: publisher
+    name:
+    - CalConnect
+  role:
+  - publisher
 edition: '1'
 version:
   revision_date: '2018-10-30'
 revdate: '2018-10-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
 copyright:
-  owner:
-    name: CalConnect
+- owner:
+  - name:
+    - CalConnect
   from: '2018'
 doctype: advisory
 editorialgroup:
-  name: Ad Hoc EU Time
+- name: Ad Hoc EU Time

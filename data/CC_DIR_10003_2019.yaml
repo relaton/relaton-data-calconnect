@@ -1,8 +1,9 @@
 ---
 id: CC/DIR10003-2019
 title:
-  content: 'CalConnect Directive: Patent policy'
-  language: en
+- content: 'CalConnect Directive: Patent policy'
+  language:
+  - en
   format: text/plain
 link:
 - content: https://standards.calconnect.org/csd/cc-10003.xml
@@ -17,32 +18,39 @@ link:
   type: rxl
 type: standard
 docid:
-  id: CC/DIR 10003:2019
+- id: CC/DIR 10003:2019
   type: csd
 docnumber: '10003'
 date:
-  type: published
+- type: published
   value: '2019-01-18'
 contributor:
 - organization:
-    name: CalConnect
-  role: author
+    name:
+    - CalConnect
+  role:
+  - author
 - organization:
-    name: CalConnect
-  role: publisher
+    name:
+    - CalConnect
+  role:
+  - publisher
 edition: '1'
 version:
   revision_date: '2019-01-18'
 revdate: '2019-01-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
 copyright:
-  owner:
-    name: CalConnect
+- owner:
+  - name:
+    - CalConnect
   from: '2019'
 doctype: directive
 editorialgroup:
-  name: PUBLISH
+- name: PUBLISH

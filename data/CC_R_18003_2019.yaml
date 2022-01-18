@@ -1,8 +1,9 @@
 ---
 id: CC/R18003-2019
 title:
-  content: Calendar operator practices — Guidelines to protect against calendar abuse
-  language: en
+- content: Calendar operator practices — Guidelines to protect against calendar abuse
+  language:
+  - en
   format: text/plain
 link:
 - content: https://standards.calconnect.org/csd/cc-18003.xml
@@ -17,41 +18,50 @@ link:
   type: rxl
 type: standard
 docid:
-  id: CC/R 18003:2019
+- id: CC/R 18003:2019
   type: csd
 docnumber: '18003'
 date:
-  type: published
+- type: published
   value: '2019-01-18'
 contributor:
 - organization:
-    name: CalConnect
-  role: author
+    name:
+    - CalConnect
+  role:
+  - author
 - person:
     name:
       completename: Thomas Schäfer, 1&amp;1 Mail&amp;Media Development and Technology
         GmbH
-  role: author
+  role:
+  - author
 - person:
     name:
       completename: Jesse Thompson, University of Wisconsin-Madison
-  role: author
+  role:
+  - author
 - organization:
-    name: CalConnect
-  role: publisher
+    name:
+    - CalConnect
+  role:
+  - publisher
 edition: '1'
 version:
   revision_date: '2019-01-18'
 revdate: '2019-01-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
 copyright:
-  owner:
-    name: CalConnect
+- owner:
+  - name:
+    - CalConnect
   from: '2019'
 doctype: report
 editorialgroup:
-  name: CALSPAM
+- name: CALSPAM

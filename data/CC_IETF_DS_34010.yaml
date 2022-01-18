@@ -3,17 +3,21 @@ id: CC/IETF/DS34010
 title:
 - type: title-main
   content: The Time Zone Information Format (TZif)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: The Time Zone Information Format (TZif)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
-  id: CC/IETF/DS 34010
+- id: CC/IETF/DS 34010
   type: CC
 version:
   revision_date: '2017-11-26'
@@ -21,4 +25,4 @@ revdate: '2017-11-26'
 fetched: '2020-06-23'
 doctype: standard
 editorialgroup:
-  name: CALENDAR
+- name: CALENDAR

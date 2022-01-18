@@ -3,26 +3,30 @@ id: CC/R1012-2011
 title:
 - type: title-main
   content: An Introduction to Internet Calendaring and Scheduling V1.1 (CD 1012)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: An Introduction to Internet Calendaring and Scheduling V1.1 (CD 1012)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
-  id: CC/R 1012:2011
+- id: CC/R 1012:2011
   type: CC
 version:
   revision_date: '2011-10-20'
 revdate: '2011-10-20'
 abstract:
-  content: This CalConnect guide introduces internet calendaring and the major standards
+- content: This CalConnect guide introduces internet calendaring and the major standards
     and specifications related to calendaring and scheduling.
   format: text/plain
 fetched: '2020-06-23'
 doctype: report
 editorialgroup:
-  name: CALCONNECT
+- name: CALCONNECT

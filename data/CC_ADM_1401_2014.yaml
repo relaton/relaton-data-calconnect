@@ -3,20 +3,24 @@ id: CC/Adm1401-2014
 title:
 - type: title-main
   content: Report on Roundtable XXIX (CD 1401)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: Report on Roundtable XXIX (CD 1401)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://standards.calconnect.org/pubdocs/roundtable29rpt.pdf
+- content: https://standards.calconnect.org/pubdocs/roundtable29rpt.pdf
   type: pdf
 type: standard
 docid:
-  id: CC/Adm 1401:2014
+- id: CC/Adm 1401:2014
   type: CC
 version:
   revision_date: '2014-02-26'
@@ -24,4 +28,4 @@ revdate: '2014-02-26'
 fetched: '2020-06-23'
 doctype: administrative
 editorialgroup:
-  name: CALCONNECT
+- name: CALCONNECT

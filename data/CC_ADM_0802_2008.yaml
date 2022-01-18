@@ -3,20 +3,24 @@ id: CC/Adm0802-2008
 title:
 - type: title-main
   content: February 2008 CalConnect Interoperability Test Report V2.0 (CD 0802)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: February 2008 CalConnect Interoperability Test Report V2.0 (CD 0802)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: https://standards.calconnect.org/pubdocs/CD0802%20February%202008%20CalConnect%20Interoperability%20Test%20Report%20V2.0.pdf
+- content: https://standards.calconnect.org/pubdocs/CD0802%20February%202008%20CalConnect%20Interoperability%20Test%20Report%20V2.0.pdf
   type: pdf
 type: standard
 docid:
-  id: CC/Adm 0802:2008
+- id: CC/Adm 0802:2008
   type: CC
 version:
   revision_date: '2008-04-09'
@@ -24,4 +28,4 @@ revdate: '2008-04-09'
 fetched: '2020-06-23'
 doctype: administrative
 editorialgroup:
-  name: IOPTEST
+- name: IOPTEST

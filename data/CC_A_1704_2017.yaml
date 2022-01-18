@@ -1,8 +1,9 @@
 ---
 id: CC/A1704-2017
 title:
-  content: Report on Test Event and Developers Forum XXXIX, June 12-14, 2017
-  language: en
+- content: Report on Test Event and Developers Forum XXXIX, June 12-14, 2017
+  language:
+  - en
   format: text/plain
 link:
 - content: https://standards.calconnect.org/csd/csd-report-ioptestevent-39.xml
@@ -17,32 +18,39 @@ link:
   type: rxl
 type: standard
 docid:
-  id: CC/A 1704:2017
+- id: CC/A 1704:2017
   type: csd
 docnumber: '1704'
 date:
-  type: published
+- type: published
   value: '2017-07-21'
 contributor:
 - organization:
-    name: CalConnect
-  role: author
+    name:
+    - CalConnect
+  role:
+  - author
 - organization:
-    name: CalConnect
-  role: publisher
+    name:
+    - CalConnect
+  role:
+  - publisher
 edition: '1'
 version:
   revision_date: '2017-07-21'
 revdate: '2017-07-21'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 docstatus:
   stage:
     value: published
 copyright:
-  owner:
-    name: CalConnect
+- owner:
+  - name:
+    - CalConnect
   from: '2017'
 doctype: administrative
 editorialgroup:
-  name: IOPTEST
+- name: IOPTEST

@@ -3,17 +3,21 @@ id: CC/IETF7095-2014
 title:
 - type: title-main
   content: 'jCard: The JSON Format for vCard  (IETF RFC 7095)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 - type: main
   content: 'jCard: The JSON Format for vCard  (IETF RFC 7095)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
-  id: CC/IETF 7095:2014
+- id: CC/IETF 7095:2014
   type: CC
 version:
   revision_date: '2014-01-16'
@@ -21,4 +25,4 @@ revdate: '2014-01-16'
 fetched: '2020-06-23'
 doctype: standard
 editorialgroup:
-  name: CALCONNECT
+- name: CALCONNECT

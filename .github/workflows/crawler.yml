@@ -20,7 +20,9 @@ jobs:
         run: |
           gem install relaton-cli
       - name: Fetch documents
-        run: relaton fetch-data calconnect-org
+        run: |
+          rm -f data/*
+          relaton fetch-data calconnect-org
       - name: Push data
         run: |
           echo `date` > flag.txt

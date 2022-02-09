@@ -20,6 +20,7 @@ type: standard
 docid:
 - id: CC/A 1706:2017
   type: csd
+  primary: true
 docnumber: '1706'
 date:
 - type: published

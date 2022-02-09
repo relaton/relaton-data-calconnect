@@ -33,6 +33,7 @@ type: standard
 docid:
 - id: CC/ISO/NP 56100
   type: CC
+  primary: true
 version:
   revision_date: '2020-06-10'
 revdate: '2020-06-10'

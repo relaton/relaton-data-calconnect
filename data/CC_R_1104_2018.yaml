@@ -19,6 +19,7 @@ type: standard
 docid:
 - id: CC/R 1104:2018
   type: CC
+  primary: true
 version:
   revision_date: '2018-06-22'
 revdate: '2018-06-22'

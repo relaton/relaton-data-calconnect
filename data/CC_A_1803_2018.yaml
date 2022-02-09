@@ -20,6 +20,7 @@ type: standard
 docid:
 - id: CC/A 1803:2018
   type: csd
+  primary: true
 docnumber: '1803'
 date:
 - type: published

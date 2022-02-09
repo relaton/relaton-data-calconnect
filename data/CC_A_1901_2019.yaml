@@ -20,6 +20,7 @@ type: standard
 docid:
 - id: CC/A 1901:2019
   type: csd
+  primary: true
 docnumber: '1901'
 date:
 - type: published

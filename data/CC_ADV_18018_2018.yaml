@@ -22,6 +22,7 @@ type: standard
 docid:
 - id: CC/Adv 18018:2018
   type: csd
+  primary: true
 docnumber: '18018'
 date:
 - type: published

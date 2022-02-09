@@ -19,6 +19,7 @@ type: standard
 docid:
 - id: CC/IETF 7808:2010
   type: CC
+  primary: true
 version:
   revision_date: '2016-03-01'
 revdate: '2016-03-01'

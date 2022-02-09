@@ -22,6 +22,7 @@ type: standard
 docid:
 - id: CC/Adm 0614:2006
   type: CC
+  primary: true
 version:
   revision_date: '2006-05-23'
 revdate: '2006-05-23'

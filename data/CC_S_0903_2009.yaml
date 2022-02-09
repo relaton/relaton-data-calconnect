@@ -22,6 +22,7 @@ type: standard
 docid:
 - id: CC/S 0903:2009
   type: CC
+  primary: true
 version:
   revision_date: '2009-04-15'
 revdate: '2009-04-15'

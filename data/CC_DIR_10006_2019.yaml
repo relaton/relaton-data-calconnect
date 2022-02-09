@@ -20,6 +20,7 @@ type: standard
 docid:
 - id: CC/DIR 10006:2019
   type: csd
+  primary: true
 docnumber: '10006'
 date:
 - type: published

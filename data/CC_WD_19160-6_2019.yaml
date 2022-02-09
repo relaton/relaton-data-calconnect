@@ -20,6 +20,7 @@ type: standard
 docid:
 - id: CC/WD 19160-6:2019
   type: csd
+  primary: true
 docnumber: 19160-6
 date:
 - type: published

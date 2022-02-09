@@ -21,6 +21,7 @@ type: standard
 docid:
 - id: CC/FDS 10010:2019
   type: csd
+  primary: true
 docnumber: '10010'
 date:
 - type: published

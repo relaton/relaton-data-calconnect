@@ -21,6 +21,7 @@ type: standard
 docid:
 - id: CC/R 10100:2019
   type: csd
+  primary: true
 docnumber: '10100'
 date:
 - type: published

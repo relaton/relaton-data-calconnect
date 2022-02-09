@@ -19,6 +19,7 @@ type: standard
 docid:
 - id: CC/R 1102:2013
   type: CC
+  primary: true
 version:
   revision_date: '2013-05-02'
 revdate: '2013-05-02'

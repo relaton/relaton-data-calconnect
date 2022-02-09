@@ -19,6 +19,7 @@ type: standard
 docid:
 - id: CC/IETF/DS 34010
   type: CC
+  primary: true
 version:
   revision_date: '2017-11-26'
 revdate: '2017-11-26'

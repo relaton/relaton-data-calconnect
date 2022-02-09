@@ -22,6 +22,7 @@ type: standard
 docid:
 - id: CC/Adm 1305:2013
   type: CC
+  primary: true
 version:
   revision_date: '2013-07-10'
 revdate: '2013-07-10'

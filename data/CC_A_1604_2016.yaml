@@ -20,6 +20,7 @@ type: standard
 docid:
 - id: CC/A 1604:2016
   type: csd
+  primary: true
 docnumber: '1604'
 date:
 - type: published

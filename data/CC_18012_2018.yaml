@@ -20,6 +20,7 @@ type: standard
 docid:
 - id: CC 18012:2018
   type: csd
+  primary: true
 docnumber: '18012'
 date:
 - type: published

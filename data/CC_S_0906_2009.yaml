@@ -24,7 +24,7 @@ docid:
   type: CC
   primary: true
 version:
-  revision_date: '2009-06-10'
+- revision_date: '2009-06-10'
 revdate: '2009-06-10'
 abstract:
 - content: This document was created by the USECASE Technical Committee of the Calendaring

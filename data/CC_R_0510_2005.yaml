@@ -24,7 +24,7 @@ docid:
   type: CC
   primary: true
 version:
-  revision_date: '2005-10-03'
+- revision_date: '2005-10-03'
 revdate: '2005-10-03'
 abstract:
 - content: This document is one in a series of documents summarizing the results of

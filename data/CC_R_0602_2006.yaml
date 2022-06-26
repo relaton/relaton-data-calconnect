@@ -24,7 +24,7 @@ docid:
   type: CC
   primary: true
 version:
-  revision_date: '2006-01-24'
+- revision_date: '2006-01-24'
 revdate: '2006-01-24'
 abstract:
 - content: This document was created by the TIMEZONE Technical Committee of the Calendaring

@@ -24,7 +24,7 @@ docid:
   type: CC
   primary: true
 version:
-  revision_date: '2006-04-17'
+- revision_date: '2006-04-17'
 revdate: '2006-04-17'
 abstract:
 - content: This document contains technical recommendations on implementing a time

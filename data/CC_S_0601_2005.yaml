@@ -24,7 +24,7 @@ docid:
   type: CC
   primary: true
 version:
-  revision_date: '2005-11-30'
+- revision_date: '2005-11-30'
 revdate: '2005-11-30'
 fetched: '2020-06-23'
 doctype: specification

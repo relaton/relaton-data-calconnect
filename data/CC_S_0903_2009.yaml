@@ -24,7 +24,7 @@ docid:
   type: CC
   primary: true
 version:
-  revision_date: '2009-04-15'
+- revision_date: '2009-04-15'
 revdate: '2009-04-15'
 abstract:
 - content: This document, developed by the Freebusy Technical Committee, defines a

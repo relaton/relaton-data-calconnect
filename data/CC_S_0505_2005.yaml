@@ -24,7 +24,7 @@ docid:
   type: CC
   primary: true
 version:
-  revision_date: '2005-09-26'
+- revision_date: '2005-09-26'
 revdate: '2005-09-26'
 abstract:
 - content: The Recurrence Technical Committee of The Calendaring and Scheduling Consortium

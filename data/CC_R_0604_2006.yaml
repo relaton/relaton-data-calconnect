@@ -24,7 +24,7 @@ docid:
   type: CC
   primary: true
 version:
-  revision_date: '2006-03-16'
+- revision_date: '2006-03-16'
 revdate: '2006-03-16'
 abstract:
 - content: This document contains information about recurrence implementation issues

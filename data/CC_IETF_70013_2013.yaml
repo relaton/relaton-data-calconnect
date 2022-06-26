@@ -21,7 +21,7 @@ docid:
   type: CC
   primary: true
 version:
-  revision_date: '2013-01-25'
+- revision_date: '2013-01-25'
 revdate: '2013-01-25'
 fetched: '2020-06-23'
 doctype: standard

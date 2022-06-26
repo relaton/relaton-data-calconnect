@@ -21,7 +21,7 @@ docid:
   type: CC
   primary: true
 version:
-  revision_date: '2013-05-02'
+- revision_date: '2013-05-02'
 revdate: '2013-05-02'
 abstract:
 - content: A Glossary of Calendaring and Scheduling Terms.

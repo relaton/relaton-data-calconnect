@@ -36,9 +36,10 @@ contributor:
     - CalConnect
   role:
   - publisher
-edition: '1'
+edition:
+  content: '1'
 version:
-  revision_date: '2007-10-04T00:00:00Z'
+- revision_date: '2007-10-04T00:00:00Z'
 revdate: '2007-10-04T00:00:00Z'
 language:
 - en

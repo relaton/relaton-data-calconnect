@@ -24,7 +24,7 @@ docid:
   type: CC
   primary: true
 version:
-  revision_date: '2007-07-11'
+- revision_date: '2007-07-11'
 revdate: '2007-07-11'
 abstract:
 - content: This document was created by the CalDAV Technical Committee of the Calendaring

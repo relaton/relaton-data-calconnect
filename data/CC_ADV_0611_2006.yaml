@@ -24,7 +24,7 @@ docid:
   type: CC
   primary: true
 version:
-  revision_date: '2006-11-27'
+- revision_date: '2006-11-27'
 revdate: '2006-11-27'
 abstract:
 - content: 'This document, prepared by the Mobile Technical Committee, discusses the

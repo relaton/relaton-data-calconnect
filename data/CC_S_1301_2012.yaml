@@ -24,7 +24,7 @@ docid:
   type: CC
   primary: true
 version:
-  revision_date: '2013-01-10'
+- revision_date: '2013-01-10'
 revdate: '2013-01-10'
 abstract:
 - content: "This document, developed by the XML Technical Committee, specifies a SOAP

@@ -1,0 +1,29 @@
+---
+id: CC/IETF7986-2010
+title:
+- type: title-main
+  content: New Properties for iCalendar (IETF RFC 7986)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: New Properties for iCalendar (IETF RFC 7986)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: CC/IETF 7986:2010
+  type: CC
+  primary: true
+version:
+- revision_date: '2010-02-26'
+revdate: '2010-02-26'
+fetched: '2020-06-23'
+doctype: standard
+editorialgroup:
+- name: EVENTPUB

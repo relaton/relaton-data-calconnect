@@ -1,0 +1,29 @@
+---
+id: CC/IETF6868-2013
+title:
+- type: title-main
+  content: Parameter Value Encoding in iCalendar and vCard (IETF RFC 6868)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: Parameter Value Encoding in iCalendar and vCard (IETF RFC 6868)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: CC/IETF 6868:2013
+  type: CC
+  primary: true
+version:
+- revision_date: '2013-02-01'
+revdate: '2013-02-01'
+fetched: '2020-06-23'
+doctype: standard
+editorialgroup:
+- name: CALDAV

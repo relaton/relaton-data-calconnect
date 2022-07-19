@@ -1,0 +1,29 @@
+---
+id: CC/IETF70012-2013
+title:
+- type: title-main
+  content: Objectclass Property for vCard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: Objectclass Property for vCard
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: CC/IETF 70012:2013
+  type: CC
+  primary: true
+version:
+- revision_date: '2013-01-24'
+revdate: '2013-01-24'
+fetched: '2020-06-23'
+doctype: standard
+editorialgroup:
+- name: RESOURCE

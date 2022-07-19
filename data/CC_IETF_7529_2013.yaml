@@ -1,0 +1,29 @@
+---
+id: CC/IETF7529-2013
+title:
+- type: title-main
+  content: Non-Gregorian Recurrence Rules in iCalendar (RSCALE) (IETF RFC 7529)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: Non-Gregorian Recurrence Rules in iCalendar (RSCALE) (IETF RFC 7529)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: CC/IETF 7529:2013
+  type: CC
+  primary: true
+version:
+- revision_date: '2013-04-26'
+revdate: '2013-04-26'
+fetched: '2020-06-23'
+doctype: standard
+editorialgroup:
+- name: ADHOC CALSCALE

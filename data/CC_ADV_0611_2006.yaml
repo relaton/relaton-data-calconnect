@@ -1,0 +1,40 @@
+---
+id: CC/Adv0611-2006
+title:
+- type: title-main
+  content: The Benefits of iCalendar for the Mobile Industry V1.0 (CD 0611)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: The Benefits of iCalendar for the Mobile Industry V1.0 (CD 0611)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://standards.calconnect.org/pubdocs/CD0611%20The%20Benefits%20of%20iCalendar%20for%20the%20Mobile%20Industry%20V1.0.pdf
+  type: pdf
+type: standard
+docid:
+- id: CC/Adv 0611:2006
+  type: CC
+  primary: true
+version:
+- revision_date: '2006-11-27'
+revdate: '2006-11-27'
+abstract:
+- content: 'This document, prepared by the Mobile Technical Committee, discusses the
+    benefits and value of converting to the iCalendar specification from its early
+    predecessor, vCalendar, still widely in use in the mobile and travel industries.
+    The document draws upon results from the Mobile Calendaring Questionnaires conducted
+    earlier this year by TC Mobile; see Mobile Calendaring Questionnaire V2 Results:
+    CD 0609.'
+  format: text/plain
+fetched: '2020-06-23'
+doctype: advisory
+editorialgroup:
+- name: MOBILE

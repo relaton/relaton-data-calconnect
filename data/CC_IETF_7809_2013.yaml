@@ -1,0 +1,29 @@
+---
+id: CC/IETF7809-2013
+title:
+- type: title-main
+  content: 'CalDAV: Timezones by Reference (IETF RFC 7809)'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: 'CalDAV: Timezones by Reference (IETF RFC 7809)'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: CC/IETF 7809:2013
+  type: CC
+  primary: true
+version:
+- revision_date: '2013-08-26'
+revdate: '2013-08-26'
+fetched: '2020-06-23'
+doctype: standard
+editorialgroup:
+- name: TIMEZONE

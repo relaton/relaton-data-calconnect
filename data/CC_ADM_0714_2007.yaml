@@ -1,0 +1,34 @@
+---
+id: CC/Adm0714-2007
+title:
+- type: title-main
+  content: "VCARD WKSP\tReport on CalConnect vCard Workshop September 18 2007 (CD
+    0714)"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: "VCARD WKSP\tReport on CalConnect vCard Workshop September 18 2007 (CD
+    0714)"
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://standards.calconnect.org/pubdocs/vcardworkshopreport.pdf
+  type: pdf
+type: standard
+docid:
+- id: CC/Adm 0714:2007
+  type: CC
+  primary: true
+version:
+- revision_date: '2007-09-18'
+revdate: '2007-09-18'
+fetched: '2020-06-23'
+doctype: administrative
+editorialgroup:
+- name: ''

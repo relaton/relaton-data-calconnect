@@ -1,0 +1,29 @@
+---
+id: CC/IETF70026-2018
+title:
+- type: title-main
+  content: 'JSCalendar: A JSON representation of calendar data'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: 'JSCalendar: A JSON representation of calendar data'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: CC/IETF 70026:2018
+  type: CC
+  primary: true
+version:
+- revision_date: '2018-11-05'
+revdate: '2018-11-05'
+fetched: '2020-06-23'
+doctype: standard
+editorialgroup:
+- name: CALENDAR

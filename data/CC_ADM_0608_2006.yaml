@@ -1,0 +1,32 @@
+---
+id: CC/Adm0608-2006
+title:
+- type: title-main
+  content: The Open Group Federated Freebusy Challenge Demo V1.0 (CD 0608)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: The Open Group Federated Freebusy Challenge Demo V1.0 (CD 0608)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://standards.calconnect.org/pubdocs/CD0608%20The%20Open%20Group%20Federated%20Freebusy%20Challenge%20Demo%20V1.0.pdf
+  type: pdf
+type: standard
+docid:
+- id: CC/Adm 0608:2006
+  type: CC
+  primary: true
+version:
+- revision_date: '2006-07-17'
+revdate: '2006-07-17'
+fetched: '2020-06-23'
+doctype: administrative
+editorialgroup:
+- name: FREEBUSY

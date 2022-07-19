@@ -1,0 +1,31 @@
+---
+id: CC/IETF70010-2012
+title:
+- type: title-main
+  content: Use of the Prefer Header Field in Web Distributed Authoring and Versioning
+    (WebDAV)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: Use of the Prefer Header Field in Web Distributed Authoring and Versioning
+    (WebDAV)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: CC/IETF 70010:2012
+  type: CC
+  primary: true
+version:
+- revision_date: '2012-09-27'
+revdate: '2012-09-27'
+fetched: '2020-06-23'
+doctype: standard
+editorialgroup:
+- name: CALDAV

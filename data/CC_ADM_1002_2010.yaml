@@ -1,0 +1,32 @@
+---
+id: CC/Adm1002-2010
+title:
+- type: title-main
+  content: February 2010 CalConnect Interoperability Test Report V1.1 (CD 1002)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: February 2010 CalConnect Interoperability Test Report V1.1 (CD 1002)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://standards.calconnect.org/pubdocs/CD1002%20February%202010%20CalConnect%20Interoperability%20Test%20Report%20V1.1.pdf
+  type: pdf
+type: standard
+docid:
+- id: CC/Adm 1002:2010
+  type: CC
+  primary: true
+version:
+- revision_date: '2010-03-25'
+revdate: '2010-03-25'
+fetched: '2020-06-23'
+doctype: administrative
+editorialgroup:
+- name: IOPTEST

@@ -1,0 +1,29 @@
+---
+id: CC/Adm0812-2008
+title:
+- type: title-main
+  content: Meet CalConnect 2008 (CD 0812)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: Meet CalConnect 2008 (CD 0812)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+type: standard
+docid:
+- id: CC/Adm 0812:2008
+  type: CC
+  primary: true
+version:
+- revision_date: '2008-11-07'
+revdate: '2008-11-07'
+fetched: '2020-06-23'
+doctype: administrative
+editorialgroup:
+- name: CALCONNECT

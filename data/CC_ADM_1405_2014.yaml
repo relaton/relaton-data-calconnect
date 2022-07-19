@@ -1,0 +1,32 @@
+---
+id: CC/Adm1405-2014
+title:
+- type: title-main
+  content: Report on CalConnect Conference XXX (CD 1405)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: Report on CalConnect Conference XXX (CD 1405)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://standards.calconnect.org/pubdocs/conference30rpt.pdf
+  type: pdf
+type: standard
+docid:
+- id: CC/Adm 1405:2014
+  type: CC
+  primary: true
+version:
+- revision_date: '2014-06-09'
+revdate: '2014-06-09'
+fetched: '2020-06-23'
+doctype: administrative
+editorialgroup:
+- name: CALCONNECT

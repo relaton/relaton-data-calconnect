@@ -1,0 +1,32 @@
+---
+id: CC/Adm0501-2005
+title:
+- type: title-main
+  content: January 2005 CalConnect Interoperability Test Scenarios V1.0 (CD 0501)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: January 2005 CalConnect Interoperability Test Scenarios V1.0 (CD 0501)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://standards.calconnect.org/pubdocs/CD0501%20January%202005%20CalConnect%20Interoperability%20Test%20Scenarios%20V1.0.pdf
+  type: pdf
+type: standard
+docid:
+- id: CC/Adm 0501:2005
+  type: CC
+  primary: true
+version:
+- revision_date: '2005-01-12'
+revdate: '2005-01-12'
+fetched: '2020-06-23'
+doctype: administrative
+editorialgroup:
+- name: IOPTEST

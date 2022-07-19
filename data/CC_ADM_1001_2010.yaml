@@ -1,0 +1,32 @@
+---
+id: CC/Adm1001-2010
+title:
+- type: title-main
+  content: Report on Roundtable XVII (CD 1001)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: Report on Roundtable XVII (CD 1001)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://standards.calconnect.org/pubdocs/roundtable17rpt.pdf
+  type: pdf
+type: standard
+docid:
+- id: CC/Adm 1001:2010
+  type: CC
+  primary: true
+version:
+- revision_date: '2010-02-10'
+revdate: '2010-02-10'
+fetched: '2020-06-23'
+doctype: administrative
+editorialgroup:
+- name: CALCONNECT

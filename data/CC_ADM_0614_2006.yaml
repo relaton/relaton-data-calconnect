@@ -1,0 +1,32 @@
+---
+id: CC/Adm0614-2006
+title:
+- type: title-main
+  content: Report on Roundtable VI (CD 0614)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: Report on Roundtable VI (CD 0614)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://standards.calconnect.org/pubdocs/roundtable6rpt.pdf
+  type: pdf
+type: standard
+docid:
+- id: CC/Adm 0614:2006
+  type: CC
+  primary: true
+version:
+- revision_date: '2006-05-23'
+revdate: '2006-05-23'
+fetched: '2020-06-23'
+doctype: administrative
+editorialgroup:
+- name: CALCONNECT

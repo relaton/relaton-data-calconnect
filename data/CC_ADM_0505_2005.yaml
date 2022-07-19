@@ -1,0 +1,32 @@
+---
+id: CC/Adm0505-2005
+title:
+- type: title-main
+  content: Results from First Recurrence Questionnaire V1.0 (CD 0505)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+- type: main
+  content: Results from First Recurrence Questionnaire V1.0 (CD 0505)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://standards.calconnect.org/pubdocs/CD0505%20Results%20from%20First%20Recurrence%20Questionnaire%20V1.0.pdf
+  type: pdf
+type: standard
+docid:
+- id: CC/Adm 0505:2005
+  type: CC
+  primary: true
+version:
+- revision_date: '2005-07-21'
+revdate: '2005-07-21'
+fetched: '2020-06-23'
+doctype: administrative
+editorialgroup:
+- name: RECURR

@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70019-2015
 title:
-- type: title-main
-  content: 'v-event URI: An URI scheme for events'
+- content: 'v-event URI: An URI scheme for events'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'v-event URI: An URI scheme for events'
+  type: title-main
+- content: 'v-event URI: An URI scheme for events'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70019:2015

@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70027-2010
 title:
-- type: title-main
-  content: LINK Property Extension to iCalendar (Obsolete)
+- content: LINK Property Extension to iCalendar (Obsolete)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: LINK Property Extension to iCalendar (Obsolete)
+  type: title-main
+- content: LINK Property Extension to iCalendar (Obsolete)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70027:2010

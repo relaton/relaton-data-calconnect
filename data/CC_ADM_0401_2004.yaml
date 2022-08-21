@@ -1,22 +1,22 @@
 ---
 id: CC/Adm0401-2004
 title:
-- type: title-main
-  content: July 2004 CalConnect Interoperability Test Rules and Test Scenarios V1.0
+- content: July 2004 CalConnect Interoperability Test Rules and Test Scenarios V1.0
     (CD 0401)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: July 2004 CalConnect Interoperability Test Rules and Test Scenarios V1.0
+  type: title-main
+- content: July 2004 CalConnect Interoperability Test Rules and Test Scenarios V1.0
     (CD 0401)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0401%20July%202004%20CalConnect%20Interoperability%20Test%20Rules%20and%20Test%20Scenarios%20V1.0.pdf
   type: pdf

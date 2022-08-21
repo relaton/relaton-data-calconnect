@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0712-2007
 title:
-- type: title-main
-  content: Report on Roundtable IX (CD 0712)
+- content: Report on Roundtable IX (CD 0712)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable IX (CD 0712)
+  type: title-main
+- content: Report on Roundtable IX (CD 0712)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable9rpt.pdf
   type: pdf

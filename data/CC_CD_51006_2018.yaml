@@ -28,27 +28,30 @@ date:
 contributor:
 - organization:
     name:
-    - CalConnect
+    - content: CalConnect
   role:
   - author
 - person:
     name:
-      completename: Eric York
+      completename:
+        content: Eric York
   role:
   - author
 - person:
     name:
-      completename: Cyrus Daboo
+      completename:
+        content: Cyrus Daboo
   role:
   - author
 - person:
     name:
-      completename: Michael Douglass
+      completename:
+        content: Michael Douglass
   role:
   - author
 - organization:
     name:
-    - CalConnect
+    - content: CalConnect
   role:
   - publisher
 edition:
@@ -66,7 +69,7 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - CalConnect
+    - content: CalConnect
   from: '2018'
 doctype: standard
 editorialgroup:

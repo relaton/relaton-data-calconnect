@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1506-2015
 title:
-- type: title-main
-  content: Report on CalConnect Conference XXXIV (CD 1506)
+- content: Report on CalConnect Conference XXXIV (CD 1506)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on CalConnect Conference XXXIV (CD 1506)
+  type: title-main
+- content: Report on CalConnect Conference XXXIV (CD 1506)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/conference34rpt.pdf
   type: pdf

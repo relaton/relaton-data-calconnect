@@ -1,20 +1,20 @@
 ---
 id: CC/IETF7265-2013
 title:
-- type: title-main
-  content: 'jCal: The JSON format for iCalendar (IETF RFC 7265)'
+- content: 'jCal: The JSON format for iCalendar (IETF RFC 7265)'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'jCal: The JSON format for iCalendar (IETF RFC 7265)'
+  type: title-main
+- content: 'jCal: The JSON format for iCalendar (IETF RFC 7265)'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 7265:2013

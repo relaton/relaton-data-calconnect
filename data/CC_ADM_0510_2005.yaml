@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0510-2005
 title:
-- type: title-main
-  content: Report on TIMEZONE Questionnaire Results V1.0 (CD 0510)
+- content: Report on TIMEZONE Questionnaire Results V1.0 (CD 0510)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on TIMEZONE Questionnaire Results V1.0 (CD 0510)
+  type: title-main
+- content: Report on TIMEZONE Questionnaire Results V1.0 (CD 0510)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0510%20Report%20on%20TIMEZONE%20Questionnaire%20Results%20V1.0.pdf
   type: pdf

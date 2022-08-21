@@ -1,22 +1,22 @@
 ---
 id: CC/R0907-2009
 title:
-- type: title-main
-  content: A Recommendation for Minimum Interoperability of Resource Information V1.0
+- content: A Recommendation for Minimum Interoperability of Resource Information V1.0
     (CD 0907)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: A Recommendation for Minimum Interoperability of Resource Information V1.0
+  type: title-main
+- content: A Recommendation for Minimum Interoperability of Resource Information V1.0
     (CD 0907)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0907%20A%20Recommendation%20for%20Minimum%20Interoperability%20of%20Resource%20Information%20V1.0.pdf
   type: pdf

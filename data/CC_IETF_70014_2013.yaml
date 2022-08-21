@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70014-2013
 title:
-- type: title-main
-  content: Improved Support for iCalendar Relationships
+- content: Improved Support for iCalendar Relationships
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Improved Support for iCalendar Relationships
+  type: title-main
+- content: Improved Support for iCalendar Relationships
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70014:2013

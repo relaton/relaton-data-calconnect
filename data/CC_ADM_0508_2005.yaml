@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0508-2005
 title:
-- type: title-main
-  content: Overview of The Calendaring and Scheduling Consortium V1.0 (CD 0508)
+- content: Overview of The Calendaring and Scheduling Consortium V1.0 (CD 0508)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Overview of The Calendaring and Scheduling Consortium V1.0 (CD 0508)
+  type: title-main
+- content: Overview of The Calendaring and Scheduling Consortium V1.0 (CD 0508)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0508%20Overview%20of%20The%20Calendaring%20and%20Scheduling%20Consortium%20V1.0.pdf
   type: pdf

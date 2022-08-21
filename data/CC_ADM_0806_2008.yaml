@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0806-2008
 title:
-- type: title-main
-  content: CalConnect Technical Preview Roundtable XIII V1.0 (CD 0806)
+- content: CalConnect Technical Preview Roundtable XIII V1.0 (CD 0806)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: CalConnect Technical Preview Roundtable XIII V1.0 (CD 0806)
+  type: title-main
+- content: CalConnect Technical Preview Roundtable XIII V1.0 (CD 0806)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0806%20CalConnect%20Technical%20Preview%20Roundtable%20XIII%20V1.0.pdf
   type: pdf

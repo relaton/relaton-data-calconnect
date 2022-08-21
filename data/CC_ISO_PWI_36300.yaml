@@ -1,27 +1,27 @@
 ---
 id: CC/ISO/PWI36300
 title:
-- type: title-intro
-  content: Standardization documents
+- content: Standardization documents
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Representation in XML
+  type: title-intro
+- content: Representation in XML
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Standardization documents – Representation in XML
+  type: title-main
+- content: Standardization documents – Representation in XML
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/ISO/PWI 36300

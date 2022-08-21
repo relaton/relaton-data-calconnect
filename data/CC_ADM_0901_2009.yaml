@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0901-2009
 title:
-- type: title-main
-  content: Report on Roundtable XIV (CD 0901)
+- content: Report on Roundtable XIV (CD 0901)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XIV (CD 0901)
+  type: title-main
+- content: Report on Roundtable XIV (CD 0901)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable14rpt.pdf
   type: pdf

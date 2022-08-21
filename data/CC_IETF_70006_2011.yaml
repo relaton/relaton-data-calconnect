@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70006-2011
 title:
-- type: title-main
-  content: Collected Extensions to CalDAV
+- content: Collected Extensions to CalDAV
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Collected Extensions to CalDAV
+  type: title-main
+- content: Collected Extensions to CalDAV
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70006:2011

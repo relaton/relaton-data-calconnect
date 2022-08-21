@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1204-2012
 title:
-- type: title-main
-  content: Report on Roundtable XXV (CD 1204)
+- content: Report on Roundtable XXV (CD 1204)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XXV (CD 1204)
+  type: title-main
+- content: Report on Roundtable XXV (CD 1204)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable25rpt.pdf
   type: pdf

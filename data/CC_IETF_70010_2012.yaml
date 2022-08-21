@@ -1,22 +1,22 @@
 ---
 id: CC/IETF70010-2012
 title:
-- type: title-main
-  content: Use of the Prefer Header Field in Web Distributed Authoring and Versioning
+- content: Use of the Prefer Header Field in Web Distributed Authoring and Versioning
     (WebDAV)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Use of the Prefer Header Field in Web Distributed Authoring and Versioning
+  type: title-main
+- content: Use of the Prefer Header Field in Web Distributed Authoring and Versioning
     (WebDAV)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70010:2012

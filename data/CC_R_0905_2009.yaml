@@ -1,22 +1,22 @@
 ---
 id: CC/R0905-2009
 title:
-- type: title-main
-  content: State of Resource Interoperability for Calendaring, Groupware, and Project
+- content: State of Resource Interoperability for Calendaring, Groupware, and Project
     (CD 0905) Management V1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: State of Resource Interoperability for Calendaring, Groupware, and Project
+  type: title-main
+- content: State of Resource Interoperability for Calendaring, Groupware, and Project
     (CD 0905) Management V1.0
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0905%20State%20of%20Resource%20Interoperability%20V1.0.pdf
   type: pdf

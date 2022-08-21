@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70021-2016
 title:
-- type: title-main
-  content: CardDAV Address Book Sharing
+- content: CardDAV Address Book Sharing
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: CardDAV Address Book Sharing
+  type: title-main
+- content: CardDAV Address Book Sharing
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70021:2016

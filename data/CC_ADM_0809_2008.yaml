@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0809-2008
 title:
-- type: title-main
-  content: Report on Roundtable XI (CD 0809)
+- content: Report on Roundtable XI (CD 0809)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XI (CD 0809)
+  type: title-main
+- content: Report on Roundtable XI (CD 0809)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable11rpt.pdf
   type: pdf

@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0811-2008
 title:
-- type: title-main
-  content: Report on Roundtable XIII (CD 0811)
+- content: Report on Roundtable XIII (CD 0811)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XIII (CD 0811)
+  type: title-main
+- content: Report on Roundtable XIII (CD 0811)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable13rpt.pdf
   type: pdf

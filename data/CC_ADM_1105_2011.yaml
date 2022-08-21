@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1105-2011
 title:
-- type: title-main
-  content: Report on Roundtable XXI (CD 1105)
+- content: Report on Roundtable XXI (CD 1105)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XXI (CD 1105)
+  type: title-main
+- content: Report on Roundtable XXI (CD 1105)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable21rpt.pdf
   type: pdf

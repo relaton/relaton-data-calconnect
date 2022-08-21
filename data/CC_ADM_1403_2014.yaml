@@ -1,22 +1,22 @@
 ---
 id: CC/Adm1403-2014
 title:
-- type: title-main
-  content: Workshop on the Veterans Administration Scheduling System Challenge (CD
+- content: Workshop on the Veterans Administration Scheduling System Challenge (CD
     1403)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Workshop on the Veterans Administration Scheduling System Challenge (CD
+  type: title-main
+- content: Workshop on the Veterans Administration Scheduling System Challenge (CD
     1403)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/vachallengeworkshopreport.pdf
   type: pdf

@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70023-2017
 title:
-- type: title-main
-  content: Calendar subscription upgrades
+- content: Calendar subscription upgrades
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Calendar subscription upgrades
+  type: title-main
+- content: Calendar subscription upgrades
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70023:2017

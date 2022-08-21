@@ -1,20 +1,20 @@
 ---
 id: CC/Adv0709-2007
 title:
-- type: title-main
-  content: Extended Daylight Savings Time Links, Advisories and Changes (CD 0709)
+- content: Extended Daylight Savings Time Links, Advisories and Changes (CD 0709)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Extended Daylight Savings Time Links, Advisories and Changes (CD 0709)
+  type: title-main
+- content: Extended Daylight Savings Time Links, Advisories and Changes (CD 0709)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/dstlinks.pdf
   type: pdf

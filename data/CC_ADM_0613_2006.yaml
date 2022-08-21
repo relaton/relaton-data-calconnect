@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0613-2006
 title:
-- type: title-main
-  content: Report on Roundtable V (CD 0613)
+- content: Report on Roundtable V (CD 0613)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable V (CD 0613)
+  type: title-main
+- content: Report on Roundtable V (CD 0613)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable5rpt.pdf
   type: pdf

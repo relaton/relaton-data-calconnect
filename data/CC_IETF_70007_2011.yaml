@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70007-2011
 title:
-- type: title-main
-  content: CalDAV Managed Attachments
+- content: CalDAV Managed Attachments
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: CalDAV Managed Attachments
+  type: title-main
+- content: CalDAV Managed Attachments
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70007:2011

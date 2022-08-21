@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0812-2008
 title:
-- type: title-main
-  content: Meet CalConnect 2008 (CD 0812)
+- content: Meet CalConnect 2008 (CD 0812)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Meet CalConnect 2008 (CD 0812)
+  type: title-main
+- content: Meet CalConnect 2008 (CD 0812)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/Adm 0812:2008

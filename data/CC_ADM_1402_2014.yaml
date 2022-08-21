@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1402-2014
 title:
-- type: title-main
-  content: Report on Interoperability Test Event XXIX (CD 1402)
+- content: Report on Interoperability Test Event XXIX (CD 1402)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Interoperability Test Event XXIX (CD 1402)
+  type: title-main
+- content: Report on Interoperability Test Event XXIX (CD 1402)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/ioptestevent29rpt.pdf
   type: pdf

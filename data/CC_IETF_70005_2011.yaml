@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70005-2011
 title:
-- type: title-main
-  content: Event Publishing Extensions to iCalendar
+- content: Event Publishing Extensions to iCalendar
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Event Publishing Extensions to iCalendar
+  type: title-main
+- content: Event Publishing Extensions to iCalendar
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70005:2011

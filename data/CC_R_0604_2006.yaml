@@ -1,20 +1,20 @@
 ---
 id: CC/R0604-2006
 title:
-- type: title-main
-  content: iCalendar Recurrence Problems and Recommendations V1.0 (CD 0604)
+- content: iCalendar Recurrence Problems and Recommendations V1.0 (CD 0604)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: iCalendar Recurrence Problems and Recommendations V1.0 (CD 0604)
+  type: title-main
+- content: iCalendar Recurrence Problems and Recommendations V1.0 (CD 0604)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0604%20iCalendar%20Recurrence%20Problems%20and%20Recommendations%20V1.0.pdf
   type: pdf

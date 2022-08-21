@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70012-2013
 title:
-- type: title-main
-  content: Objectclass Property for vCard
+- content: Objectclass Property for vCard
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Objectclass Property for vCard
+  type: title-main
+- content: Objectclass Property for vCard
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70012:2013

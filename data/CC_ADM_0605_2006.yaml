@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0605-2006
 title:
-- type: title-main
-  content: OMA DS Briefing April 2006 V1.0 (CD 0605)
+- content: OMA DS Briefing April 2006 V1.0 (CD 0605)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: OMA DS Briefing April 2006 V1.0 (CD 0605)
+  type: title-main
+- content: OMA DS Briefing April 2006 V1.0 (CD 0605)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0605%20OMA%20DS%20Briefing%20April%202006%20V1.0.pdf
   type: pdf

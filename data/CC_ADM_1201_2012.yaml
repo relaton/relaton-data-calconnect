@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1201-2012
 title:
-- type: title-main
-  content: Report on Roundtable XXIII (CD 1201)
+- content: Report on Roundtable XXIII (CD 1201)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XXIII (CD 1201)
+  type: title-main
+- content: Report on Roundtable XXIII (CD 1201)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable23rpt.pdf
   type: pdf

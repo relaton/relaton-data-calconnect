@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70018-2015
 title:
-- type: title-main
-  content: DAV Server Information Object
+- content: DAV Server Information Object
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: DAV Server Information Object
+  type: title-main
+- content: DAV Server Information Object
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70018:2015

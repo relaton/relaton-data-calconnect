@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0404-2004
 title:
-- type: title-main
-  content: Report on Roundtable I (CD 0404)
+- content: Report on Roundtable I (CD 0404)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable I (CD 0404)
+  type: title-main
+- content: Report on Roundtable I (CD 0404)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable1rpt.pdf
   type: pdf

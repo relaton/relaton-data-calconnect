@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0512-2005
 title:
-- type: title-main
-  content: Report on Roundtable III (CD 0512)
+- content: Report on Roundtable III (CD 0512)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable III (CD 0512)
+  type: title-main
+- content: Report on Roundtable III (CD 0512)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable3rpt.pdf
   type: pdf

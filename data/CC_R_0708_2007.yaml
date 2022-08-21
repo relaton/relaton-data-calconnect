@@ -1,20 +1,20 @@
 ---
 id: CC/R0708-2007
 title:
-- type: title-main
-  content: Extended Daylight Savings Time Review and Considerations (CD 0708)
+- content: Extended Daylight Savings Time Review and Considerations (CD 0708)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Extended Daylight Savings Time Review and Considerations (CD 0708)
+  type: title-main
+- content: Extended Daylight Savings Time Review and Considerations (CD 0708)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/dstreview.pdf
   type: pdf

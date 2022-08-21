@@ -28,17 +28,18 @@ date:
 contributor:
 - organization:
     name:
-    - CalConnect
+    - content: CalConnect
   role:
   - author
 - person:
     name:
-      completename: Ronald Tse
+      completename:
+        content: Ronald Tse
   role:
   - author
 - organization:
     name:
-    - CalConnect
+    - content: CalConnect
   role:
   - publisher
 edition:
@@ -56,7 +57,7 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - CalConnect
+    - content: CalConnect
   from: '2019'
 doctype: standard
 editorialgroup:

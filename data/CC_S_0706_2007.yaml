@@ -1,20 +1,20 @@
 ---
 id: CC/S0706-2007
 title:
-- type: title-main
-  content: Mobile Calendar Interoperability Test Suite V1.0 (CD 0706)
+- content: Mobile Calendar Interoperability Test Suite V1.0 (CD 0706)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Mobile Calendar Interoperability Test Suite V1.0 (CD 0706)
+  type: title-main
+- content: Mobile Calendar Interoperability Test Suite V1.0 (CD 0706)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0706%20Mobile%20Calendar%20Interoperability%20Test%20Suite%20V1.0.pdf
   type: pdf

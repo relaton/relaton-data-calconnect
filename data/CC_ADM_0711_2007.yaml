@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0711-2007
 title:
-- type: title-main
-  content: Report on Roundtable VIII (CD 0711)
+- content: Report on Roundtable VIII (CD 0711)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable VIII (CD 0711)
+  type: title-main
+- content: Report on Roundtable VIII (CD 0711)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable8rpt.pdf
   type: pdf

@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1014-2011
 title:
-- type: title-main
-  content: October 2010 CalConnect Interoperability Test Event Report V1.0 (CD 1014)
+- content: October 2010 CalConnect Interoperability Test Event Report V1.0 (CD 1014)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: October 2010 CalConnect Interoperability Test Event Report V1.0 (CD 1014)
+  type: title-main
+- content: October 2010 CalConnect Interoperability Test Event Report V1.0 (CD 1014)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD1014%20October%202010%20CalConnect%20Interoperability%20Test%20Event%20Report%20V1.0.pdf
   type: pdf

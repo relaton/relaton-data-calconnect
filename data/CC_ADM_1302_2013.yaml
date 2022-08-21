@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1302-2013
 title:
-- type: title-main
-  content: Report on Roundtable XXVI (CD 1302)
+- content: Report on Roundtable XXVI (CD 1302)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XXVI (CD 1302)
+  type: title-main
+- content: Report on Roundtable XXVI (CD 1302)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable26rpt.pdf
   type: pdf

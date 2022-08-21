@@ -1,20 +1,20 @@
 ---
 id: CC/S0601-2006
 title:
-- type: title-main
-  content: Min-IOP (Minimum Interoperable Subset) Use Cases V1.1 (CD 0601)
+- content: Min-IOP (Minimum Interoperable Subset) Use Cases V1.1 (CD 0601)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Min-IOP (Minimum Interoperable Subset) Use Cases V1.1 (CD 0601)
+  type: title-main
+- content: Min-IOP (Minimum Interoperable Subset) Use Cases V1.1 (CD 0601)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0601%20Min-IOP%20Use%20Cases%20V1.1.pdf
   type: pdf

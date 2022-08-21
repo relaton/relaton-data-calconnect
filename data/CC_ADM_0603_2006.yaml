@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0603-2006
 title:
-- type: title-main
-  content: January 2006 CalConnect Interoperability Test Report V1.0 (CD 0603)
+- content: January 2006 CalConnect Interoperability Test Report V1.0 (CD 0603)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: January 2006 CalConnect Interoperability Test Report V1.0 (CD 0603)
+  type: title-main
+- content: January 2006 CalConnect Interoperability Test Report V1.0 (CD 0603)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0603%20January%202006%20CalConnect%20Interoperability%20Test%20Report%20V1.0.pdf
   type: pdf

@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70003-2010
 title:
-- type: title-main
-  content: Timezone XML Specification
+- content: Timezone XML Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Timezone XML Specification
+  type: title-main
+- content: Timezone XML Specification
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70003:2010

@@ -1,34 +1,34 @@
 ---
 id: CC/ISO/NP56100
 title:
-- type: title-intro
-  content: Directory
+- content: Directory
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Standardized profile
+  type: title-intro
+- content: Standardized profile
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-part
-  content: Personal and organizational information
+  type: title-main
+- content: Personal and organizational information
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Directory – Standardized profile – Personal and organizational information
+  type: title-part
+- content: Directory – Standardized profile – Personal and organizational information
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/ISO/NP 56100

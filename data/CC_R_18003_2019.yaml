@@ -28,23 +28,25 @@ date:
 contributor:
 - organization:
     name:
-    - CalConnect
+    - content: CalConnect
   role:
   - author
 - person:
     name:
-      completename: Thomas Schäfer, 1&amp;1 Mail&amp;Media Development and Technology
-        GmbH
+      completename:
+        content: Thomas Schäfer, 1&amp;1 Mail&amp;Media Development and Technology
+          GmbH
   role:
   - author
 - person:
     name:
-      completename: Jesse Thompson, University of Wisconsin-Madison
+      completename:
+        content: Jesse Thompson, University of Wisconsin-Madison
   role:
   - author
 - organization:
     name:
-    - CalConnect
+    - content: CalConnect
   role:
   - publisher
 edition:
@@ -62,7 +64,7 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - CalConnect
+    - content: CalConnect
   from: '2019'
 doctype: report
 editorialgroup:

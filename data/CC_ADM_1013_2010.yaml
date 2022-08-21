@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1013-2010
 title:
-- type: title-main
-  content: Report on Roundtable XIX (CD 1013)
+- content: Report on Roundtable XIX (CD 1013)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XIX (CD 1013)
+  type: title-main
+- content: Report on Roundtable XIX (CD 1013)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable19rpt.pdf
   type: pdf

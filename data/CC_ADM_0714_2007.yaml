@@ -1,22 +1,22 @@
 ---
 id: CC/Adm0714-2007
 title:
-- type: title-main
-  content: "VCARD WKSP\tReport on CalConnect vCard Workshop September 18 2007 (CD
+- content: "VCARD WKSP\tReport on CalConnect vCard Workshop September 18 2007 (CD
     0714)"
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: "VCARD WKSP\tReport on CalConnect vCard Workshop September 18 2007 (CD
+  type: title-main
+- content: "VCARD WKSP\tReport on CalConnect vCard Workshop September 18 2007 (CD
     0714)"
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/vcardworkshopreport.pdf
   type: pdf

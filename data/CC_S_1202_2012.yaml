@@ -1,20 +1,20 @@
 ---
 id: CC/S1202-2012
 title:
-- type: title-main
-  content: CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0 (CD 1202)
+- content: CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0 (CD 1202)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0 (CD 1202)
+  type: title-main
+- content: CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0 (CD 1202)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD1202%20CalWS-SOAP%20SOAP%20Web%20Services%20Protocol%20for%20Calendaring%20V1.0.pdf
   type: pdf

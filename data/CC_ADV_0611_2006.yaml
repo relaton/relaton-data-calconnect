@@ -1,20 +1,20 @@
 ---
 id: CC/Adv0611-2006
 title:
-- type: title-main
-  content: The Benefits of iCalendar for the Mobile Industry V1.0 (CD 0611)
+- content: The Benefits of iCalendar for the Mobile Industry V1.0 (CD 0611)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: The Benefits of iCalendar for the Mobile Industry V1.0 (CD 0611)
+  type: title-main
+- content: The Benefits of iCalendar for the Mobile Industry V1.0 (CD 0611)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0611%20The%20Benefits%20of%20iCalendar%20for%20the%20Mobile%20Industry%20V1.0.pdf
   type: pdf

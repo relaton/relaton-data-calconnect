@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70022-2016
 title:
-- type: title-main
-  content: The Time Zone Data Distribution Service (TZDIST) Geolocate Extension
+- content: The Time Zone Data Distribution Service (TZDIST) Geolocate Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: The Time Zone Data Distribution Service (TZDIST) Geolocate Extension
+  type: title-main
+- content: The Time Zone Data Distribution Service (TZDIST) Geolocate Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70022:2016

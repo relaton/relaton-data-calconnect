@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1306-2013
 title:
-- type: title-main
-  content: Report on Roundtable XXVIII (CD 1306)
+- content: Report on Roundtable XXVIII (CD 1306)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XXVIII (CD 1306)
+  type: title-main
+- content: Report on Roundtable XXVIII (CD 1306)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable28rpt.pdf
   type: pdf

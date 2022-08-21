@@ -1,20 +1,20 @@
 ---
 id: CC/S0906-2009
 title:
-- type: title-main
-  content: Use Cases for Resources V1.0 (CD 0906)
+- content: Use Cases for Resources V1.0 (CD 0906)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Use Cases for Resources V1.0 (CD 0906)
+  type: title-main
+- content: Use Cases for Resources V1.0 (CD 0906)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0906%20Use%20Cases%20for%20Resources%20V1.0.pdf
   type: pdf

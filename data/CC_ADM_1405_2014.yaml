@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1405-2014
 title:
-- type: title-main
-  content: Report on CalConnect Conference XXX (CD 1405)
+- content: Report on CalConnect Conference XXX (CD 1405)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on CalConnect Conference XXX (CD 1405)
+  type: title-main
+- content: Report on CalConnect Conference XXX (CD 1405)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/conference30rpt.pdf
   type: pdf

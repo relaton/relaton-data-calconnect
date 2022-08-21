@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1103-2011
 title:
-- type: title-main
-  content: Report on Roundtable XX (CD 1103)
+- content: Report on Roundtable XX (CD 1103)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XX (CD 1103)
+  type: title-main
+- content: Report on Roundtable XX (CD 1103)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable20rpt.pdf
   type: pdf

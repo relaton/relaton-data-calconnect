@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70025-2017
 title:
-- type: title-main
-  content: Push Discovery and Notification Dispatch Protocol
+- content: Push Discovery and Notification Dispatch Protocol
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Push Discovery and Notification Dispatch Protocol
+  type: title-main
+- content: Push Discovery and Notification Dispatch Protocol
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70025:2017

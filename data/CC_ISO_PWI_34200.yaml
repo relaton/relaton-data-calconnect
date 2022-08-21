@@ -1,27 +1,27 @@
 ---
 id: CC/ISO/PWI34200
 title:
-- type: title-intro
-  content: Date and time
+- content: Date and time
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Timezones
+  type: title-intro
+- content: Timezones
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Date and time – Timezones
+  type: title-main
+- content: Date and time – Timezones
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/ISO/PWI 34200

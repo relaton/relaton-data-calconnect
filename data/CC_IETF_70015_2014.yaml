@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70015-2014
 title:
-- type: title-main
-  content: 'WebDAV: User Notifications'
+- content: 'WebDAV: User Notifications'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'WebDAV: User Notifications'
+  type: title-main
+- content: 'WebDAV: User Notifications'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70015:2014

@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70016-2014
 title:
-- type: title-main
-  content: WebDAV Resource Sharing
+- content: WebDAV Resource Sharing
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: WebDAV Resource Sharing
+  type: title-main
+- content: WebDAV Resource Sharing
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70016:2014

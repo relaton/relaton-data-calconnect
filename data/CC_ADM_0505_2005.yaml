@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0505-2005
 title:
-- type: title-main
-  content: Results from First Recurrence Questionnaire V1.0 (CD 0505)
+- content: Results from First Recurrence Questionnaire V1.0 (CD 0505)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Results from First Recurrence Questionnaire V1.0 (CD 0505)
+  type: title-main
+- content: Results from First Recurrence Questionnaire V1.0 (CD 0505)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0505%20Results%20from%20First%20Recurrence%20Questionnaire%20V1.0.pdf
   type: pdf

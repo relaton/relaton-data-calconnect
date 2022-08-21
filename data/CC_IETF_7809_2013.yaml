@@ -1,20 +1,20 @@
 ---
 id: CC/IETF7809-2013
 title:
-- type: title-main
-  content: 'CalDAV: Timezones by Reference (IETF RFC 7809)'
+- content: 'CalDAV: Timezones by Reference (IETF RFC 7809)'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'CalDAV: Timezones by Reference (IETF RFC 7809)'
+  type: title-main
+- content: 'CalDAV: Timezones by Reference (IETF RFC 7809)'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 7809:2013

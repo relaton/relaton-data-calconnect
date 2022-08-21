@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1505-2015
 title:
-- type: title-main
-  content: Report on Interoperability Test Event XXXIV (CD 1505)
+- content: Report on Interoperability Test Event XXXIV (CD 1505)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Interoperability Test Event XXXIV (CD 1505)
+  type: title-main
+- content: Report on Interoperability Test Event XXXIV (CD 1505)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/ioptestevent34rpt.pdf
   type: pdf

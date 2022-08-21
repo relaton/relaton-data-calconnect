@@ -1,27 +1,27 @@
 ---
 id: CC/ISO/NP36100
 title:
-- type: title-intro
-  content: Standardization documents
+- content: Standardization documents
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Document metamodel
+  type: title-intro
+- content: Document metamodel
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Standardization documents – Document metamodel
+  type: title-main
+- content: Standardization documents – Document metamodel
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/ISO/NP 36100

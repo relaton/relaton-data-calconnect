@@ -1,20 +1,20 @@
 ---
 id: CC/S1004-2010
 title:
-- type: title-main
-  content: Cal-WS Web Services API for Calendaring and Scheduling V0.3 (CD 1004)
+- content: Cal-WS Web Services API for Calendaring and Scheduling V0.3 (CD 1004)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Cal-WS Web Services API for Calendaring and Scheduling V0.3 (CD 1004)
+  type: title-main
+- content: Cal-WS Web Services API for Calendaring and Scheduling V0.3 (CD 1004)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD1004%20Cal-WS%20Web%20Services%20API%20V0.3.pdf
   type: pdf

@@ -1,20 +1,20 @@
 ---
 id: CC/IETF7808-2010
 title:
-- type: title-main
-  content: Time Zone Data Distribution Service
+- content: Time Zone Data Distribution Service
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Time Zone Data Distribution Service
+  type: title-main
+- content: Time Zone Data Distribution Service
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 7808:2010

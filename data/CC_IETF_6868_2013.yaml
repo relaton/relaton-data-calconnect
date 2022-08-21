@@ -1,20 +1,20 @@
 ---
 id: CC/IETF6868-2013
 title:
-- type: title-main
-  content: Parameter Value Encoding in iCalendar and vCard (IETF RFC 6868)
+- content: Parameter Value Encoding in iCalendar and vCard (IETF RFC 6868)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Parameter Value Encoding in iCalendar and vCard (IETF RFC 6868)
+  type: title-main
+- content: Parameter Value Encoding in iCalendar and vCard (IETF RFC 6868)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 6868:2013

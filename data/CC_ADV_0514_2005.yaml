@@ -1,20 +1,20 @@
 ---
 id: CC/Adv0514-2005
 title:
-- type: title-main
-  content: DST Advisory Notice V1.0 (CD 0514)
+- content: DST Advisory Notice V1.0 (CD 0514)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: DST Advisory Notice V1.0 (CD 0514)
+  type: title-main
+- content: DST Advisory Notice V1.0 (CD 0514)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0514%20DST%20Advisory%20Notice%20V1.0.pdf
   type: pdf

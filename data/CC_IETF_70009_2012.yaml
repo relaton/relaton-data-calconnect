@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70009-2012
 title:
-- type: title-main
-  content: Automated Service Configuration
+- content: Automated Service Configuration
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Automated Service Configuration
+  type: title-main
+- content: Automated Service Configuration
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70009:2012

@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0804-2008
 title:
-- type: title-main
-  content: June 2008 CalConnect Interoperability Test Report V1.3 (CD 0804)
+- content: June 2008 CalConnect Interoperability Test Report V1.3 (CD 0804)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: June 2008 CalConnect Interoperability Test Report V1.3 (CD 0804)
+  type: title-main
+- content: June 2008 CalConnect Interoperability Test Report V1.3 (CD 0804)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0804%20June%202008%20CalConnect%20Interoperability%20Test%20Report%20V1.3.pdf
   type: pdf

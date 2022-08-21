@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70020-2016
 title:
-- type: title-main
-  content: CalDAV Calendar Sharing
+- content: CalDAV Calendar Sharing
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: CalDAV Calendar Sharing
+  type: title-main
+- content: CalDAV Calendar Sharing
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70020:2016

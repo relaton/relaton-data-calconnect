@@ -1,20 +1,20 @@
 ---
 id: CC/R1104-2018
 title:
-- type: title-main
-  content: Index to Calendaring and Scheduling Standards (CD 1104)
+- content: Index to Calendaring and Scheduling Standards (CD 1104)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Index to Calendaring and Scheduling Standards (CD 1104)
+  type: title-main
+- content: Index to Calendaring and Scheduling Standards (CD 1104)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/R 1104:2018

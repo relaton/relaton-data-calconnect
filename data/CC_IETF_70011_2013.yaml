@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70011-2013
 title:
-- type: title-main
-  content: 'VPOLL: Consensus Scheduling Component for iCalendar'
+- content: 'VPOLL: Consensus Scheduling Component for iCalendar'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'VPOLL: Consensus Scheduling Component for iCalendar'
+  type: title-main
+- content: 'VPOLL: Consensus Scheduling Component for iCalendar'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70011:2013

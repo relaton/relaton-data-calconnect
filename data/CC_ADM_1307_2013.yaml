@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1307-2013
 title:
-- type: title-main
-  content: Report on Interoperability Test Event XXVIII (CD 1307)
+- content: Report on Interoperability Test Event XXVIII (CD 1307)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Interoperability Test Event XXVIII (CD 1307)
+  type: title-main
+- content: Report on Interoperability Test Event XXVIII (CD 1307)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/ioptestevent28rpt.pdf
   type: pdf

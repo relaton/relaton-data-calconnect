@@ -1,27 +1,27 @@
 ---
 id: CC/ISO/PWI36200
 title:
-- type: title-intro
-  content: Standardization documents
+- content: Standardization documents
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Metadata
+  type: title-intro
+- content: Metadata
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Standardization documents – Metadata
+  type: title-main
+- content: Standardization documents – Metadata
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/ISO/PWI 36200

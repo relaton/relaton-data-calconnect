@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1407-2014
 title:
-- type: title-main
-  content: Report on Interoperability Test Event at CalConnect XXXI (CD 1407)
+- content: Report on Interoperability Test Event at CalConnect XXXI (CD 1407)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Interoperability Test Event at CalConnect XXXI (CD 1407)
+  type: title-main
+- content: Report on Interoperability Test Event at CalConnect XXXI (CD 1407)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/ioptestevent31rpt.pdf
   type: pdf

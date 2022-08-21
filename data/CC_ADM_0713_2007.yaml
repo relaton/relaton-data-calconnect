@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0713-2007
 title:
-- type: title-main
-  content: Report on Roundtable X (CD 0713)
+- content: Report on Roundtable X (CD 0713)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable X (CD 0713)
+  type: title-main
+- content: Report on Roundtable X (CD 0713)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable10rpt.pdf
   type: pdf

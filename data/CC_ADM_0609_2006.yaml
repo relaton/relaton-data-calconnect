@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0609-2006
 title:
-- type: title-main
-  content: Report on Mobile Calendaring Questionnaire V2 Results V1.0 (CD 0609)
+- content: Report on Mobile Calendaring Questionnaire V2 Results V1.0 (CD 0609)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Mobile Calendaring Questionnaire V2 Results V1.0 (CD 0609)
+  type: title-main
+- content: Report on Mobile Calendaring Questionnaire V2 Results V1.0 (CD 0609)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0609%20Report%20on%20Mobile%20Calendaring%20Questionnaire%20V2%20Results%20V1.0.pdf
   type: pdf

@@ -1,22 +1,22 @@
 ---
 id: CC/R0610-2006
 title:
-- type: title-main
-  content: Calendaring and Scheduling Glossary of Terms V1.0 (Obsoleted by CD1102)
+- content: Calendaring and Scheduling Glossary of Terms V1.0 (Obsoleted by CD1102)
     (CD 0610)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Calendaring and Scheduling Glossary of Terms V1.0 (Obsoleted by CD1102)
+  type: title-main
+- content: Calendaring and Scheduling Glossary of Terms V1.0 (Obsoleted by CD1102)
     (CD 0610)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0610%20Calendaring%20and%20Scheduling%20Glossary%20of%20Terms%20V1.0.pdf
   type: pdf

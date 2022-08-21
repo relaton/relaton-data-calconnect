@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1303-2013
 title:
-- type: title-main
-  content: Report on Interoperability Test Event XXVI (CD 1303)
+- content: Report on Interoperability Test Event XXVI (CD 1303)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Interoperability Test Event XXVI (CD 1303)
+  type: title-main
+- content: Report on Interoperability Test Event XXVI (CD 1303)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/ioptestevent26rpt.pdf
   type: pdf

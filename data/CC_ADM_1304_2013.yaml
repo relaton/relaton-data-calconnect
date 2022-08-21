@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1304-2013
 title:
-- type: title-main
-  content: Report on Roundtable XXVII (CD 1304)
+- content: Report on Roundtable XXVII (CD 1304)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XXVII (CD 1304)
+  type: title-main
+- content: Report on Roundtable XXVII (CD 1304)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable27rpt.pdf
   type: pdf

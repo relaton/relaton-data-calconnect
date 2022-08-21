@@ -1,20 +1,20 @@
 ---
 id: CC/R0904-2011
 title:
-- type: title-main
-  content: iCalendar in XML (xCal) Schema (CD 0904)
+- content: iCalendar in XML (xCal) Schema (CD 0904)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: iCalendar in XML (xCal) Schema (CD 0904)
+  type: title-main
+- content: iCalendar in XML (xCal) Schema (CD 0904)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/R 0904:2011

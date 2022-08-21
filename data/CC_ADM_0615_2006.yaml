@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0615-2006
 title:
-- type: title-main
-  content: Report on Roundtable VII (CD 0615)
+- content: Report on Roundtable VII (CD 0615)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable VII (CD 0615)
+  type: title-main
+- content: Report on Roundtable VII (CD 0615)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable7rpt.pdf
   type: pdf

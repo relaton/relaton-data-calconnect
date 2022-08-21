@@ -1,20 +1,20 @@
 ---
 id: CC/R1011-2010
 title:
-- type: title-main
-  content: CalWS-Rest Restful Web Services Protocol for Calendaring V1.0.1 (CD 1011)
+- content: CalWS-Rest Restful Web Services Protocol for Calendaring V1.0.1 (CD 1011)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: CalWS-Rest Restful Web Services Protocol for Calendaring V1.0.1 (CD 1011)
+  type: title-main
+- content: CalWS-Rest Restful Web Services Protocol for Calendaring V1.0.1 (CD 1011)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD1011%20CalWS-Rest%20Restful%20Web%20Services%20Protocol%20for%20Calendaring%20V1.0.1.pdf
   type: pdf

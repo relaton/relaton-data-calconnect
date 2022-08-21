@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70002-2010
 title:
-- type: title-main
-  content: Schema for representing resources for calendaring and scheduling services
+- content: Schema for representing resources for calendaring and scheduling services
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Schema for representing resources for calendaring and scheduling services
+  type: title-main
+- content: Schema for representing resources for calendaring and scheduling services
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70002:2010

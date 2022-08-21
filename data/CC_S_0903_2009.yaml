@@ -1,20 +1,20 @@
 ---
 id: CC/S0903-2009
 title:
-- type: title-main
-  content: Freebusy Read URL V1.0 (CD 0903)
+- content: Freebusy Read URL V1.0 (CD 0903)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Freebusy Read URL V1.0 (CD 0903)
+  type: title-main
+- content: Freebusy Read URL V1.0 (CD 0903)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0903%20Freebusy%20Read%20URL%20V1.0.pdf
   type: pdf

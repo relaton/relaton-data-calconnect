@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1106-2011
 title:
-- type: title-main
-  content: Report on Roundtable XXII (CD 1106)
+- content: Report on Roundtable XXII (CD 1106)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XXII (CD 1106)
+  type: title-main
+- content: Report on Roundtable XXII (CD 1106)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable22rpt.pdf
   type: pdf

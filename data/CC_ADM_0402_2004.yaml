@@ -1,22 +1,22 @@
 ---
 id: CC/Adm0402-2004
 title:
-- type: title-main
-  content: July 2004 CalConnect Interoperability Test Results Spreadsheet V1.0 (CD
+- content: July 2004 CalConnect Interoperability Test Results Spreadsheet V1.0 (CD
     0402)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: July 2004 CalConnect Interoperability Test Results Spreadsheet V1.0 (CD
+  type: title-main
+- content: July 2004 CalConnect Interoperability Test Results Spreadsheet V1.0 (CD
     0402)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0402%20July%202004%20CalConnect%20Interoperability%20Test%20Results%20Spreadsheet%20V1.0.pdf
   type: pdf

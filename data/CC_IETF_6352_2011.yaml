@@ -1,22 +1,22 @@
 ---
 id: CC/IETF6352-2011
 title:
-- type: title-main
-  content: 'CardDAV: vCard Extensions to Web Distributed Authoring and Versioning
+- content: 'CardDAV: vCard Extensions to Web Distributed Authoring and Versioning
     (WebDAV) (IETF RFC 6352)'
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: 'CardDAV: vCard Extensions to Web Distributed Authoring and Versioning
+  type: title-main
+- content: 'CardDAV: vCard Extensions to Web Distributed Authoring and Versioning
     (WebDAV) (IETF RFC 6352)'
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 6352:2011

@@ -30,12 +30,12 @@ date:
 contributor:
 - organization:
     name:
-    - CalConnect
+    - content: CalConnect
   role:
   - author
 - organization:
     name:
-    - CalConnect
+    - content: CalConnect
   role:
   - publisher
 edition:
@@ -53,7 +53,7 @@ docstatus:
 copyright:
 - owner:
   - name:
-    - CalConnect
+    - content: CalConnect
   from: '2018'
 doctype: advisory
 editorialgroup:

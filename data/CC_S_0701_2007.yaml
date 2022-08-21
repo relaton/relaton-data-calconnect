@@ -1,20 +1,20 @@
 ---
 id: CC/S0701-2007
 title:
-- type: title-main
-  content: Min-IOP (Minimum Interoperable Subset) Use Cases for Tasks V1.0 (CD 0701)
+- content: Min-IOP (Minimum Interoperable Subset) Use Cases for Tasks V1.0 (CD 0701)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Min-IOP (Minimum Interoperable Subset) Use Cases for Tasks V1.0 (CD 0701)
+  type: title-main
+- content: Min-IOP (Minimum Interoperable Subset) Use Cases for Tasks V1.0 (CD 0701)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0701%20Min-IOP%20Use%20Cases%20for%20Tasks%20V1.0.pdf
   type: pdf

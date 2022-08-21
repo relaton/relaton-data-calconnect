@@ -1,20 +1,20 @@
 ---
 id: CC/R1012-2011
 title:
-- type: title-main
-  content: An Introduction to Internet Calendaring and Scheduling V1.1 (CD 1012)
+- content: An Introduction to Internet Calendaring and Scheduling V1.1 (CD 1012)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: An Introduction to Internet Calendaring and Scheduling V1.1 (CD 1012)
+  type: title-main
+- content: An Introduction to Internet Calendaring and Scheduling V1.1 (CD 1012)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/R 1012:2011

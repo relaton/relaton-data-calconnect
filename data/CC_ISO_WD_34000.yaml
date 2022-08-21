@@ -1,27 +1,27 @@
 ---
 id: CC/ISO/WD34000
 title:
-- type: title-intro
-  content: Date and time
+- content: Date and time
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Concepts and vocabulary
+  type: title-intro
+- content: Concepts and vocabulary
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Date and time – Concepts and vocabulary
+  type: title-main
+- content: Date and time – Concepts and vocabulary
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/ISO/WD 34000

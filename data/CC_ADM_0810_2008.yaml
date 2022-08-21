@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0810-2008
 title:
-- type: title-main
-  content: Report on Roundtable XII (CD 0810)
+- content: Report on Roundtable XII (CD 0810)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XII (CD 0810)
+  type: title-main
+- content: Report on Roundtable XII (CD 0810)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable12rpt.pdf
   type: pdf

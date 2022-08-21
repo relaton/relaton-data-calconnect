@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1404-2014
 title:
-- type: title-main
-  content: Report on Interoperability Test Event at CalConnect XXX (CD 1404)
+- content: Report on Interoperability Test Event at CalConnect XXX (CD 1404)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Interoperability Test Event at CalConnect XXX (CD 1404)
+  type: title-main
+- content: Report on Interoperability Test Event at CalConnect XXX (CD 1404)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/ioptestevent30rpt.pdf
   type: pdf

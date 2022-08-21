@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1401-2014
 title:
-- type: title-main
-  content: Report on Roundtable XXIX (CD 1401)
+- content: Report on Roundtable XXIX (CD 1401)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XXIX (CD 1401)
+  type: title-main
+- content: Report on Roundtable XXIX (CD 1401)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable29rpt.pdf
   type: pdf

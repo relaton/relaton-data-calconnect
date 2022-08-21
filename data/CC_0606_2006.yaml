@@ -1,20 +1,20 @@
 ---
 id: CC0606-2006
 title:
-- type: title-main
-  content: Timezone Registry and Service Recommendations V1.0 (CD 0606)
+- content: Timezone Registry and Service Recommendations V1.0 (CD 0606)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Timezone Registry and Service Recommendations V1.0 (CD 0606)
+  type: title-main
+- content: Timezone Registry and Service Recommendations V1.0 (CD 0606)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0606%20Timezone%20Registry%20and%20Service%20Recommendations%20V1.0.pdf
   type: pdf

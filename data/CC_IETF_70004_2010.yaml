@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70004-2010
 title:
-- type: title-main
-  content: CardDAV Directory Gateway Extension
+- content: CardDAV Directory Gateway Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: CardDAV Directory Gateway Extension
+  type: title-main
+- content: CardDAV Directory Gateway Extension
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70004:2010

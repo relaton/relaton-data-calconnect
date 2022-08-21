@@ -1,20 +1,20 @@
 ---
 id: CC/IETF70001
 title:
-- type: title-main
-  content: VALARM Extensions for iCalendar
+- content: VALARM Extensions for iCalendar
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: VALARM Extensions for iCalendar
+  type: title-main
+- content: VALARM Extensions for iCalendar
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 70001

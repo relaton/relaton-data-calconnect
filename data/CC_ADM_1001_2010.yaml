@@ -1,20 +1,20 @@
 ---
 id: CC/Adm1001-2010
 title:
-- type: title-main
-  content: Report on Roundtable XVII (CD 1001)
+- content: Report on Roundtable XVII (CD 1001)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Report on Roundtable XVII (CD 1001)
+  type: title-main
+- content: Report on Roundtable XVII (CD 1001)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/roundtable17rpt.pdf
   type: pdf

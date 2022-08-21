@@ -1,20 +1,20 @@
 ---
 id: CC/Adm0502-2005
 title:
-- type: title-main
-  content: January 2005 CalConnect Interoperability Test Report V1.0 (CD 0502)
+- content: January 2005 CalConnect Interoperability Test Report V1.0 (CD 0502)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: January 2005 CalConnect Interoperability Test Report V1.0 (CD 0502)
+  type: title-main
+- content: January 2005 CalConnect Interoperability Test Report V1.0 (CD 0502)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 link:
 - content: https://standards.calconnect.org/pubdocs/CD0502%20January%202005%20CalConnect%20Interoperability%20Test%20Report%20V1.0.pdf
   type: pdf

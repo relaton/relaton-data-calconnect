@@ -1,27 +1,27 @@
 ---
 id: CC/ISO/AWI34300
 title:
-- type: title-intro
-  content: Date and time
+- content: Date and time
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: title-main
-  content: Codes for calendar systems
+  type: title-intro
+- content: Codes for calendar systems
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: Date and time – Codes for calendar systems
+  type: title-main
+- content: Date and time – Codes for calendar systems
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/ISO/AWI 34300

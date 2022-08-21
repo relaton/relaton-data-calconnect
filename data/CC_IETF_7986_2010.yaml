@@ -1,20 +1,20 @@
 ---
 id: CC/IETF7986-2010
 title:
-- type: title-main
-  content: New Properties for iCalendar (IETF RFC 7986)
+- content: New Properties for iCalendar (IETF RFC 7986)
   language:
   - en
   script:
   - Latn
   format: text/plain
-- type: main
-  content: New Properties for iCalendar (IETF RFC 7986)
+  type: title-main
+- content: New Properties for iCalendar (IETF RFC 7986)
   language:
   - en
   script:
   - Latn
   format: text/plain
+  type: main
 type: standard
 docid:
 - id: CC/IETF 7986:2010

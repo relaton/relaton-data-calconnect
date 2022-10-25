@@ -34,7 +34,6 @@ abstract:
     a standard way of exchanging and processing scheduling messages based on the iCalendar
     Transport-Independent Interoperability Protocol (iTIP) [RFC 2446].
   format: text/plain
-fetched: '2020-06-23'
 doctype: standard
 editorialgroup:
 - name: CALDAV

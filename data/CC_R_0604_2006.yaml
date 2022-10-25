@@ -33,7 +33,6 @@ abstract:
     and ambiguities, and then offer some guidelines and recommendations to solve these
     issues.
   format: text/plain
-fetched: '2020-06-23'
 doctype: report
 editorialgroup:
 - name: RECURR

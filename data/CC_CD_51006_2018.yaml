@@ -30,30 +30,30 @@ contributor:
     name:
     - content: CalConnect
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Eric York
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Cyrus Daboo
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Michael Douglass
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: CalConnect
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 version:

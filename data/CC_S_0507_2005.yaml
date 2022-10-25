@@ -39,7 +39,6 @@ abstract:
     further develop technical requirements for a calendar access protocol such as
     CalDAV.
   format: text/plain
-fetched: '2020-06-23'
 doctype: specification
 editorialgroup:
 - name: CALDAV

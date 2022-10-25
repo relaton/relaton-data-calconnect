@@ -41,7 +41,6 @@ abstract:
     rely in part upon adoption of standards revisions that are in draft as of this
     writing.
   format: text/plain
-fetched: '2020-06-23'
 doctype: report
 editorialgroup:
 - name: USECASE

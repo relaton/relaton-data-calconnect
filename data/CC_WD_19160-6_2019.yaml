@@ -30,18 +30,18 @@ contributor:
     name:
     - content: CalConnect
   role:
-  - author
+  - type: author
 - person:
     name:
       completename:
         content: Ronald Tse
   role:
-  - author
+  - type: author
 - organization:
     name:
     - content: CalConnect
   role:
-  - publisher
+  - type: publisher
 edition:
   content: '1'
 version:

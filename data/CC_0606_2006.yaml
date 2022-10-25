@@ -32,7 +32,6 @@ abstract:
     improved interoperability to avoid some common problems, and to allow using time
     zones by reference rather than value.
   format: text/plain
-fetched: '2020-06-23'
 doctype: standard
 editorialgroup:
 - name: TIMEZONE

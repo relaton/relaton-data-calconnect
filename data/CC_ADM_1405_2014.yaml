@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/Adm1405-2014
 title:
 - content: Report on CalConnect Conference XXX (CD 1405)
@@ -29,3 +30,5 @@ revdate: '2014-06-09'
 doctype: administrative
 editorialgroup:
 - name: CALCONNECT
+ext:
+  schema-version: v1.0.0

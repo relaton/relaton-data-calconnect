@@ -1,5 +1,6 @@
 ---
-id: CC/A1603-2016
+schema-version: v1.2.1
+id: CC-A1603-2016
 title:
 - content: Report on CalConnect Conference XXXVI, April 21-22, 2016
   language:
@@ -56,3 +57,5 @@ copyright:
 doctype: administrative
 editorialgroup:
 - name: CHAIRS
+ext:
+  schema-version: v1.0.0

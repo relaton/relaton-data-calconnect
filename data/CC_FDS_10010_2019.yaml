@@ -1,5 +1,6 @@
 ---
-id: CC/FDS10010-2019
+schema-version: v1.2.1
+id: CC-FDS10010-2019
 title:
 - content: ISO/CalConnect Partner Standards Development Organization (PSDO) Cooperation
     Agreement
@@ -57,3 +58,5 @@ copyright:
 doctype: standard
 editorialgroup:
 - name: PUBLISH
+ext:
+  schema-version: v1.0.0

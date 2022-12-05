@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/R0904-2011
 title:
 - content: iCalendar in XML (xCal) Schema (CD 0904)
@@ -26,3 +27,5 @@ revdate: '2011-08-10'
 doctype: report
 editorialgroup:
 - name: XML
+ext:
+  schema-version: v1.0.0

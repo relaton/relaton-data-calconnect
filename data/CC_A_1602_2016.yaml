@@ -1,5 +1,6 @@
 ---
-id: CC/A1602-2016
+schema-version: v1.2.1
+id: CC-A1602-2016
 title:
 - content: Report on CalConnect Interoperability Test Event XXXV, January 11-13, 2016
   language:
@@ -56,3 +57,5 @@ copyright:
 doctype: administrative
 editorialgroup:
 - name: IOPTEST
+ext:
+  schema-version: v1.0.0

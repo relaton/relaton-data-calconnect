@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF70012-2013
 title:
 - content: Objectclass Property for vCard
@@ -26,3 +27,5 @@ revdate: '2013-01-24'
 doctype: standard
 editorialgroup:
 - name: RESOURCE
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF70015-2014
 title:
 - content: 'WebDAV: User Notifications'
@@ -26,3 +27,5 @@ revdate: '2014-12-15'
 doctype: standard
 editorialgroup:
 - name: SHARING
+ext:
+  schema-version: v1.0.0

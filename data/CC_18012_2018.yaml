@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC18012-2018
 title:
 - content: Date and time — General recurrence representation
@@ -56,3 +57,5 @@ copyright:
 doctype: standard
 editorialgroup:
 - name: VCARD, CALENDAR
+ext:
+  schema-version: v1.0.0

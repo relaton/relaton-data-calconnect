@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/R0604-2006
 title:
 - content: iCalendar Recurrence Problems and Recommendations V1.0 (CD 0604)
@@ -36,3 +37,5 @@ abstract:
 doctype: report
 editorialgroup:
 - name: RECURR
+ext:
+  schema-version: v1.0.0

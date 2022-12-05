@@ -1,5 +1,6 @@
 ---
-id: CC/A1605-2016
+schema-version: v1.2.1
+id: CC-A1605-2016
 title:
 - content: Report on CalConnect Conference XXXVII, September 14-16, 2016
   language:
@@ -56,3 +57,5 @@ copyright:
 doctype: administrative
 editorialgroup:
 - name: CHAIRS
+ext:
+  schema-version: v1.0.0

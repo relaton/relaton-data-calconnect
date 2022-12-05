@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF7808-2010
 title:
 - content: Time Zone Data Distribution Service
@@ -26,3 +27,5 @@ revdate: '2016-03-01'
 doctype: standard
 editorialgroup:
 - name: TIMEZONE
+ext:
+  schema-version: v1.0.0

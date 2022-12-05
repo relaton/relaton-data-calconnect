@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/Adm0610-2006
 title:
 - content: Calendaring and Scheduling Glossary of Terms V1.0 (Obsoleted by CD1102)
@@ -31,3 +32,5 @@ revdate: '2006-10-24'
 doctype: administrative
 editorialgroup:
 - name: USECASE
+ext:
+  schema-version: v1.0.0

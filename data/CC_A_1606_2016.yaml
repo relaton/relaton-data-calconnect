@@ -1,5 +1,6 @@
 ---
-id: CC/A1606-2016
+schema-version: v1.2.1
+id: CC-A1606-2016
 title:
 - content: Report on CalConnect Test Event and Developers Forum XXXVII, September
     12-14, 2016
@@ -57,3 +58,5 @@ copyright:
 doctype: administrative
 editorialgroup:
 - name: IOPTEST
+ext:
+  schema-version: v1.0.0

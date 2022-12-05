@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF7529-2013
 title:
 - content: Non-Gregorian Recurrence Rules in iCalendar (RSCALE) (IETF RFC 7529)
@@ -26,3 +27,5 @@ revdate: '2013-04-26'
 doctype: standard
 editorialgroup:
 - name: ADHOC CALSCALE
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: CC/A1804-2018
+schema-version: v1.2.1
+id: CC-A1804-2018
 title:
 - content: Report on CalConnect Test Event and Developers Forum XLII, June 4-6, 2018
   language:
@@ -56,3 +57,5 @@ copyright:
 doctype: administrative
 editorialgroup:
 - name: IOPTEST
+ext:
+  schema-version: v1.0.0

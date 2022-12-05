@@ -1,5 +1,6 @@
 ---
-id: CC/WD19160-6-2019
+schema-version: v1.2.1
+id: CC-WD19160-6-2019
 title:
 - content: Addressing — Digital interchange models
   language:
@@ -62,3 +63,5 @@ copyright:
 doctype: standard
 editorialgroup:
 - name: VCARD
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: CC/CD51006-2018
+schema-version: v1.2.1
+id: CC-CD51006-2018
 title:
 - content: Calendaring and scheduling — Consensus scheduling — iCalendar VPOLL component
   language:
@@ -74,3 +75,5 @@ copyright:
 doctype: standard
 editorialgroup:
 - name: FREEBUSY
+ext:
+  schema-version: v1.0.0

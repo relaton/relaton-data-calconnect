@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/R0907-2009
 title:
 - content: A Recommendation for Minimum Interoperability of Resource Information V1.0
@@ -44,3 +45,5 @@ abstract:
 doctype: report
 editorialgroup:
 - name: USECASE
+ext:
+  schema-version: v1.0.0

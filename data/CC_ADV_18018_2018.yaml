@@ -1,5 +1,6 @@
 ---
-id: CC/Adv18018-2018
+schema-version: v1.2.1
+id: CC-Adv18018-2018
 title:
 - content: 'CalConnect calls on EU to reconsider timeline for proposed seasonal time
     changes: Workshop and mailing list announced to discuss technical impact of planned
@@ -58,3 +59,5 @@ copyright:
 doctype: advisory
 editorialgroup:
 - name: Ad Hoc EU Time
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF70022-2016
 title:
 - content: The Time Zone Data Distribution Service (TZDIST) Geolocate Extension
@@ -26,3 +27,5 @@ revdate: '2016-10-14'
 doctype: standard
 editorialgroup:
 - name: CALENDAR
+ext:
+  schema-version: v1.0.0

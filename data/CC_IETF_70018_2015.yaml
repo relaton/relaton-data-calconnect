@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF70018-2015
 title:
 - content: DAV Server Information Object
@@ -26,3 +27,5 @@ revdate: '2015-05-15'
 doctype: standard
 editorialgroup:
 - name: CALDAV
+ext:
+  schema-version: v1.0.0

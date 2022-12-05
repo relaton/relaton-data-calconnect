@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/R1012-2011
 title:
 - content: An Introduction to Internet Calendaring and Scheduling V1.1 (CD 1012)
@@ -30,3 +31,5 @@ abstract:
 doctype: report
 editorialgroup:
 - name: CALCONNECT
+ext:
+  schema-version: v1.0.0

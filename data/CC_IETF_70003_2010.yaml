@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF70003-2010
 title:
 - content: Timezone XML Specification
@@ -26,3 +27,5 @@ revdate: '2010-07-05'
 doctype: standard
 editorialgroup:
 - name: TIMEZONE
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: CC/CD51003-2018
+schema-version: v1.2.1
+id: CC-CD51003-2018
 title:
 - content: Calendaring and scheduling — Support for Series in iCalendar
   language:
@@ -62,3 +63,5 @@ copyright:
 doctype: standard
 editorialgroup:
 - name: CALENDAR
+ext:
+  schema-version: v1.0.0

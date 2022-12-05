@@ -1,5 +1,6 @@
 ---
-id: CC/R10100-2019
+schema-version: v1.2.1
+id: CC-R10100-2019
 title:
 - content: Alignment to international principles — WTO TBT principles for the Development
     of International Standards, Guides and Recommendations
@@ -57,3 +58,5 @@ copyright:
 doctype: report
 editorialgroup:
 - name: PUBLISH
+ext:
+  schema-version: v1.0.0

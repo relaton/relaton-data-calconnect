@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/S1202-2012
 title:
 - content: CalWS-SOAP SOAP Web Services Protocol for Calendaring V1.0 (CD 1202)
@@ -29,3 +30,5 @@ revdate: '2012-02-22'
 doctype: specification
 editorialgroup:
 - name: XML
+ext:
+  schema-version: v1.0.0

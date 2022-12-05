@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/Adm1201-2012
 title:
 - content: Report on Roundtable XXIII (CD 1201)
@@ -29,3 +30,5 @@ revdate: '2012-02-15'
 doctype: administrative
 editorialgroup:
 - name: CALCONNECT
+ext:
+  schema-version: v1.0.0

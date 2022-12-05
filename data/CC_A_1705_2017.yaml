@@ -1,5 +1,6 @@
 ---
-id: CC/A1705-2017
+schema-version: v1.2.1
+id: CC-A1705-2017
 title:
 - content: Report on CalConnect Conference XL, September 27-29, 2017
   language:
@@ -56,3 +57,5 @@ copyright:
 doctype: administrative
 editorialgroup:
 - name: CHAIRS
+ext:
+  schema-version: v1.0.0

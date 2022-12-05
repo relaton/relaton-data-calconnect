@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF70011-2013
 title:
 - content: 'VPOLL: Consensus Scheduling Component for iCalendar'
@@ -26,3 +27,5 @@ revdate: '2013-01-22'
 doctype: standard
 editorialgroup:
 - name: FREEBUSY
+ext:
+  schema-version: v1.0.0

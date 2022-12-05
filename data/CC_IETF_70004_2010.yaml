@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF70004-2010
 title:
 - content: CardDAV Directory Gateway Extension
@@ -26,3 +27,5 @@ revdate: '2010-08-26'
 doctype: standard
 editorialgroup:
 - name: CALCONNECT
+ext:
+  schema-version: v1.0.0

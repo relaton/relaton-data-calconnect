@@ -1,5 +1,6 @@
 ---
-id: CC/Adv0707-2007
+schema-version: v1.2.1
+id: CC-Adv0707-2007
 title:
 - content: CalConnect EDST (Extended Daylight Savings Time) Reflections and Recommendations
   language:
@@ -56,3 +57,5 @@ copyright:
 doctype: advisory
 editorialgroup:
 - name: Ad Hoc DST
+ext:
+  schema-version: v1.0.0

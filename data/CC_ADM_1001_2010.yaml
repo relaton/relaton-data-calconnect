@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/Adm1001-2010
 title:
 - content: Report on Roundtable XVII (CD 1001)
@@ -29,3 +30,5 @@ revdate: '2010-02-10'
 doctype: administrative
 editorialgroup:
 - name: CALCONNECT
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/Adm0811-2008
 title:
 - content: Report on Roundtable XIII (CD 0811)
@@ -29,3 +30,5 @@ revdate: '2008-10-10'
 doctype: administrative
 editorialgroup:
 - name: CALCONNECT
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: CC/DIR10001-2019
+schema-version: v1.2.1
+id: CC-DIR10001-2019
 title:
 - content: 'CalConnect Directive: Standardization and publication'
   language:
@@ -56,3 +57,5 @@ copyright:
 doctype: directive
 editorialgroup:
 - name: PUBLISH
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/ISO/WD34000
 title:
 - content: Date and time
@@ -33,3 +34,5 @@ revdate: '2020-06-10'
 doctype: standard
 editorialgroup:
 - name: DATETIME
+ext:
+  schema-version: v1.0.0

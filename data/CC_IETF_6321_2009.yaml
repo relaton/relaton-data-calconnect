@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF6321-2009
 title:
 - content: xCal - The XML Format for iCalendar (IETF RFC 6351)
@@ -26,3 +27,5 @@ revdate: '2009-06-04'
 doctype: standard
 editorialgroup:
 - name: XML
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/S1004-2010
 title:
 - content: Cal-WS Web Services API for Calendaring and Scheduling V0.3 (CD 1004)
@@ -29,3 +30,5 @@ revdate: '2010-05-19'
 doctype: specification
 editorialgroup:
 - name: XML
+ext:
+  schema-version: v1.0.0

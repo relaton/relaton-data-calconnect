@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/Adm0403-2004
 title:
 - content: July 2004 CalConnect Interoperability Test Report V1.0 (CD 0403)
@@ -29,3 +30,5 @@ revdate: '2004-07-30'
 doctype: administrative
 editorialgroup:
 - name: IOPTEST
+ext:
+  schema-version: v1.0.0

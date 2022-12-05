@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/R0708-2007
 title:
 - content: Extended Daylight Savings Time Review and Considerations (CD 0708)
@@ -29,3 +30,5 @@ revdate: '2007-02-15'
 doctype: report
 editorialgroup:
 - name: ADHOC DST
+ext:
+  schema-version: v1.0.0

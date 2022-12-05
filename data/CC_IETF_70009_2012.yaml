@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF70009-2012
 title:
 - content: Automated Service Configuration
@@ -26,3 +27,5 @@ revdate: '2012-08-29'
 doctype: standard
 editorialgroup:
 - name: AUTODISC
+ext:
+  schema-version: v1.0.0

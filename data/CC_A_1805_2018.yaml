@@ -1,5 +1,6 @@
 ---
-id: CC/A1805-2018
+schema-version: v1.2.1
+id: CC-A1805-2018
 title:
 - content: Report on CalConnect Conference XLIII, September 24 - September 27, 2018
   language:
@@ -56,3 +57,5 @@ copyright:
 doctype: administrative
 editorialgroup:
 - name: CHAIRS
+ext:
+  schema-version: v1.0.0

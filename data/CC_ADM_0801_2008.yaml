@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/Adm0801-2008
 title:
 - content: CalConnect Technical Preview Roundtable XI V1.0 (CD 0801)
@@ -29,3 +30,5 @@ revdate: '2008-02-06'
 doctype: administrative
 editorialgroup:
 - name: CALCONNECT
+ext:
+  schema-version: v1.0.0

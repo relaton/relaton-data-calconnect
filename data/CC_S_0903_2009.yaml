@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/S0903-2009
 title:
 - content: Freebusy Read URL V1.0 (CD 0903)
@@ -35,3 +36,5 @@ abstract:
 doctype: specification
 editorialgroup:
 - name: FREEBUSY
+ext:
+  schema-version: v1.0.0

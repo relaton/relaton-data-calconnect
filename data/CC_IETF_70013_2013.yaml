@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF70013-2013
 title:
 - content: Schedulable Objectclass for vCard
@@ -26,3 +27,5 @@ revdate: '2013-01-25'
 doctype: standard
 editorialgroup:
 - name: RESOURCE
+ext:
+  schema-version: v1.0.0

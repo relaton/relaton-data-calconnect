@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF6352-2011
 title:
 - content: 'CardDAV: vCard Extensions to Web Distributed Authoring and Versioning
@@ -28,3 +29,5 @@ revdate: '2011-08-01'
 doctype: standard
 editorialgroup:
 - name: CALCONNECT
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/Adv0611-2006
 title:
 - content: The Benefits of iCalendar for the Mobile Industry V1.0 (CD 0611)
@@ -37,3 +38,5 @@ abstract:
 doctype: advisory
 editorialgroup:
 - name: MOBILE
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF70027-2010
 title:
 - content: LINK Property Extension to iCalendar (Obsolete)
@@ -26,3 +27,5 @@ revdate: '2010-06-30'
 doctype: standard
 editorialgroup:
 - name: EVENTPUB
+ext:
+  schema-version: v1.0.0

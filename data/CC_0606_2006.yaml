@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC0606-2006
 title:
 - content: Timezone Registry and Service Recommendations V1.0 (CD 0606)
@@ -35,3 +36,5 @@ abstract:
 doctype: standard
 editorialgroup:
 - name: TIMEZONE
+ext:
+  schema-version: v1.0.0

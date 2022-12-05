@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF70014-2013
 title:
 - content: Improved Support for iCalendar Relationships
@@ -26,3 +27,5 @@ revdate: '2013-07-02'
 doctype: standard
 editorialgroup:
 - name: EVENTPUB
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF70023-2017
 title:
 - content: Calendar subscription upgrades
@@ -26,3 +27,5 @@ revdate: '2017-02-13'
 doctype: standard
 editorialgroup:
 - name: CALENDAR
+ext:
+  schema-version: v1.0.0

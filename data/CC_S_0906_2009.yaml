@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/S0906-2009
 title:
 - content: Use Cases for Resources V1.0 (CD 0906)
@@ -36,3 +37,5 @@ abstract:
 doctype: specification
 editorialgroup:
 - name: USECASE
+ext:
+  schema-version: v1.0.0

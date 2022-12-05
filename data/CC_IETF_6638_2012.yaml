@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CC/IETF6638-2012
 title:
 - content: Scheduling Extensions to CalDAV (IETF RFC 6638)
@@ -26,3 +27,5 @@ revdate: '2012-06-01'
 doctype: standard
 editorialgroup:
 - name: CALDAV
+ext:
+  schema-version: v1.0.0

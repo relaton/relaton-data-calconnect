@@ -1,5 +1,6 @@
 ---
-id: CC/R18003-2019
+schema-version: v1.2.1
+id: CC-R18003-2019
 title:
 - content: Calendar operator practices — Guidelines to protect against calendar abuse
   language:
@@ -69,3 +70,5 @@ copyright:
 doctype: report
 editorialgroup:
 - name: CALSPAM
+ext:
+  schema-version: v1.0.0

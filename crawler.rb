@@ -1,6 +1,13 @@
+# frozen_string_literal: true
+
 require 'fileutils'
+require 'relaton_calconnect'
 
 FileUtils.rm_rf("data")
 
-require 'relaton_calconnect'
+FileUtils.rm(Dir.glob("index*"))
+
 RelatonCalconnect::DataFetcher.fetch
+
+system "zip index-v1.zip index-v1.xml"
+system "git add index-v1.zip index-v1.xml"

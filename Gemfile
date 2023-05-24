@@ -2,4 +2,4 @@
 
 source 'https://rubygems.org'
 
-gem 'relaton-calconnect'
+gem 'relaton-calconnect', github: 'relaton/relaton-calconnect', branch: 'main'

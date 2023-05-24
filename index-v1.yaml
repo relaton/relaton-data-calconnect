@@ -1,0 +1,385 @@
+---
+- :id: CC/Adm 0401:2004
+  :file: data/CC_ADM_0401_2004.yaml
+- :id: CC/Adm 0402:2004
+  :file: data/CC_ADM_0402_2004.yaml
+- :id: CC/Adm 0403:2004
+  :file: data/CC_ADM_0403_2004.yaml
+- :id: CC/Adm 0404:2004
+  :file: data/CC_ADM_0404_2004.yaml
+- :id: CC/Adm 0501:2005
+  :file: data/CC_ADM_0501_2005.yaml
+- :id: CC/Adm 0502:2005
+  :file: data/CC_ADM_0502_2005.yaml
+- :id: CC/Adm 0503:2005
+  :file: data/CC_ADM_0503_2005.yaml
+- :id: CC/Adm 0504:2005
+  :file: data/CC_ADM_0504_2005.yaml
+- :id: CC/S 0505:2005
+  :file: data/CC_S_0505_2005.yaml
+- :id: CC/Adm 0505:2005
+  :file: data/CC_ADM_0505_2005.yaml
+- :id: CC/Adm 0506:2005
+  :file: data/CC_ADM_0506_2005.yaml
+- :id: CC/S 0507:2005
+  :file: data/CC_S_0507_2005.yaml
+- :id: CC/Adm 0508:2005
+  :file: data/CC_ADM_0508_2005.yaml
+- :id: CC/Adm 0509:2005
+  :file: data/CC_ADM_0509_2005.yaml
+- :id: CC/R 0510:2005
+  :file: data/CC_R_0510_2005.yaml
+- :id: CC/Adm 0510:2005
+  :file: data/CC_ADM_0510_2005.yaml
+- :id: CC/Adm 0511:2005
+  :file: data/CC_ADM_0511_2005.yaml
+- :id: CC/Adm 0512:2005
+  :file: data/CC_ADM_0512_2005.yaml
+- :id: CC/Adm 0513:2005
+  :file: data/CC_ADM_0513_2005.yaml
+- :id: CC/Adv 0514:2005
+  :file: data/CC_ADV_0514_2005.yaml
+- :id: CC/S 0601:2006
+  :file: data/CC_S_0601_2006.yaml
+- :id: CC/S 0601:2005
+  :file: data/CC_S_0601_2005.yaml
+- :id: CC/R 0602:2006
+  :file: data/CC_R_0602_2006.yaml
+- :id: CC/Adm 0603:2006
+  :file: data/CC_ADM_0603_2006.yaml
+- :id: CC/R 0604:2006
+  :file: data/CC_R_0604_2006.yaml
+- :id: CC/Adm 0605:2006
+  :file: data/CC_ADM_0605_2006.yaml
+- :id: CC 0606:2006
+  :file: data/CC_0606_2006.yaml
+- :id: CC/Adm 0607:2006
+  :file: data/CC_ADM_0607_2006.yaml
+- :id: CC/Adm 0608:2006
+  :file: data/CC_ADM_0608_2006.yaml
+- :id: CC/R 0609:2006
+  :file: data/CC_R_0609_2006.yaml
+- :id: CC/Adm 0609:2006
+  :file: data/CC_ADM_0609_2006.yaml
+- :id: CC/R 0610:2006
+  :file: data/CC_R_0610_2006.yaml
+- :id: CC/Adm 0610:2006
+  :file: data/CC_ADM_0610_2006.yaml
+- :id: CC/Adv 0611:2006
+  :file: data/CC_ADV_0611_2006.yaml
+- :id: CC/Adm 0612:2006
+  :file: data/CC_ADM_0612_2006.yaml
+- :id: CC/Adm 0613:2006
+  :file: data/CC_ADM_0613_2006.yaml
+- :id: CC/Adm 0614:2006
+  :file: data/CC_ADM_0614_2006.yaml
+- :id: CC/Adm 0615:2006
+  :file: data/CC_ADM_0615_2006.yaml
+- :id: CC/S 0701:2007
+  :file: data/CC_S_0701_2007.yaml
+- :id: CC 0703:2007
+  :file: data/CC_0703_2007.yaml
+- :id: CC/S 0706:2008
+  :file: data/CC_S_0706_2008.yaml
+- :id: CC/S 0706:2007
+  :file: data/CC_S_0706_2007.yaml
+- :id: CC/Adv 0707:2007
+  :file: data/CC_ADV_0707_2007.yaml
+- :id: CC/R 0708:2007
+  :file: data/CC_R_0708_2007.yaml
+- :id: CC/Adv 0709:2007
+  :file: data/CC_ADV_0709_2007.yaml
+- :id: CC/Adm 0710:2007
+  :file: data/CC_ADM_0710_2007.yaml
+- :id: CC/Adm 0711:2007
+  :file: data/CC_ADM_0711_2007.yaml
+- :id: CC/Adm 0712:2007
+  :file: data/CC_ADM_0712_2007.yaml
+- :id: CC/Adm 0713:2007
+  :file: data/CC_ADM_0713_2007.yaml
+- :id: CC/Adm 0714:2007
+  :file: data/CC_ADM_0714_2007.yaml
+- :id: CC/Adm 0801:2008
+  :file: data/CC_ADM_0801_2008.yaml
+- :id: CC/Adm 0802:2008
+  :file: data/CC_ADM_0802_2008.yaml
+- :id: CC/Adm 0803:2008
+  :file: data/CC_ADM_0803_2008.yaml
+- :id: CC/Adm 0804:2008
+  :file: data/CC_ADM_0804_2008.yaml
+- :id: CC/Adm 0806:2008
+  :file: data/CC_ADM_0806_2008.yaml
+- :id: CC/Adm 0807:2008
+  :file: data/CC_ADM_0807_2008.yaml
+- :id: CC/Adm 0808:2009
+  :file: data/CC_ADM_0808_2009.yaml
+- :id: CC/Adm 0809:2008
+  :file: data/CC_ADM_0809_2008.yaml
+- :id: CC/Adm 0810:2008
+  :file: data/CC_ADM_0810_2008.yaml
+- :id: CC/Adm 0811:2008
+  :file: data/CC_ADM_0811_2008.yaml
+- :id: CC/Adm 0812:2008
+  :file: data/CC_ADM_0812_2008.yaml
+- :id: CC/Adm 0901:2009
+  :file: data/CC_ADM_0901_2009.yaml
+- :id: CC/Adm 0902:2009
+  :file: data/CC_ADM_0902_2009.yaml
+- :id: CC/S 0903:2009
+  :file: data/CC_S_0903_2009.yaml
+- :id: CC/R 0904:2011
+  :file: data/CC_R_0904_2011.yaml
+- :id: CC/R 0905:2009
+  :file: data/CC_R_0905_2009.yaml
+- :id: CC/S 0906:2009
+  :file: data/CC_S_0906_2009.yaml
+- :id: CC/R 0907:2009
+  :file: data/CC_R_0907_2009.yaml
+- :id: CC/Adm 0908:2009
+  :file: data/CC_ADM_0908_2009.yaml
+- :id: CC/Adm 0909:2009
+  :file: data/CC_ADM_0909_2009.yaml
+- :id: CC/Adm 0910:2009
+  :file: data/CC_ADM_0910_2009.yaml
+- :id: CC/Adm 0911:2009
+  :file: data/CC_ADM_0911_2009.yaml
+- :id: CC/Adm 1001:2010
+  :file: data/CC_ADM_1001_2010.yaml
+- :id: CC/Adm 1002:2010
+  :file: data/CC_ADM_1002_2010.yaml
+- :id: CC/S 1004:2010
+  :file: data/CC_S_1004_2010.yaml
+- :id: CC/Adm 1005:2010
+  :file: data/CC_ADM_1005_2010.yaml
+- :id: CC/Adm 1009:2010
+  :file: data/CC_ADM_1009_2010.yaml
+- :id: CC/Adm 1010:2010
+  :file: data/CC_ADM_1010_2010.yaml
+- :id: CC/R 1011:2010
+  :file: data/CC_R_1011_2010.yaml
+- :id: CC/R 1012:2011
+  :file: data/CC_R_1012_2011.yaml
+- :id: CC/Adm 1013:2010
+  :file: data/CC_ADM_1013_2010.yaml
+- :id: CC/Adm 1014:2011
+  :file: data/CC_ADM_1014_2011.yaml
+- :id: CC/R 1102:2013
+  :file: data/CC_R_1102_2013.yaml
+- :id: CC/Adm 1103:2011
+  :file: data/CC_ADM_1103_2011.yaml
+- :id: CC/R 1104:2018
+  :file: data/CC_R_1104_2018.yaml
+- :id: CC/Adm 1105:2011
+  :file: data/CC_ADM_1105_2011.yaml
+- :id: CC/Adm 1106:2011
+  :file: data/CC_ADM_1106_2011.yaml
+- :id: CC/Adm 1201:2012
+  :file: data/CC_ADM_1201_2012.yaml
+- :id: CC/S 1202:2012
+  :file: data/CC_S_1202_2012.yaml
+- :id: CC/Adm 1203:2012
+  :file: data/CC_ADM_1203_2012.yaml
+- :id: CC/Adm 1204:2012
+  :file: data/CC_ADM_1204_2012.yaml
+- :id: CC/S 1301:2012
+  :file: data/CC_S_1301_2012.yaml
+- :id: CC/Adm 1302:2013
+  :file: data/CC_ADM_1302_2013.yaml
+- :id: CC/Adm 1303:2013
+  :file: data/CC_ADM_1303_2013.yaml
+- :id: CC/Adm 1304:2013
+  :file: data/CC_ADM_1304_2013.yaml
+- :id: CC/Adm 1305:2013
+  :file: data/CC_ADM_1305_2013.yaml
+- :id: CC/Adm 1306:2013
+  :file: data/CC_ADM_1306_2013.yaml
+- :id: CC/Adm 1307:2013
+  :file: data/CC_ADM_1307_2013.yaml
+- :id: CC/Adm 1401:2014
+  :file: data/CC_ADM_1401_2014.yaml
+- :id: CC/Adm 1402:2014
+  :file: data/CC_ADM_1402_2014.yaml
+- :id: CC/Adm 1403:2014
+  :file: data/CC_ADM_1403_2014.yaml
+- :id: CC/Adm 1404:2014
+  :file: data/CC_ADM_1404_2014.yaml
+- :id: CC/Adm 1405:2014
+  :file: data/CC_ADM_1405_2014.yaml
+- :id: CC/Adm 1406:2014
+  :file: data/CC_ADM_1406_2014.yaml
+- :id: CC/Adm 1407:2014
+  :file: data/CC_ADM_1407_2014.yaml
+- :id: CC/Adm 1501:2015
+  :file: data/CC_ADM_1501_2015.yaml
+- :id: CC/Adm 1502:2015
+  :file: data/CC_ADM_1502_2015.yaml
+- :id: CC/Adm 1503:2015
+  :file: data/CC_ADM_1503_2015.yaml
+- :id: CC/Adm 1504:2015
+  :file: data/CC_ADM_1504_2015.yaml
+- :id: CC/Adm 1505:2015
+  :file: data/CC_ADM_1505_2015.yaml
+- :id: CC/Adm 1506:2015
+  :file: data/CC_ADM_1506_2015.yaml
+- :id: CC/Adm 1601:2016
+  :file: data/CC_ADM_1601_2016.yaml
+- :id: CC/A 1602:2016
+  :file: data/CC_A_1602_2016.yaml
+- :id: CC/A 1603:2016
+  :file: data/CC_A_1603_2016.yaml
+- :id: CC/A 1604:2016
+  :file: data/CC_A_1604_2016.yaml
+- :id: CC/A 1605:2016
+  :file: data/CC_A_1605_2016.yaml
+- :id: CC/A 1606:2016
+  :file: data/CC_A_1606_2016.yaml
+- :id: CC/A 1701:2017
+  :file: data/CC_A_1701_2017.yaml
+- :id: CC/A 1702:2017
+  :file: data/CC_A_1702_2017.yaml
+- :id: CC/A 1703:2017
+  :file: data/CC_A_1703_2017.yaml
+- :id: CC/A 1704:2017
+  :file: data/CC_A_1704_2017.yaml
+- :id: CC/A 1705:2017
+  :file: data/CC_A_1705_2017.yaml
+- :id: CC/A 1706:2017
+  :file: data/CC_A_1706_2017.yaml
+- :id: CC/A 1801:2018
+  :file: data/CC_A_1801_2018.yaml
+- :id: CC/A 1802:2018
+  :file: data/CC_A_1802_2018.yaml
+- :id: CC/A 1803:2018
+  :file: data/CC_A_1803_2018.yaml
+- :id: CC/A 1804:2018
+  :file: data/CC_A_1804_2018.yaml
+- :id: CC/A 1805:2018
+  :file: data/CC_A_1805_2018.yaml
+- :id: CC/A 1901:2019
+  :file: data/CC_A_1901_2019.yaml
+- :id: CC/A 1902:2019
+  :file: data/CC_A_1902_2019.yaml
+- :id: CC/IETF 6321:2009
+  :file: data/CC_IETF_6321_2009.yaml
+- :id: CC/IETF 6352:2011
+  :file: data/CC_IETF_6352_2011.yaml
+- :id: CC/IETF 6638:2012
+  :file: data/CC_IETF_6638_2012.yaml
+- :id: CC/IETF 6868:2013
+  :file: data/CC_IETF_6868_2013.yaml
+- :id: CC/IETF 7095:2014
+  :file: data/CC_IETF_7095_2014.yaml
+- :id: CC/IETF 7265:2013
+  :file: data/CC_IETF_7265_2013.yaml
+- :id: CC/IETF 7529:2013
+  :file: data/CC_IETF_7529_2013.yaml
+- :id: CC/IETF 7808:2010
+  :file: data/CC_IETF_7808_2010.yaml
+- :id: CC/IETF 7809:2013
+  :file: data/CC_IETF_7809_2013.yaml
+- :id: CC/IETF 7953:2006
+  :file: data/CC_IETF_7953_2006.yaml
+- :id: CC/IETF 7986:2010
+  :file: data/CC_IETF_7986_2010.yaml
+- :id: CC/DIR 10001:2019
+  :file: data/CC_DIR_10001_2019.yaml
+- :id: CC/DIR 10002:2019
+  :file: data/CC_DIR_10002_2019.yaml
+- :id: CC/DIR 10003:2019
+  :file: data/CC_DIR_10003_2019.yaml
+- :id: CC/DIR 10005:2019
+  :file: data/CC_DIR_10005_2019.yaml
+- :id: CC/DIR 10006:2019
+  :file: data/CC_DIR_10006_2019.yaml
+- :id: CC/FDS 10010:2019
+  :file: data/CC_FDS_10010_2019.yaml
+- :id: CC/R 10100:2019
+  :file: data/CC_R_10100_2019.yaml
+- :id: CC/R 18003:2019
+  :file: data/CC_R_18003_2019.yaml
+- :id: CC 18011:2018
+  :file: data/CC_18011_2018.yaml
+- :id: CC 18012:2018
+  :file: data/CC_18012_2018.yaml
+- :id: CC/Adv 18018:2018
+  :file: data/CC_ADV_18018_2018.yaml
+- :id: CC/WD 19160-6:2019
+  :file: data/CC_WD_19160-6_2019.yaml
+- :id: CC/ISO/WD 34000
+  :file: data/CC_ISO_WD_34000.yaml
+- :id: CC/IETF/DS 34010
+  :file: data/CC_IETF_DS_34010.yaml
+- :id: CC/ISO/PWI 34200
+  :file: data/CC_ISO_PWI_34200.yaml
+- :id: CC/ISO/AWI 34300
+  :file: data/CC_ISO_AWI_34300.yaml
+- :id: CC/ISO/NP 36100
+  :file: data/CC_ISO_NP_36100.yaml
+- :id: CC/ISO/PWI 36200
+  :file: data/CC_ISO_PWI_36200.yaml
+- :id: CC/ISO/PWI 36300
+  :file: data/CC_ISO_PWI_36300.yaml
+- :id: CC/CD 51003:2018
+  :file: data/CC_CD_51003_2018.yaml
+- :id: CC/CD 51004:2018
+  :file: data/CC_CD_51004_2018.yaml
+- :id: CC/CD 51005:2018
+  :file: data/CC_CD_51005_2018.yaml
+- :id: CC/CD 51006:2018
+  :file: data/CC_CD_51006_2018.yaml
+- :id: CC/ISO/NP 56100
+  :file: data/CC_ISO_NP_56100.yaml
+- :id: CC/IETF 70001
+  :file: data/CC_IETF_70001.yaml
+- :id: CC/IETF 70002:2010
+  :file: data/CC_IETF_70002_2010.yaml
+- :id: CC/IETF 70003:2010
+  :file: data/CC_IETF_70003_2010.yaml
+- :id: CC/IETF 70004:2010
+  :file: data/CC_IETF_70004_2010.yaml
+- :id: CC/IETF 70005:2011
+  :file: data/CC_IETF_70005_2011.yaml
+- :id: CC/IETF 70006:2011
+  :file: data/CC_IETF_70006_2011.yaml
+- :id: CC/IETF 70007:2011
+  :file: data/CC_IETF_70007_2011.yaml
+- :id: CC/IETF 70008:2012
+  :file: data/CC_IETF_70008_2012.yaml
+- :id: CC/IETF 70009:2012
+  :file: data/CC_IETF_70009_2012.yaml
+- :id: CC/IETF 70010:2012
+  :file: data/CC_IETF_70010_2012.yaml
+- :id: CC/IETF 70011:2013
+  :file: data/CC_IETF_70011_2013.yaml
+- :id: CC/IETF 70012:2013
+  :file: data/CC_IETF_70012_2013.yaml
+- :id: CC/IETF 70013:2013
+  :file: data/CC_IETF_70013_2013.yaml
+- :id: CC/IETF 70014:2013
+  :file: data/CC_IETF_70014_2013.yaml
+- :id: CC/IETF 70015:2014
+  :file: data/CC_IETF_70015_2014.yaml
+- :id: CC/IETF 70016:2014
+  :file: data/CC_IETF_70016_2014.yaml
+- :id: CC/IETF 70017:2015
+  :file: data/CC_IETF_70017_2015.yaml
+- :id: CC/IETF 70018:2015
+  :file: data/CC_IETF_70018_2015.yaml
+- :id: CC/IETF 70019:2015
+  :file: data/CC_IETF_70019_2015.yaml
+- :id: CC/IETF 70020:2016
+  :file: data/CC_IETF_70020_2016.yaml
+- :id: CC/IETF 70021:2016
+  :file: data/CC_IETF_70021_2016.yaml
+- :id: CC/IETF 70022:2016
+  :file: data/CC_IETF_70022_2016.yaml
+- :id: CC/IETF 70023:2017
+  :file: data/CC_IETF_70023_2017.yaml
+- :id: CC/IETF 70024:2017
+  :file: data/CC_IETF_70024_2017.yaml
+- :id: CC/IETF 70025:2017
+  :file: data/CC_IETF_70025_2017.yaml
+- :id: CC/IETF 70026:2018
+  :file: data/CC_IETF_70026_2018.yaml
+- :id: CC/IETF 70027:2010
+  :file: data/CC_IETF_70027_2010.yaml

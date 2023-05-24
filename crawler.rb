@@ -9,5 +9,5 @@ FileUtils.rm(Dir.glob("index*"))
 
 RelatonCalconnect::DataFetcher.fetch
 
-system "zip index-v1.zip index-v1.xml"
-system "git add index-v1.zip index-v1.xml"
+system "zip index-v1.zip index-v1.yaml"
+systsystem "zip index-v1.zip index-v1.yaml"

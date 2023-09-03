@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: CC/IETF7095-2014
 title:
 - content: 'jCard: The JSON Format for vCard  (IETF RFC 7095)'

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: CC/IETF7265-2013
 title:
 - content: 'jCal: The JSON format for iCalendar (IETF RFC 7265)'

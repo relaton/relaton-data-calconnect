@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: CC/IETF70019-2015
 title:
 - content: 'v-event URI: An URI scheme for events'

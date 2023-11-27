@@ -34,7 +34,8 @@ abstract:
     and ambiguities, and then offer some guidelines and recommendations to solve these
     issues.
   format: text/plain
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: RECURR
 ext:

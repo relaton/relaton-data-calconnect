@@ -35,7 +35,8 @@ abstract:
     earlier this year by TC Mobile; see Mobile Calendaring Questionnaire V2 Results:
     CD 0609.'
   format: text/plain
-doctype: advisory
+doctype:
+  type: advisory
 editorialgroup:
 - name: MOBILE
 ext:

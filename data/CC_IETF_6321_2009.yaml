@@ -24,7 +24,8 @@ docid:
 version:
 - revision_date: '2009-06-04'
 revdate: '2009-06-04'
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: XML
 ext:

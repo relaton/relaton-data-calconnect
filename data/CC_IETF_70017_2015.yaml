@@ -24,7 +24,8 @@ docid:
 version:
 - revision_date: '2015-01-04'
 revdate: '2015-01-04'
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: TASKS
 ext:

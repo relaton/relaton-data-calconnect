@@ -33,7 +33,8 @@ abstract:
     improved interoperability to avoid some common problems, and to allow using time
     zones by reference rather than value.
   format: text/plain
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: TIMEZONE
 ext:

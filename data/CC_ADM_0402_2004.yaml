@@ -29,7 +29,8 @@ docid:
 version:
 - revision_date: '2004-07-30'
 revdate: '2004-07-30'
-doctype: administrative
+doctype:
+  type: administrative
 editorialgroup:
 - name: IOPTEST
 ext:

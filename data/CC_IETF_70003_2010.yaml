@@ -24,7 +24,8 @@ docid:
 version:
 - revision_date: '2010-07-05'
 revdate: '2010-07-05'
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: TIMEZONE
 ext:

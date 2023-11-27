@@ -24,7 +24,8 @@ docid:
 version:
 - revision_date: '2018-06-22'
 revdate: '2018-06-22'
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: CALCONNECT
 ext:

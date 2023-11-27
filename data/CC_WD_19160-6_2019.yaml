@@ -60,7 +60,8 @@ copyright:
   - name:
     - content: CalConnect
   from: '2019'
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: VCARD
 ext:

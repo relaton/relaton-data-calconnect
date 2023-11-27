@@ -24,7 +24,8 @@ docid:
 version:
 - revision_date: '2011-08-10'
 revdate: '2011-08-10'
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: XML
 ext:

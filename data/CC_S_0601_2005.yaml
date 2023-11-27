@@ -27,7 +27,8 @@ docid:
 version:
 - revision_date: '2005-11-30'
 revdate: '2005-11-30'
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: USECASE
 ext:

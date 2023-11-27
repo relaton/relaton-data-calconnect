@@ -27,7 +27,8 @@ docid:
 version:
 - revision_date: '2005-10-03'
 revdate: '2005-10-03'
-doctype: administrative
+doctype:
+  type: administrative
 editorialgroup:
 - name: TIMEZONE
 ext:

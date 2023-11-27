@@ -72,7 +72,8 @@ copyright:
   - name:
     - content: CalConnect
   from: '2018'
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: FREEBUSY
 ext:

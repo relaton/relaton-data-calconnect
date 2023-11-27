@@ -24,7 +24,8 @@ docid:
 version:
 - revision_date: '2013-07-02'
 revdate: '2013-07-02'
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: EVENTPUB
 ext:

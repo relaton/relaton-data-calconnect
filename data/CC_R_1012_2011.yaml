@@ -28,7 +28,8 @@ abstract:
 - content: This CalConnect guide introduces internet calendaring and the major standards
     and specifications related to calendaring and scheduling.
   format: text/plain
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: CALCONNECT
 ext:

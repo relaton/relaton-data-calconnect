@@ -29,7 +29,8 @@ docid:
 version:
 - revision_date: '2006-10-24'
 revdate: '2006-10-24'
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: USECASE
 ext:

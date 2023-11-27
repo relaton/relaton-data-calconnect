@@ -24,7 +24,8 @@ docid:
 version:
 - revision_date: '2016-10-14'
 revdate: '2016-10-14'
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: CALENDAR
 ext:

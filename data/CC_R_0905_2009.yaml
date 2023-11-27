@@ -38,7 +38,8 @@ abstract:
     information between applications that is humanly useful though not necessarily
     identical for both systems.
   format: text/plain
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: USECASE
 ext:

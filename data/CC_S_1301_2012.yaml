@@ -37,7 +37,8 @@ abstract:
     the versions. CalConnect and OASIS reserve the right to jointly and formally agree
     to fork the specifications at some point in the future if need arises. "
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: XML
 ext:

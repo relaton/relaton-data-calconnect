@@ -27,7 +27,8 @@ docid:
 version:
 - revision_date: '2012-02-22'
 revdate: '2012-02-22'
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: XML
 ext:

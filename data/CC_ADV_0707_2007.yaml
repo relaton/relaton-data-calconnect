@@ -54,7 +54,8 @@ copyright:
   - name:
     - content: CalConnect
   from: '2007'
-doctype: advisory
+doctype:
+  type: advisory
 editorialgroup:
 - name: Ad Hoc DST
 ext:

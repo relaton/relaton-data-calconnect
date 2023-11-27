@@ -24,7 +24,8 @@ docid:
 version:
 - revision_date: '2013-01-22'
 revdate: '2013-01-22'
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: FREEBUSY
 ext:

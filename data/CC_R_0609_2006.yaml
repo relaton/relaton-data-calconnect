@@ -36,7 +36,8 @@ abstract:
     themselves. Respondents to the questionnaire answered based on the capabilities
     of their device. The results show an aggregate of these results.
   format: text/plain
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: CALCONNECT
 ext:

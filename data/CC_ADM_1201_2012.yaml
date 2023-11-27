@@ -27,7 +27,8 @@ docid:
 version:
 - revision_date: '2012-02-15'
 revdate: '2012-02-15'
-doctype: administrative
+doctype:
+  type: administrative
 editorialgroup:
 - name: CALCONNECT
 ext:

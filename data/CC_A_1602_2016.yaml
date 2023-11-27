@@ -54,7 +54,8 @@ copyright:
   - name:
     - content: CalConnect
   from: '2016'
-doctype: administrative
+doctype:
+  type: administrative
 editorialgroup:
 - name: IOPTEST
 ext:

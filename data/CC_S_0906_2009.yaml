@@ -34,7 +34,8 @@ abstract:
     of the use cases presented may include workflow or ideas beyond what is offered
     by current calendaring and scheduling applications.
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: USECASE
 ext:

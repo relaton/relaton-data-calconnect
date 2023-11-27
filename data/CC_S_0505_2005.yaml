@@ -40,7 +40,8 @@ abstract:
     Recurrence Technical Committee has since analyzed the results of the questionnaire
     into this document.
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: RECURRENCE
 ext:

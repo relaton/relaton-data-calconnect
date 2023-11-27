@@ -29,7 +29,8 @@ docid:
 version:
 - revision_date: '2007-09-18'
 revdate: '2007-09-18'
-doctype: administrative
+doctype:
+  type: administrative
 editorialgroup:
 - name: ''
 ext:

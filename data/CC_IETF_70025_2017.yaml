@@ -24,7 +24,8 @@ docid:
 version:
 - revision_date: '2017-05-02'
 revdate: '2017-05-02'
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: PUSH
 ext:

@@ -27,7 +27,8 @@ docid:
 version:
 - revision_date: '2006-07-24'
 revdate: '2006-07-24'
-doctype: administrative
+doctype:
+  type: administrative
 editorialgroup:
 - name: MOBILE
 ext:

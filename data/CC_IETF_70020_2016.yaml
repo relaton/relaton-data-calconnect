@@ -24,7 +24,8 @@ docid:
 version:
 - revision_date: '2016-01-11'
 revdate: '2016-01-11'
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: SHARING
 ext:

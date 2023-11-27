@@ -24,7 +24,8 @@ docid:
 version:
 - revision_date: '2014-01-16'
 revdate: '2014-01-16'
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: CALCONNECT
 ext:

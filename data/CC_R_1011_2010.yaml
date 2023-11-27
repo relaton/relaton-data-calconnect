@@ -32,7 +32,8 @@ abstract:
     This document, developed by the XML Technical Committee, specifies a RESTful web services Protocol for calendaring operations. This protocol has been contributed to OASIS WS-CALENDAR as a component of the WS-CALENDAR Specification under development by OASIS.
     CalConnect and OASIS have agreed that any future work by CalConnect TC XML or OASIS WS-Calendar (or other committees in CalConnect and OASIS) on their respective versions of CalWS will be harmonized to maintain consistency between the versions. CalConnect and OASIS reserve the right to jointly and formally agree to fork the specifications at some point in the future if need arises.
   format: text/plain
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: XML
 ext:

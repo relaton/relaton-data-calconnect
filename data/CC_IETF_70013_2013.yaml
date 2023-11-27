@@ -24,7 +24,8 @@ docid:
 version:
 - revision_date: '2013-01-25'
 revdate: '2013-01-25'
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: RESOURCE
 ext:

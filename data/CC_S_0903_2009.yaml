@@ -33,7 +33,8 @@ abstract:
     and server implementations, while extending the functionality and utility through
     the use of optional parameters.
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: FREEBUSY
 ext:

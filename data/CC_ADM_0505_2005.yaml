@@ -27,7 +27,8 @@ docid:
 version:
 - revision_date: '2005-07-21'
 revdate: '2005-07-21'
-doctype: administrative
+doctype:
+  type: administrative
 editorialgroup:
 - name: RECURR
 ext:

@@ -35,7 +35,8 @@ abstract:
     system. We realize that in some cases it may be more than is currently offered
     by 'basic' calendaring and scheduling applications.
   format: text/plain
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: USECASE
 ext:

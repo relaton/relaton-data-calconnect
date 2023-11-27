@@ -67,7 +67,8 @@ copyright:
   - name:
     - content: CalConnect
   from: '2019'
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: CALSPAM
 ext:

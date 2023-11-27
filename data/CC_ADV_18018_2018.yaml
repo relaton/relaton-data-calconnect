@@ -56,7 +56,8 @@ copyright:
   - name:
     - content: CalConnect
   from: '2018'
-doctype: advisory
+doctype:
+  type: advisory
 editorialgroup:
 - name: Ad Hoc EU Time
 ext:

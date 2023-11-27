@@ -42,7 +42,8 @@ abstract:
     rely in part upon adoption of standards revisions that are in draft as of this
     writing.
   format: text/plain
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: USECASE
 ext:

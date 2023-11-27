@@ -38,7 +38,8 @@ abstract:
     Other questionnaire summary documents will cover different areas of calendaring
     and scheduling, and will be made available by the Consortium.
   format: text/plain
-doctype: report
+doctype:
+  type: report
 editorialgroup:
 - name: CALCONNECT
 ext:

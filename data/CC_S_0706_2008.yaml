@@ -27,7 +27,8 @@ docid:
 version:
 - revision_date: '2008-08-24'
 revdate: '2008-08-24'
-doctype: specification
+doctype:
+  type: specification
 editorialgroup:
 - name: MOBILE
 ext:

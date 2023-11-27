@@ -24,7 +24,8 @@ docid:
 version:
 - revision_date: '2012-06-01'
 revdate: '2012-06-01'
-doctype: standard
+doctype:
+  type: standard
 editorialgroup:
 - name: CALDAV
 ext:

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: CC/IETF7809-2013
 title:
 - content: 'CalDAV: Timezones by Reference (IETF RFC 7809)'

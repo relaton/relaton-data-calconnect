@@ -1,0 +1,106 @@
+---
+schema-version: v1.2.9
+id: CC-A0804-2008
+title:
+- content: June 2008 CalConnect Mobile Interoperability Test Report
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0804:2008
+  type: CalConnect
+  primary: true
+docnumber: '0804'
+date:
+- type: published
+  value: '2008-08-31'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Patricia Egen
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Bruno Browning
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Cyrus Daboo
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mike Douglass
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Gren Elliot
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: John Holder
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Florian von Kurnatowski
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Emil Lundberg
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jong Yoon Lee
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1.3'
+version:
+- revision_date: '2008-08-31'
+revdate: '2008-08-31'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2008'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: IOPTEST

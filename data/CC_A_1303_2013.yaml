@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: CC-A1303-2013
+title:
+- content: Report on Interoperability Test Event XXVI, January 28-30, 2013
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 1303:2013
+  type: CalConnect
+  primary: true
+docnumber: '1303'
+date:
+- type: published
+  value: '2013-02-20'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2013-02-20'
+revdate: '2013-02-20'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2013'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: IOPTEST

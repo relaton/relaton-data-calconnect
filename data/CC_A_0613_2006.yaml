@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: CC-A0613-2006
+title:
+- content: Report on Roundtable V, 09-12 January 2006
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0613:2006
+  type: CalConnect
+  primary: true
+docnumber: '0613'
+date:
+- type: published
+  value: '2006-01-12'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2006-01-12'
+revdate: '2006-01-12'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2006'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: CALCONNECT

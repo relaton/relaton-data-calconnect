@@ -1,35 +1,67 @@
 ---
-schema-version: v1.2.8
-id: CC/R0708-2007
+schema-version: v1.2.9
+id: CC-R0708-2007
 title:
-- content: Extended Daylight Savings Time Review and Considerations (CD 0708)
+- content: Extended Daylight Savings Time Review and Considerations
   language:
   - en
-  script:
-  - Latn
   format: text/plain
-  type: title-main
-- content: Extended Daylight Savings Time Review and Considerations (CD 0708)
+- content: A Review of the Potential Impact of Daylight Saving Time Changes in 2007
+    -- A Reference for Users and Systems Administrators
   language:
-  - en
-  script:
-  - Latn
+  - main-en
   format: text/plain
-  type: main
-link:
-- content: https://standards.calconnect.org/pubdocs/dstreview.pdf
-  type: pdf
 type: standard
 docid:
 - id: CC/R 0708:2007
-  type: CC
+  type: CalConnect
   primary: true
+docnumber: '0708'
+date:
+- type: published
+  value: '2007-02-15'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Joseph Jackson
+    affiliation:
+    - organization:
+        name:
+        - content: Carnegie Mellon University
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
 version:
 - revision_date: '2007-02-15'
 revdate: '2007-02-15'
-doctype:
-  type: report
-editorialgroup:
-- name: ADHOC DST
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2007'
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: report
+    abbreviation: R
+  editorialgroup:
+  - name: DST ADHOC

@@ -1,0 +1,98 @@
+---
+schema-version: v1.2.9
+id: CC-A0612-2006
+title:
+- content: Calendar Interoperability Test Report, September 26-27, 2006
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0612:2006
+  type: CalConnect
+  primary: true
+docnumber: '0612'
+date:
+- type: published
+  value: '2006-12-06'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Patricia Egen
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Michael Douglass
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Grant Bailie
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Cyrus Daboo
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Scott Adler
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Matt Willis
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Pat Egen
+    affiliation:
+    - organization:
+        name:
+        - content: CalConnect
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1.2'
+version:
+- revision_date: '2006-12-06'
+revdate: '2006-12-06'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2006'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: IOPTEST

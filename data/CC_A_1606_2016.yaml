@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: CC-A1606-2016
 title:
 - content: Report on CalConnect Test Event and Developers Forum XXXVII, September
@@ -7,21 +7,10 @@ title:
   language:
   - en
   format: text/plain
-link:
-- content: https://standards.calconnect.org/csd/csd-report-ioptestevent-37.xml
-  type: xml
-- content: https://standards.calconnect.org/csd/csd-report-ioptestevent-37.pdf
-  type: pdf
-- content: https://standards.calconnect.org/csd/csd-report-ioptestevent-37.doc
-  type: doc
-- content: https://standards.calconnect.org/csd/csd-report-ioptestevent-37.html
-  type: html
-- content: https://standards.calconnect.org/csd/csd-report-ioptestevent-37.rxl
-  type: rxl
 type: standard
 docid:
 - id: CC/A 1606:2016
-  type: csd
+  type: CalConnect
   primary: true
 docnumber: '1606'
 date:
@@ -55,9 +44,10 @@ copyright:
   - name:
     - content: CalConnect
   from: '2016'
-doctype:
-  type: administrative
-editorialgroup:
-- name: IOPTEST
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: IOPTEST

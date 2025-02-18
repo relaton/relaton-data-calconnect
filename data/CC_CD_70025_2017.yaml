@@ -1,0 +1,84 @@
+---
+schema-version: v1.2.9
+id: CC-CD70025-2017
+title:
+- content: Calendaring and scheduling — Push Discovery and Notification Dispatch Protocol
+  language:
+  - en
+  format: text/plain
+link:
+- content: http://dmfs.org
+type: standard
+docid:
+- id: CC/CD 70025:2017
+  type: CalConnect
+  primary: true
+docnumber: '70025'
+date:
+- type: published
+  value: '2017-04-17'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Marten Gajda
+    contact:
+    - email: marten@dmfs.org
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2017-04-17'
+revdate: '2017-04-17'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    &lt;p&gt;This specification defines a framework and protocols for a push notification system that allows clients, application servers and push notification servers to interact with each other in a standardized manner.&lt;/p&gt;
+
+    &lt;p&gt;The Calendaring and Scheduling Consortium ("CalConnect") is a global non-profit organization with the aim to facilitate interoperability of collaborative technologies and tools through open standards.&lt;/p&gt;
+
+    &lt;p&gt;CalConnect works closely with international and regional partners, of which the full list is available on our website ( &lt;link target="https://www.calconnect.org/about/liaisons-and-relationships"/&gt;).&lt;/p&gt;
+
+    &lt;p&gt;The procedures used to develop this document and those intended for its further maintenance are described in the CalConnect Directives.&lt;/p&gt;
+
+    &lt;p&gt;In particular the different approval criteria needed for the different types of CalConnect documents should be noted. This document was drafted in accordance with the editorial rules of the CalConnect Directives.&lt;/p&gt;
+
+    &lt;p&gt;Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. CalConnect shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be provided in the Introduction.&lt;/p&gt;
+
+    &lt;p&gt;Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.&lt;/p&gt;
+
+    &lt;p&gt;This document was prepared by Technical Committee &lt;em&gt;PUSH&lt;/em&gt;.&lt;/p&gt;
+  format: text/plain
+docstatus:
+  stage:
+    value: committee-draft
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2017'
+keyword:
+- content: push
+- content: CardDAV
+- content: CalDAV
+- content: WebDAV
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: PUSH

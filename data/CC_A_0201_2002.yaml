@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: CC-A0201-2002
+title:
+- content: CalConnect III — Virtual interop, September, 2002
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0201:2002
+  type: CalConnect
+  primary: true
+docnumber: '0201'
+date:
+- type: published
+  value: '2002-09-01'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2002-09-01'
+revdate: '2002-09-01'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2002'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: IOPTEST

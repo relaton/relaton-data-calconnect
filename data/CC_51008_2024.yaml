@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.9
+id: CC51008-2024
+title:
+- content: Calendar and scheduling — iCalendar Transport-Independent Interoperability
+    Protocol (iTIP)
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC 51008:2024
+  type: CalConnect
+  primary: true
+docnumber: '51008'
+date:
+- type: published
+  value: '2022-06-27'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Michael Douglass
+    affiliation:
+    - organization:
+        name:
+        - content: Bedework Commercial Services
+        contact:
+        - address:
+            street:
+            - 226 3rd Street
+            city: Troy
+            state: NY
+            country: United States of America
+    contact:
+    - email: mdouglass@bedework.com
+    - uri: https://bcs.com/
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2022-06-27'
+revdate: '2022-06-27'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    &lt;p&gt;This document specifies a protocol that uses calendar objects to provide scheduling interoperability between different calendaring systems.  This is done without reference to a specific transport protocol so as to allow multiple methods of communication between systems.  Other documents define profiles of this protocol that use specific, interoperable methods of communication between systems.&lt;/p&gt;
+
+    &lt;p&gt;The iCalendar Transport-Independent Interoperability Protocol (iTIP) complements the calendar object specifications by adding semantics for group scheduling methods commonly available in current calendaring systems.  These scheduling methods permit two or more calendaring systems to perform transactions such as publishing, scheduling, rescheduling, responding to scheduling requests, negotiating changes, or canceling.&lt;/p&gt;
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2024'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: CALENDAR

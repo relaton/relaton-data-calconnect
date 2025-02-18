@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: CC-A1005-2010
+title:
+- content: Report on Roundtable XVIII, May 26-28, 2010
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 1005:2010
+  type: CalConnect
+  primary: true
+docnumber: '1005'
+date:
+- type: published
+  value: '2010-06-02'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2010-06-02'
+revdate: '2010-06-02'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2010'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: CALCONNECT

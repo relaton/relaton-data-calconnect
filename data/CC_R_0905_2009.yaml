@@ -1,46 +1,61 @@
 ---
-schema-version: v1.2.8
-id: CC/R0905-2009
+schema-version: v1.2.9
+id: CC-R0905-2009
 title:
 - content: State of Resource Interoperability for Calendaring, Groupware, and Project
-    (CD 0905) Management V1.0
+    Management
   language:
   - en
-  script:
-  - Latn
   format: text/plain
-  type: title-main
-- content: State of Resource Interoperability for Calendaring, Groupware, and Project
-    (CD 0905) Management V1.0
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://standards.calconnect.org/pubdocs/CD0905%20State%20of%20Resource%20Interoperability%20V1.0.pdf
-  type: pdf
 type: standard
 docid:
 - id: CC/R 0905:2009
-  type: CC
+  type: CalConnect
   primary: true
+docnumber: '0905'
+date:
+- type: published
+  value: '2009-06-10'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Guy Stalnaker
+    contact:
+    - email: jstalnak@wisc.edu
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
 version:
 - revision_date: '2009-06-10'
 revdate: '2009-06-10'
-abstract:
-- content: This document was created by the USECASE Technical Committee of the Calendaring
-    and Scheduling Consortium. This document is a survey of the present state of resource
-    interoperability for a representative sample of calendaring, groupware, and project
-    management applications. \"Interoperability of resources\" within the domains
-    surveyed is a level of functionality that allows the communication of resource
-    information between applications that is humanly useful though not necessarily
-    identical for both systems.
-  format: text/plain
-doctype:
-  type: report
-editorialgroup:
-- name: USECASE
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2009'
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: report
+    abbreviation: R
+  editorialgroup:
+  - name: USECASE

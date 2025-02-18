@@ -1,0 +1,112 @@
+---
+schema-version: v1.2.9
+id: CC-A0808-2009
+title:
+- content: November 2008 CalConnect Mobile Interoperability Test
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0808:2009
+  type: CalConnect
+  primary: true
+docnumber: '0808'
+date:
+- type: published
+  value: '2009-02-19'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Patricia Egen
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Eremias Alexej
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: James Clarke
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Chris Dudding
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Beat Forster
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Tomas Hnetila
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jakub Klos
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Gregory Pekofsky
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Milan Vojnovic
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Lukas Zeller
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '2'
+version:
+- revision_date: '2009-02-19'
+revdate: '2009-02-19'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2009'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: IOPTEST

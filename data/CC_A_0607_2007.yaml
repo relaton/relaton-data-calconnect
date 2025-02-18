@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.9
+id: CC-A0607-2007
+title:
+- content: May 2006 CalConnect Interoperability Test Report
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0607:2007
+  type: CalConnect
+  primary: true
+docnumber: '0607'
+date:
+- type: published
+  value: '2007-06-12'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Patricia Egen
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Simon Vaillancourt
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Chuck Norris
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mike Douglass
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Patricia Egen
+    affiliation:
+    - organization:
+        name:
+        - content: CalConnect
+      name:
+        content: IOP Test Manager
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1.1'
+version:
+- revision_date: '2007-06-12'
+revdate: '2007-06-12'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2007'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: IOPTEST

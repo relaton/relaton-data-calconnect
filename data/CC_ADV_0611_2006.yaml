@@ -1,43 +1,92 @@
 ---
-schema-version: v1.2.8
-id: CC/Adv0611-2006
+schema-version: v1.2.9
+id: CC-Adv0611-2006
 title:
-- content: The Benefits of iCalendar for the Mobile Industry V1.0 (CD 0611)
+- content: The Benefits of iCalendar for the Mobile Industry
   language:
   - en
-  script:
-  - Latn
   format: text/plain
-  type: title-main
-- content: The Benefits of iCalendar for the Mobile Industry V1.0 (CD 0611)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://standards.calconnect.org/pubdocs/CD0611%20The%20Benefits%20of%20iCalendar%20for%20the%20Mobile%20Industry%20V1.0.pdf
-  type: pdf
 type: standard
 docid:
 - id: CC/Adv 0611:2006
-  type: CC
+  type: CalConnect
   primary: true
+docnumber: '0611'
+date:
+- type: published
+  value: '2006-11-27'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Chris Dudding
+    affiliation:
+    - organization:
+        name:
+        - content: Symbian Ltd
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Cyrus Daboo
+    affiliation:
+    - organization:
+        name:
+        - content: Apple
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Chris Dudding
+    affiliation:
+    - organization:
+        name:
+        - content: Symbian
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mark Paterson
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
 version:
 - revision_date: '2006-11-27'
 revdate: '2006-11-27'
-abstract:
-- content: 'This document, prepared by the Mobile Technical Committee, discusses the
-    benefits and value of converting to the iCalendar specification from its early
-    predecessor, vCalendar, still widely in use in the mobile and travel industries.
-    The document draws upon results from the Mobile Calendaring Questionnaires conducted
-    earlier this year by TC Mobile; see Mobile Calendaring Questionnaire V2 Results:
-    CD 0609.'
-  format: text/plain
-doctype:
-  type: advisory
-editorialgroup:
-- name: MOBILE
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2006'
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: advisory
+    abbreviation: Adv
+  editorialgroup:
+  - name: MOBILE

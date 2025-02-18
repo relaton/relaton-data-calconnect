@@ -1,0 +1,64 @@
+---
+schema-version: v1.2.9
+id: CC-A0705-2007
+title:
+- content: CalConnect, Calendaring Interoperability and Calendaring Standards
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0705:2007
+  type: CalConnect
+  primary: true
+docnumber: '0705'
+date:
+- type: published
+  value: '2007-11-11'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Dave Thewlis
+    affiliation:
+    - organization:
+        name:
+        - content: The Calendaring and Scheduling Consortium
+      name:
+        content: Executive Director
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2007-11-11'
+revdate: '2007-11-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2007'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: FREEBUSY

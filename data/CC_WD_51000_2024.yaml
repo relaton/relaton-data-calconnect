@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.9
+id: CC-WD51000-2024
+title:
+- content: Calendaring and scheduling — Vocabulary
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/WD 51000:2024
+  type: CalConnect
+  primary: true
+docnumber: '51000'
+date:
+- type: published
+  value: '2024-11-07'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ronald Tse
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Michael Douglass
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2024-11-07'
+revdate: '2024-11-07'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: working-draft
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2024'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: CALENDAR

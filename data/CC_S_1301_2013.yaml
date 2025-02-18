@@ -1,0 +1,427 @@
+---
+schema-version: v1.2.9
+id: CC-S1301-2013
+title:
+- content: CalWS-SOAP SOAP Web Services Protocol for Calendaring
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/S 1301:2013
+  type: CalConnect
+  primary: true
+docnumber: '1301'
+date:
+- type: published
+  value: '2013-01-10'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Michael Douglass
+    affiliation:
+    - organization:
+        name:
+        - content: Rensselaer Polytechnic Institute
+    contact:
+    - email: douglm@rpi.edu
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2013-01-10'
+revdate: '2013-01-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "&lt;p&gt;This document describes standard messages and interactions for
+    service interactions with a system that hosts calendar-based information using
+    SOAP. Hosted information can be either traditional personal and enterprise calendar
+    information or services that support XML payloads developed in conformance with
+    the WS-Calendar specification.&lt;/p&gt;"
+  format: text/plain
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2013'
+relation:
+- type: updatedBy
+  bibitem:
+    id: CC-S1301-2013
+    docid:
+    - id: CC/S 1301:2013
+      type: CalConnect
+    date:
+    - type: published
+      value: '2011-03-15'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Michael Douglass
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: CalConnect
+      role:
+      - type: publisher
+    edition:
+      content: '0.0'
+    revdate: '2011-03-15'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-S1301-2013
+    docid:
+    - id: CC/S 1301:2013
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2011-07-15'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Michael Douglass
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: CalConnect
+      role:
+      - type: publisher
+    edition:
+      content: '0.1'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-S1301-2013
+    docid:
+    - id: CC/S 1301:2013
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2011-01-01'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Michael Douglass
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: CalConnect
+      role:
+      - type: publisher
+    edition:
+      content: '0.2'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-S1301-2013
+    docid:
+    - id: CC/S 1301:2013
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2011-09-07'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Michael Douglass
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: CalConnect
+      role:
+      - type: publisher
+    edition:
+      content: '0.3'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-S1301-2013
+    docid:
+    - id: CC/S 1301:2013
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2011-11-11'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Michael Douglass
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: CalConnect
+      role:
+      - type: publisher
+    edition:
+      content: '0.4'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-S1301-2013
+    docid:
+    - id: CC/S 1301:2013
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2011-12-15'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Michael Douglass
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: CalConnect
+      role:
+      - type: publisher
+    edition:
+      content: '0.5'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-S1301-2013
+    docid:
+    - id: CC/S 1301:2013
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2012-01-03'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Michael Douglass
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: CalConnect
+      role:
+      - type: publisher
+    edition:
+      content: '0.6'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-S1301-2013
+    docid:
+    - id: CC/S 1301:2013
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2012-02-07'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Michael Douglass
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: CalConnect
+      role:
+      - type: publisher
+    edition:
+      content: '0.7'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-S1301-2013
+    docid:
+    - id: CC/S 1301:2013
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2012-02-13'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Michael Douglass
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: CalConnect
+      role:
+      - type: publisher
+    edition:
+      content: '0.8'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-S1301-2013
+    docid:
+    - id: CC/S 1301:2013
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2012-02-14'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Michael Douglass
+      role:
+      - type: author
+    - person:
+        name:
+          completename:
+            content: Toby Considine
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: CalConnect
+      role:
+      - type: publisher
+    edition:
+      content: '0.9'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-S1301-2013
+    docid:
+    - id: CC/S 1301:2013
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2012-07-29'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Toby Considine
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: CalConnect
+      role:
+      - type: publisher
+    edition:
+      content: '0.1'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-S1301-2013
+    docid:
+    - id: CC/S 1301:2013
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2012-11-06'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Michael Douglass
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: CalConnect
+      role:
+      - type: publisher
+    edition:
+      content: '0.11'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: specification
+    abbreviation: S
+  editorialgroup:
+  - name: XML

@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: CC-A0402-2004
+title:
+- content: July 2004 CalConnect Interoperability Test Results Spreadsheet
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0402:2004
+  type: CalConnect
+  primary: true
+docnumber: '0402'
+date:
+- type: published
+  value: '2004-07-30'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2004-07-30'
+revdate: '2004-07-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2004'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: IOPTEST

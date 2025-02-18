@@ -1,26 +1,15 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: CC-Adv0707-2007
 title:
 - content: CalConnect EDST (Extended Daylight Savings Time) Reflections and Recommendations
   language:
   - en
   format: text/plain
-link:
-- content: https://standards.calconnect.org/csd/cc-0707.xml
-  type: xml
-- content: https://standards.calconnect.org/csd/cc-0707.pdf
-  type: pdf
-- content: https://standards.calconnect.org/csd/cc-0707.doc
-  type: doc
-- content: https://standards.calconnect.org/csd/cc-0707.html
-  type: html
-- content: https://standards.calconnect.org/csd/cc-0707.rxl
-  type: rxl
 type: standard
 docid:
 - id: CC/Adv 0707:2007
-  type: csd
+  type: CalConnect
   primary: true
 docnumber: '0707'
 date:
@@ -32,6 +21,44 @@ contributor:
     - content: CalConnect
   role:
   - type: author
+- person:
+    name:
+      completename:
+        content: Mike Mize
+    affiliation:
+    - organization:
+        name:
+        - content: California State University, Fresno
+        contact:
+        - address:
+            street:
+            - 5241 N Maple Ave
+            city: Fresno
+            country: USA
+    contact:
+    - email: mmize@mail.fresnostate.edu
+    - uri: http://www.fresnostate.edu
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Gary Schwartz
+    affiliation:
+    - organization:
+        name:
+        - content: Rensselaer Polytechnic Institute
+        contact:
+        - address:
+            street:
+            - 110 8th Street
+            city: Troy
+            country: USA
+    contact:
+    - email: schwag@rpi.edu
+    - uri: http://www.rpi.edu
+  role:
+  - type: editor
 - organization:
     name:
     - content: CalConnect
@@ -40,8 +67,8 @@ contributor:
 edition:
   content: '1'
 version:
-- revision_date: '2007-10-04T00:00:00Z'
-revdate: '2007-10-04T00:00:00Z'
+- revision_date: '2007-10-04'
+revdate: '2007-10-04'
 language:
 - en
 script:
@@ -54,9 +81,10 @@ copyright:
   - name:
     - content: CalConnect
   from: '2007'
-doctype:
-  type: advisory
-editorialgroup:
-- name: Ad Hoc DST
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: advisory
+    abbreviation: Adv
+  editorialgroup:
+  - name: Ad Hoc DST

@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: CC-A1502-2015
+title:
+- content: Report on Interoperability Test Event XXXII, January 26-28, 2015
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 1502:2015
+  type: CalConnect
+  primary: true
+docnumber: '1502'
+date:
+- type: published
+  value: '2015-02-18'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2015-02-18'
+revdate: '2015-02-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2015'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: IOPTEST

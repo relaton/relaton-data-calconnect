@@ -1,0 +1,75 @@
+---
+schema-version: v1.2.9
+id: CC-WD51008-2019
+title:
+- content: vObject — vObject Model and vFormat Syntax
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/WD 51008:2019
+  type: CalConnect
+  primary: true
+docnumber: '51008'
+date:
+- type: published
+  value: '2024-11-04'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ronald Tse
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jeffrey Lau
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Kenneth Murchison
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mike Douglass
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2024-11-04'
+revdate: '2024-11-04'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: working-draft
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2019'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: VCARD

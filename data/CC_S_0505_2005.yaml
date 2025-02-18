@@ -1,48 +1,103 @@
 ---
-schema-version: v1.2.8
-id: CC/S0505-2005
+schema-version: v1.2.9
+id: CC-S0505-2005
 title:
-- content: Results from Recurrence Questionnaire (CD 0505)
+- content: Results from First Recurrence Questionnaire
   language:
   - en
-  script:
-  - Latn
   format: text/plain
-  type: title-main
-- content: Results from Recurrence Questionnaire (CD 0505)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://standards.calconnect.org/pubdocs/CD0505%20Results%20from%20First%20Recurrence%20Questionnaire.pdf
-  type: pdf
 type: standard
 docid:
 - id: CC/S 0505:2005
-  type: CC
+  type: CalConnect
   primary: true
+docnumber: '0505'
+date:
+- type: published
+  value: '2005-07-21'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
 version:
-- revision_date: '2005-09-26'
-revdate: '2005-09-26'
-abstract:
-- content: The Recurrence Technical Committee of The Calendaring and Scheduling Consortium
-    has collected specific information on how Calendaring and Scheduling implementations
-    have, or have not, implemented the Recurrence Rules of RFCs 2445 and 2446, iCalendar
-    and iTIP. This document is part of the committee's work to compile actual usage
-    information and interoperability issues. The Recurrence Committee recently collected
-    information in the form of a Recurrence Questionnaire, which allowed vendors and
-    other producers and consumers of iCalendar recurrences to list the features of
-    iCalendar that they implemented. The questionnaire also contained space for comments
-    about each line item in the RFCs and also overall issues with recurrences. The
-    Recurrence Technical Committee has since analyzed the results of the questionnaire
-    into this document.
-  format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: RECURRENCE
+- revision_date: '2005-07-21'
+revdate: '2005-07-21'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2005'
+relation:
+- type: derivedFrom
+  bibitem:
+    id: CC-S0505-2005
+    title:
+    - content: Questionnaire on Implementation of Recurrence
+      language:
+      - en
+      format: text/plain
+    docid:
+    - id: CC/S 0505:2005
+      type: CalConnect
+      primary: true
+    docnumber: '0505'
+    date:
+    - type: published
+      value: '2005-07-21'
+    contributor:
+    - organization:
+        name:
+        - content: CalConnect
+      role:
+      - type: author
+    - organization:
+        name:
+        - content: CalConnect
+      role:
+      - type: publisher
+    edition:
+      content: '1'
+    version:
+    - revision_date: '2005-07-21'
+    revdate: '2005-07-21'
+    language:
+    - en
+    script:
+    - Latn
+    docstatus:
+      stage:
+        value: published
+    copyright:
+    - owner:
+      - name:
+        - content: CalConnect
+      from: '2005'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: RECURR
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: specification
+    abbreviation: S
+  editorialgroup:
+  - name: RECURR

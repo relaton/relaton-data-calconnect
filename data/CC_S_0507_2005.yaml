@@ -1,48 +1,62 @@
 ---
-schema-version: v1.2.8
-id: CC/S0507-2005
+schema-version: v1.2.9
+id: CC-S0507-2005
 title:
-- content: CalDAV Use Cases V1.0 (CD 0507)
+- content: CalDav Use Cases
   language:
   - en
-  script:
-  - Latn
   format: text/plain
-  type: title-main
-- content: CalDAV Use Cases V1.0 (CD 0507)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://standards.calconnect.org/pubdocs/CD0507%20CalDAV%20Use%20Cases%20V1.0.pdf
-  type: pdf
 type: standard
 docid:
 - id: CC/S 0507:2005
-  type: CC
+  type: CalConnect
   primary: true
+docnumber: '0507'
+date:
+- type: published
+  value: '2005-09-26'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Bernard Desruisseaux
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
 version:
 - revision_date: '2005-09-26'
 revdate: '2005-09-26'
-abstract:
-- content: This document is one in a series of use case documents that the Calendaring
-    and Scheduling Consortium is developing to help better define the needs of different
-    calendaring and scheduling user groups. As such, this document provides a list
-    of use cases for a calendar access protocol only. Other use case documents will
-    cover different areas of calendaring and scheduling, and will be made available
-    by the Consortium in the usual manner. While this list of use cases was developed
-    to assist in the development of the CalDAV protocol, none of the use cases are
-    specific to CalDAV, that is, this list of use cases should apply to any calendar
-    access protocol. It is expected that this document will be used as a basis to
-    further develop technical requirements for a calendar access protocol such as
-    CalDAV.
-  format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: CALDAV
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2005'
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: specification
+    abbreviation: S
+  editorialgroup:
+  - name: CALDAV

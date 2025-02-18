@@ -1,42 +1,64 @@
 ---
-schema-version: v1.2.8
-id: CC/R0604-2006
+schema-version: v1.2.9
+id: CC-R0604-2006
 title:
-- content: iCalendar Recurrence Problems and Recommendations V1.0 (CD 0604)
+- content: iCalendar Recurrence Problems and Recommendations
   language:
   - en
-  script:
-  - Latn
   format: text/plain
-  type: title-main
-- content: iCalendar Recurrence Problems and Recommendations V1.0 (CD 0604)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://standards.calconnect.org/pubdocs/CD0604%20iCalendar%20Recurrence%20Problems%20and%20Recommendations%20V1.0.pdf
-  type: pdf
 type: standard
 docid:
 - id: CC/R 0604:2006
-  type: CC
+  type: CalConnect
   primary: true
+docnumber: '0604'
+date:
+- type: published
+  value: '2006-03-16'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Chris Stoner
+    affiliation:
+    - organization:
+        name:
+        - content: IBM
+    contact:
+    - email: cstoner1@us.ibm.com
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
 version:
 - revision_date: '2006-03-16'
 revdate: '2006-03-16'
-abstract:
-- content: This document contains information about recurrence implementation issues
-    and recommendations on how to resolve these issues. We first explain what recurrences
-    are, justify the need for recurrences, identify recurrence implementation problems
-    and ambiguities, and then offer some guidelines and recommendations to solve these
-    issues.
-  format: text/plain
-doctype:
-  type: report
-editorialgroup:
-- name: RECURR
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2006'
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: report
+    abbreviation: R
+  editorialgroup:
+  - name: RECURR

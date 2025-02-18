@@ -1,0 +1,112 @@
+---
+schema-version: v1.2.9
+id: CC-A0909-2009
+title:
+- content: June 2009 CalConnect Interoperability Test Report
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0909:2009
+  type: CalConnect
+  primary: true
+docnumber: '0909'
+date:
+- type: published
+  value: '2009-08-30'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Patricia Egen
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Gordon Connelly
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Cyrus Daboo
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Bernard Desruisseaux
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Michael Douglass
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jon Drummond
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Firdosh Ghyara
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Helge Heß
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Morgen Sagen
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Matt Shepherd
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '2'
+version:
+- revision_date: '2009-08-30'
+revdate: '2009-08-30'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2009'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: IOPTEST

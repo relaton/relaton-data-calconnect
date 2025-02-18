@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.9
+id: CC-A0610-2006
+title:
+- content: Calendaring and Scheduling Glossary of Terms
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0610:2006
+  type: CalConnect
+  primary: true
+docnumber: '0610'
+date:
+- type: published
+  value: '2006-10-12'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jeff McCullough
+    affiliation:
+    - organization:
+        name:
+        - content: University of California at Berkeley
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2006-10-12'
+revdate: '2006-10-12'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2006'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: USECASE

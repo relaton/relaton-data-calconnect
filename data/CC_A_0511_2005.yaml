@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: CC-A0511-2005
+title:
+- content: Report on Roundtable II, 11-13 January 2005
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0511:2005
+  type: CalConnect
+  primary: true
+docnumber: '0511'
+date:
+- type: published
+  value: '2005-01-13'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2005-01-13'
+revdate: '2005-01-13'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2005'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: CALCONNECT

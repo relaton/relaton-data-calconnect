@@ -1,0 +1,57 @@
+---
+schema-version: v1.2.9
+id: CC-CD51011-2024
+title:
+- content: Calendaring and scheduling — iTip using PARTICIPANT only
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/CD 51011:2024
+  type: CalConnect
+  primary: true
+docnumber: '51011'
+date:
+- type: published
+  value: '2024-12-01'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Michael Douglass
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2024-12-01'
+revdate: '2024-12-01'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: committee-draft
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2024'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: FREEBUSY

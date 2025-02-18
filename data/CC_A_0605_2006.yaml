@@ -1,0 +1,56 @@
+---
+schema-version: v1.2.9
+id: CC-A0605-2006
+title:
+- content: OMA-DS CalConnect Liaison Briefing
+  language:
+  - en
+  format: text/plain
+- content: OMA DS - CalConnect Primer
+  language:
+  - main-en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0605:2006
+  type: CalConnect
+  primary: true
+docnumber: '0605'
+date:
+- type: published
+  value: '2006-04-05'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2006-04-05'
+revdate: '2006-04-05'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2006'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: CALCONNECT

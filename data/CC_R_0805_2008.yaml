@@ -1,0 +1,72 @@
+---
+schema-version: v1.2.9
+id: CC-R0805-2008
+title:
+- content: Mobile Recurrence Interoperability Recommendations
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/R 0805:2008
+  type: CalConnect
+  primary: true
+docnumber: '0805'
+date:
+- type: published
+  value: '2008-07-29'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Chris Dudding
+    affiliation:
+    - organization:
+        name:
+        - content: Symbian Ltd
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Mark Paterson
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle Corporation
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2008-07-29'
+revdate: '2008-07-29'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2008'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: report
+    abbreviation: R
+  editorialgroup:
+  - name: MOBILE

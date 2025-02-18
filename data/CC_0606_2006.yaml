@@ -1,41 +1,63 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: CC0606-2006
 title:
-- content: Timezone Registry and Service Recommendations V1.0 (CD 0606)
+- content: Timezone Registry and Service Recommendations
   language:
   - en
-  script:
-  - Latn
   format: text/plain
-  type: title-main
-- content: Timezone Registry and Service Recommendations V1.0 (CD 0606)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://standards.calconnect.org/pubdocs/CD0606%20Timezone%20Registry%20and%20Service%20Recommendations%20V1.0.pdf
-  type: pdf
 type: standard
 docid:
 - id: CC 0606:2006
-  type: CC
+  type: CalConnect
   primary: true
+docnumber: '0606'
+date:
+- type: published
+  value: '2006-04-17'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Simon Vaillancourt
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle Corporation
+    contact:
+    - email: simon.vaillancourt@oracle.com
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
 version:
 - revision_date: '2006-04-17'
 revdate: '2006-04-17'
-abstract:
-- content: This document contains technical recommendations on implementing a time
-    zone registry and a time zone service. Standardized time zones are needed for
-    improved interoperability to avoid some common problems, and to allow using time
-    zones by reference rather than value.
-  format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: TIMEZONE
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2006'
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: TIMEZONE

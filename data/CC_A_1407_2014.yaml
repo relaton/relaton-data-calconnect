@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: CC-A1407-2014
+title:
+- content: Report on Interoperability Test Event XXXI, September 29 - October 1, 2014
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 1407:2014
+  type: CalConnect
+  primary: true
+docnumber: '1407'
+date:
+- type: published
+  value: '2014-10-31'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2014-10-31'
+revdate: '2014-10-31'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2014'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: IOPTEST

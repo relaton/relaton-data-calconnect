@@ -1,35 +1,104 @@
 ---
-schema-version: v1.2.8
-id: CC/S1004-2010
+schema-version: v1.2.9
+id: CC-S1004-2010
 title:
-- content: Cal-WS Web Services API for Calendaring and Scheduling V0.3 (CD 1004)
+- content: Cal-WS Web Services API for Calendaring and Scheduling
   language:
   - en
-  script:
-  - Latn
   format: text/plain
-  type: title-main
-- content: Cal-WS Web Services API for Calendaring and Scheduling V0.3 (CD 1004)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://standards.calconnect.org/pubdocs/CD1004%20Cal-WS%20Web%20Services%20API%20V0.3.pdf
-  type: pdf
 type: standard
 docid:
 - id: CC/S 1004:2010
-  type: CC
+  type: CalConnect
   primary: true
+docnumber: '1004'
+date:
+- type: published
+  value: '2010-05-19'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '0.3'
 version:
 - revision_date: '2010-05-19'
 revdate: '2010-05-19'
-doctype:
-  type: specification
-editorialgroup:
-- name: XML
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: proposal
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2010'
+relation:
+- type: updatedBy
+  bibitem:
+    id: CC-S1004-2010
+    docid:
+    - id: CC/S 1004:2010
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2010-01-01'
+    edition:
+      content: '0.1'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-S1004-2010
+    docid:
+    - id: CC/S 1004:2010
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2010-01-01'
+    edition:
+      content: '0.2'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-S1004-2010
+    docid:
+    - id: CC/S 1004:2010
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2010-01-01'
+    edition:
+      content: '0.3'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: XML
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: specification
+    abbreviation: S
+  editorialgroup:
+  - name: XML

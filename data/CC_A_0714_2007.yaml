@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: CC-A0714-2007
+title:
+- content: Report on CalConnect vCard Workshop, September 18 2007
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0714:2007
+  type: CalConnect
+  primary: true
+docnumber: '0714'
+date:
+- type: published
+  value: '2007-09-18'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1.1'
+version:
+- revision_date: '2007-09-18'
+revdate: '2007-09-18'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2007'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: VCARD WKSP

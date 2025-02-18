@@ -1,0 +1,112 @@
+---
+schema-version: v1.2.9
+id: CC-A0603-2006
+title:
+- content: January 2006 CalConnect Interoperability Test Report
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0603:2006
+  type: CalConnect
+  primary: true
+docnumber: '0603'
+date:
+- type: published
+  value: '2006-02-09'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Patricia Egen
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: David Nuttell
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Dave Camp
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Joey Minta
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Grant Baillie
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Simon Vaillancourt
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Chuck Norris
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Dan Markham
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Dan Hickman
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mike Douglass
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2006-02-09'
+revdate: '2006-02-09'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2006'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: IOPTEST

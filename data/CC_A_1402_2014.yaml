@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: CC-A1402-2014
+title:
+- content: Report on Interoperability Test Event XXIX, February 3-5, 2014
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 1402:2014
+  type: CalConnect
+  primary: true
+docnumber: '1402'
+date:
+- type: published
+  value: '2014-02-28'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2014-02-28'
+revdate: '2014-02-28'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2014'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: IOPTEST

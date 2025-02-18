@@ -1,43 +1,81 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: CC0703-2007
 title:
-- content: CalDAV Scheduling Requirements V1.1 (CD 0703)
+- content: CalDav Scheduling Requirements
   language:
   - en
-  script:
-  - Latn
   format: text/plain
-  type: title-main
-- content: CalDAV Scheduling Requirements V1.1 (CD 0703)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://standards.calconnect.org/pubdocs/CD0703%20CalDAV%20Scheduling%20Requirements%20V1.1.pdf
-  type: pdf
 type: standard
 docid:
 - id: CC 0703:2007
-  type: CC
+  type: CalConnect
   primary: true
+docnumber: '0703'
+date:
+- type: published
+  value: '2007-07-11'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Tony Becker
+    affiliation:
+    - organization:
+        name:
+        - content: Marware
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Cyrus Daboo
+    affiliation:
+    - organization:
+        name:
+        - content: Apple
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Bernard Desruisseaux
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1.1'
 version:
 - revision_date: '2007-07-11'
 revdate: '2007-07-11'
-abstract:
-- content: This document was created by the CalDAV Technical Committee of the Calendaring
-    and Scheduling Consortium. It presents a list of features in the form of requirements
-    for the scheduling extensions to CalDAV [RFC 4791], that is, the extensions to
-    the Web Distributed Authoring and Versioning (WebDAV) [RFC 2518] protocol to specify
-    a standard way of exchanging and processing scheduling messages based on the iCalendar
-    Transport-Independent Interoperability Protocol (iTIP) [RFC 2446].
-  format: text/plain
-doctype:
-  type: standard
-editorialgroup:
-- name: CALDAV
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2007'
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: CALDAV

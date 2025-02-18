@@ -1,26 +1,15 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: CC18012-2018
 title:
 - content: Date and time — General recurrence representation
   language:
   - en
   format: text/plain
-link:
-- content: https://standards.calconnect.org/csd/cc-18012.xml
-  type: xml
-- content: https://standards.calconnect.org/csd/cc-18012.pdf
-  type: pdf
-- content: https://standards.calconnect.org/csd/cc-18012.doc
-  type: doc
-- content: https://standards.calconnect.org/csd/cc-18012.html
-  type: html
-- content: https://standards.calconnect.org/csd/cc-18012.rxl
-  type: rxl
 type: standard
 docid:
 - id: CC 18012:2018
-  type: csd
+  type: CalConnect
   primary: true
 docnumber: '18012'
 date:
@@ -54,9 +43,9 @@ copyright:
   - name:
     - content: CalConnect
   from: '2018'
-doctype:
-  type: standard
-editorialgroup:
-- name: VCARD, CALENDAR
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: VCARD, CALENDAR

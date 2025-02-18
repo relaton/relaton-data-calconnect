@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: CC-A0608-2006
+title:
+- content: The Open Group Federated Freebusy Challenge Demo
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0608:2006
+  type: CalConnect
+  primary: true
+docnumber: '0608'
+date:
+- type: published
+  value: '2006-07-17'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Wen Fang
+    affiliation:
+    - organization:
+        name:
+        - content: Boeing
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Mike Douglass
+    affiliation:
+    - organization:
+        name:
+        - content: RPI
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Gary Schwartz
+    affiliation:
+    - organization:
+        name:
+        - content: RPI
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2006-07-17'
+revdate: '2006-07-17'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2006'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: FREEBUSY

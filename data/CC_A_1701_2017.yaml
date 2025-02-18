@@ -1,26 +1,15 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: CC-A1701-2017
 title:
 - content: Report on CalConnect Conference XXXVIII, February 15-17, 2017
   language:
   - en
   format: text/plain
-link:
-- content: https://standards.calconnect.org/csd/csd-report-conference-38.xml
-  type: xml
-- content: https://standards.calconnect.org/csd/csd-report-conference-38.pdf
-  type: pdf
-- content: https://standards.calconnect.org/csd/csd-report-conference-38.doc
-  type: doc
-- content: https://standards.calconnect.org/csd/csd-report-conference-38.html
-  type: html
-- content: https://standards.calconnect.org/csd/csd-report-conference-38.rxl
-  type: rxl
 type: standard
 docid:
 - id: CC/A 1701:2017
-  type: csd
+  type: CalConnect
   primary: true
 docnumber: '1701'
 date:
@@ -54,9 +43,10 @@ copyright:
   - name:
     - content: CalConnect
   from: '2017'
-doctype:
-  type: administrative
-editorialgroup:
-- name: CHAIRS
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: CALCONNECT

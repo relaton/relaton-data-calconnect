@@ -1,35 +1,108 @@
 ---
-schema-version: v1.2.8
-id: CC/S0706-2008
+schema-version: v1.2.9
+id: CC-S0706-2008
 title:
-- content: Mobile Calendar Interoperability Test Suite V1.1 (CD 0706)
+- content: Mobile Calendar Interoperability Test Suite
   language:
   - en
-  script:
-  - Latn
   format: text/plain
-  type: title-main
-- content: Mobile Calendar Interoperability Test Suite V1.1 (CD 0706)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://standards.calconnect.org/pubdocs/CD0706%20Mobile%20Calendar%20Interoperability%20Test%20Suite%20V1.1.pdf
-  type: pdf
 type: standard
 docid:
 - id: CC/S 0706:2008
-  type: CC
+  type: CalConnect
   primary: true
+docnumber: '0706'
+date:
+- type: published
+  value: '2008-08-24'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Chris Dudding
+    affiliation:
+    - organization:
+        name:
+        - content: Symbian Ltd
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Mark Paterson
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1.1'
 version:
 - revision_date: '2008-08-24'
 revdate: '2008-08-24'
-doctype:
-  type: specification
-editorialgroup:
-- name: MOBILE
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2008'
+relation:
+- type: updatedBy
+  bibitem:
+    id: CC-S0706-2008
+    docid:
+    - id: CC/S 0706:2008
+      type: CalConnect
+    date:
+    - type: published
+      value: '2007-08-28'
+    edition:
+      content: '1.0'
+    revdate: '2007-08-28'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: MOBILE
+- type: updatedBy
+  bibitem:
+    id: CC-S0706-2008
+    docid:
+    - id: CC/S 0706:2008
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2008-08-04'
+    edition:
+      content: '1.1'
+    ext:
+      doctype:
+        type: specification
+        abbreviation: S
+      editorialgroup:
+      - name: MOBILE
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: specification
+    abbreviation: S
+  editorialgroup:
+  - name: MOBILE

@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: CC-A1903-2019
+title:
+- content: Report on CalConnect Conference XLVI, October 7-10 2019
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 1903:2019
+  type: CalConnect
+  primary: true
+docnumber: '1903'
+date:
+- type: published
+  value: '2019-11-07'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2019-11-07'
+revdate: '2019-11-07'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2019'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: CALCONNECT

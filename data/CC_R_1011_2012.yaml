@@ -1,0 +1,191 @@
+---
+schema-version: v1.2.9
+id: CC-R1011-2012
+title:
+- content: CalWS-Rest - Restful Web Services Protocol for Calendaring
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/R 1011:2012
+  type: CalConnect
+  primary: true
+docnumber: '1011'
+date:
+- type: published
+  value: '2012-02-22'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Michael Douglass
+    affiliation:
+    - organization:
+        name:
+        - content: Rensselaer Polytechnic Institute
+    contact:
+    - email: douglm@rpi.edu
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: 1.0.1
+version:
+- revision_date: '2012-02-22'
+revdate: '2012-02-22'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    &lt;review reviewer="(Unknown)" date="2025-02-17T00:00:00Z" type="todo"&gt;&lt;p&gt;Summary of the technical purpose of the document.&lt;/p&gt;
+    &lt;/review&gt;
+  format: text/plain
+docstatus:
+  stage:
+    value: draft
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2012'
+relation:
+- type: updatedBy
+  bibitem:
+    id: CC-R1011-2012
+    docid:
+    - id: CC/R 1011:2012
+      type: CalConnect
+    date:
+    - type: published
+      value: '2011-03-19'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Toby Considine
+      role:
+      - type: author
+    edition:
+      content: '0.1'
+    revdate: '2011-03-19'
+    ext:
+      doctype:
+        type: report
+        abbreviation: R
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-R1011-2012
+    docid:
+    - id: CC/R 1011:2012
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2012-02-13'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Toby Considine
+      role:
+      - type: author
+    edition:
+      content: '0.2'
+    ext:
+      doctype:
+        type: report
+        abbreviation: R
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-R1011-2012
+    docid:
+    - id: CC/R 1011:2012
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2012-02-15'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Toby Considine
+      role:
+      - type: author
+    edition:
+      content: '0.3'
+    ext:
+      doctype:
+        type: report
+        abbreviation: R
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-R1011-2012
+    docid:
+    - id: CC/R 1011:2012
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2012-02-17'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Toby Considine
+      role:
+      - type: author
+    edition:
+      content: '0.4'
+    ext:
+      doctype:
+        type: report
+        abbreviation: R
+      editorialgroup:
+      - name: XML
+- type: updatedBy
+  bibitem:
+    id: CC-R1011-2012
+    docid:
+    - id: CC/R 1011:2012
+      type: CalConnect
+    date:
+    - type: updated
+      value: '2012-02-17'
+    contributor:
+    - person:
+        name:
+          completename:
+            content: Toby Considine
+      role:
+      - type: author
+    edition:
+      content: '0.5'
+    ext:
+      doctype:
+        type: report
+        abbreviation: R
+      editorialgroup:
+      - name: XML
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: report
+    abbreviation: R
+  editorialgroup:
+  - name: XML

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: CC-Adv18018-2018
 title:
 - content: 'CalConnect calls on EU to reconsider timeline for proposed seasonal time
@@ -8,21 +8,10 @@ title:
   language:
   - en
   format: text/plain
-link:
-- content: https://standards.calconnect.org/csd/cc-18018.xml
-  type: xml
-- content: https://standards.calconnect.org/csd/cc-18018.pdf
-  type: pdf
-- content: https://standards.calconnect.org/csd/cc-18018.doc
-  type: doc
-- content: https://standards.calconnect.org/csd/cc-18018.html
-  type: html
-- content: https://standards.calconnect.org/csd/cc-18018.rxl
-  type: rxl
 type: standard
 docid:
 - id: CC/Adv 18018:2018
-  type: csd
+  type: CalConnect
   primary: true
 docnumber: '18018'
 date:
@@ -56,9 +45,10 @@ copyright:
   - name:
     - content: CalConnect
   from: '2018'
-doctype:
-  type: advisory
-editorialgroup:
-- name: Ad Hoc EU Time
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: advisory
+    abbreviation: Adv
+  editorialgroup:
+  - name: Ad Hoc EU Time

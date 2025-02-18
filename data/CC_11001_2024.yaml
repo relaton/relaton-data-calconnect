@@ -1,0 +1,105 @@
+---
+schema-version: v1.2.9
+id: CC11001-2024
+title:
+- content: Calendaring — Task Extensions to iCalendar
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC 11001:2024
+  type: CalConnect
+  primary: true
+docnumber: '11001'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Adrian Apthorp
+    affiliation:
+    - organization:
+        name:
+        - content: DHL Express
+        contact:
+        - address:
+            street:
+            - Fritz-Erler-Str. 5
+            city: Bonn
+            country: Germany
+    contact:
+    - email: adrian.apthorp@dhl.com
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Michael Douglass
+    affiliation:
+    - organization:
+        name:
+        - content: Bedework Commercial Services
+        contact:
+        - address:
+            street:
+            - 226 3rd Street
+            city: Troy
+            state: NY
+            country: United States of America
+    contact:
+    - email: mdouglass@bedework.com
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+version:
+- revision_date: '2024-02-15'
+revdate: '2024-02-15'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |-
+    &lt;p&gt;The Internet Calendaring and Scheduling Core Object Specification (iCalendar) (RFC5545) VTODO calendar component has been seen as the poor relation of VEVENT - useful only for personal reminders and to-do lists.&lt;/p&gt;
+
+    &lt;p&gt;This document updates and defines extensions to VTODO to provide improved status tracking, scheduling and specification of tasks to allow its use in other contexts, such as process control and project management.&lt;/p&gt;
+
+    &lt;p&gt;It also defines how Calendaring Extensions to WebDAV (CalDAV) (RFC 4791) servers can be extended to support certain automated task management behaviours.&lt;/p&gt;
+
+    &lt;p&gt;The Calendaring and Scheduling Consortium ("CalConnect") is a global non-profit organization with the aim to facilitate interoperability of collaborative technologies and tools through open standards.&lt;/p&gt;
+
+    &lt;p&gt;CalConnect works closely with international and regional partners, of which the full list is available on our website ( &lt;link target="https://www.calconnect.org/about/liaisons-and-relationships"/&gt;).&lt;/p&gt;
+
+    &lt;p&gt;The procedures used to develop this document and those intended for its further maintenance are described in the CalConnect Directives.&lt;/p&gt;
+
+    &lt;p&gt;In particular the different approval criteria needed for the different types of CalConnect documents should be noted. This document was drafted in accordance with the editorial rules of the CalConnect Directives.&lt;/p&gt;
+
+    &lt;p&gt;Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. CalConnect shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be provided in the Introduction.&lt;/p&gt;
+
+    &lt;p&gt;Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.&lt;/p&gt;
+
+    &lt;p&gt;This document was prepared by Technical Committee &lt;em&gt;CALENDAR&lt;/em&gt;.&lt;/p&gt;
+  format: text/plain
+docstatus:
+  stage:
+    value: standard
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2024'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: CALENDAR

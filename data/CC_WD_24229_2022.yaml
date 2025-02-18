@@ -1,0 +1,63 @@
+---
+schema-version: v1.2.9
+id: CC-WD24229-2022
+title:
+- content: Information and documentation — Codes for written language conversion systems
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/WD 24229:2022
+  type: CalConnect
+  primary: true
+docnumber: '24229'
+date:
+- type: published
+  value: '2022-05-16'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Ronald Tse
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jeffrey Lau
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2022-05-16'
+revdate: '2022-05-16'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: working-draft
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2022'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: standard
+  editorialgroup:
+  - name: LOCALIZATION

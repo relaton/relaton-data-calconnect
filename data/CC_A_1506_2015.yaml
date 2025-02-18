@@ -1,0 +1,52 @@
+---
+schema-version: v1.2.9
+id: CC-A1506-2015
+title:
+- content: Report on CalConnect Conference XXXIV, September 30 - October 2, 2015
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 1506:2015
+  type: CalConnect
+  primary: true
+docnumber: '1506'
+date:
+- type: published
+  value: '2015-10-23'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2015-10-23'
+revdate: '2015-10-23'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2015'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: CALCONNECT

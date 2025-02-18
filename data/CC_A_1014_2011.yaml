@@ -1,0 +1,82 @@
+---
+schema-version: v1.2.9
+id: CC-A1014-2011
+title:
+- content: October 2010 CalConnect Interoperability Test Event Report
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 1014:2011
+  type: CalConnect
+  primary: true
+docnumber: '1014'
+date:
+- type: published
+  value: '2011-01-11'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Patricia Egen
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Nate Barry
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Cyrus Daboo
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Michael Douglass
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Arnaud Quillaud
+  role:
+  - type: author
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2011-01-11'
+revdate: '2011-01-11'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2011'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: CALCONNECT

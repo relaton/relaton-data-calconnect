@@ -1,0 +1,62 @@
+---
+schema-version: v1.2.9
+id: CC-A0609-2006
+title:
+- content: Report on Mobile Calendaring Questionnaire V2 Results
+  language:
+  - en
+  format: text/plain
+type: standard
+docid:
+- id: CC/A 0609:2006
+  type: CalConnect
+  primary: true
+docnumber: '0609'
+date:
+- type: published
+  value: '2006-07-24'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Chris Dudding
+    affiliation:
+    - organization:
+        name:
+        - content: Symbian Ltd
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1'
+version:
+- revision_date: '2006-07-24'
+revdate: '2006-07-24'
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2006'
+ext:
+  schema-version: v1.0.0
+  doctype:
+    type: administrative
+    abbreviation: A
+  editorialgroup:
+  - name: MOBILE

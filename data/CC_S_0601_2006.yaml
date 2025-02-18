@@ -1,43 +1,62 @@
 ---
-schema-version: v1.2.8
-id: CC/S0601-2006
+schema-version: v1.2.9
+id: CC-S0601-2006
 title:
-- content: Min-IOP (Minimum Interoperable Subset) Use Cases V1.1 (CD 0601)
+- content: Min-IOP (Minimum Interoperable Subset) Use Cases
   language:
   - en
-  script:
-  - Latn
   format: text/plain
-  type: title-main
-- content: Min-IOP (Minimum Interoperable Subset) Use Cases V1.1 (CD 0601)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-  type: main
-link:
-- content: https://standards.calconnect.org/pubdocs/CD0601%20Min-IOP%20Use%20Cases%20V1.1.pdf
-  type: pdf
 type: standard
 docid:
 - id: CC/S 0601:2006
-  type: CC
+  type: CalConnect
   primary: true
+docnumber: '0601'
+date:
+- type: published
+  value: '2006-01-24'
+contributor:
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: author
+- person:
+    name:
+      completename:
+        content: Jeff McCullouch
+    affiliation:
+    - organization:
+        name:
+        - content: UC Berkeley
+  role:
+  - type: editor
+- organization:
+    name:
+    - content: CalConnect
+  role:
+  - type: publisher
+edition:
+  content: '1.1'
 version:
 - revision_date: '2006-01-24'
 revdate: '2006-01-24'
-abstract:
-- content: This document was created by the Use Case Technical Committee of the Calendaring
-    and Scheduling Consortium. The document defines the use cases for minimum interoperability
-    of calendaring and scheduling. Minimum interoperability is the basic level of
-    functionality our collective experience tells us is necessary to have a useful
-    system. We realize that in some cases it may be more than is currently offered
-    by 'basic' calendaring and scheduling applications.
-  format: text/plain
-doctype:
-  type: specification
-editorialgroup:
-- name: USECASE
+language:
+- en
+script:
+- Latn
+docstatus:
+  stage:
+    value: published
+copyright:
+- owner:
+  - name:
+    - content: CalConnect
+  from: '2006'
 ext:
   schema-version: v1.0.0
+  doctype:
+    type: specification
+    abbreviation: S
+  editorialgroup:
+  - name: USECASE

@@ -1,46 +1,52 @@
 ---
-schema-version: v1.2.9
 id: CC-CD70025-2017
-title:
-- content: Calendaring and scheduling — Push Discovery and Notification Dispatch Protocol
-  language:
-  - en
-  format: text/plain
-link:
-- content: http://dmfs.org
 type: standard
-docid:
-- id: CC/CD 70025:2017
+schema_version: v1.4.1
+title:
+- language: en
+  content: Calendaring and scheduling — Push Discovery and Notification Dispatch Protocol
+docidentifier:
+- content: CC/CD 70025:2017
   type: CalConnect
   primary: true
 docnumber: '70025'
 date:
 - type: published
-  value: '2017-04-17'
+  at: '2017-04-17'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - marten@dmfs.org
     name:
       completename:
         content: Marten Gajda
-    contact:
-    - email: marten@dmfs.org
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: PUSH
+      type: technical-committee
 edition:
-  content: '1'
+  number: '1'
 version:
 - revision_date: '2017-04-17'
-revdate: '2017-04-17'
 language:
 - en
 script:
@@ -62,23 +68,25 @@ abstract:
     &lt;p&gt;Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.&lt;/p&gt;
 
     &lt;p&gt;This document was prepared by Technical Committee &lt;em&gt;PUSH&lt;/em&gt;.&lt;/p&gt;
-  format: text/plain
-docstatus:
+status:
   stage:
-    value: committee-draft
+    content: committee-draft
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2017'
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 keyword:
-- content: push
-- content: CardDAV
-- content: CalDAV
-- content: WebDAV
+- taxon:
+    content: push
+- taxon:
+    content: CardDAV
+- taxon:
+    content: CalDAV
+- taxon:
+    content: WebDAV
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: standard
-  editorialgroup:
-  - name: PUSH
+    content: standard
+  flavor: calconnect

@@ -1,53 +1,60 @@
 ---
-schema-version: v1.2.9
 id: CC-A1403-2014
-title:
-- content: Workshop on the Veterans Administration Scheduling System Challenge, CalConnect
-    XXX, Dulles, Virginia, May 21 2014
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/A 1403:2014
+schema_version: v1.4.1
+title:
+- language: en
+  content: Workshop on the Veterans Administration Scheduling System Challenge, CalConnect
+    XXX, Dulles, Virginia, May 21 2014
+docidentifier:
+- content: CC/A 1403:2014
   type: CalConnect
   primary: true
 docnumber: '1403'
 date:
 - type: published
-  value: '2014-06-01'
+  at: '2014-06-01'
 contributor:
-- organization:
-    name:
-    - content: CalConnect
-  role:
+- role:
   - type: author
-- organization:
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALCONNECT
+      type: technical-committee
 edition:
-  content: '1.1'
+  number: '1.1'
 version:
 - revision_date: '2014-06-01'
-revdate: '2014-06-01'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2014'
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: administrative
     abbreviation: A
-  editorialgroup:
-  - name: CALCONNECT
+    content: administrative
+  flavor: calconnect

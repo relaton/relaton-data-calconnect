@@ -1,53 +1,60 @@
 ---
-schema-version: v1.2.9
 id: CC-R10100-2019
-title:
-- content: Alignment to international principles — WTO TBT principles for the Development
-    of International Standards, Guides and Recommendations
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/R 10100:2019
+schema_version: v1.4.1
+title:
+- language: en
+  content: Alignment to international principles — WTO TBT principles for the Development
+    of International Standards, Guides and Recommendations
+docidentifier:
+- content: CC/R 10100:2019
   type: CalConnect
   primary: true
 docnumber: '10100'
 date:
 - type: published
-  value: '2019-03-18'
+  at: '2019-03-18'
 contributor:
-- organization:
-    name:
-    - content: CalConnect
-  role:
+- role:
   - type: author
-- organization:
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: PUBLISH
+      type: technical-committee
 edition:
-  content: '1'
+  number: '1'
 version:
 - revision_date: '2019-03-18'
-revdate: '2019-03-18'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2019'
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: report
     abbreviation: R
-  editorialgroup:
-  - name: PUBLISH
+    content: report
+  flavor: calconnect

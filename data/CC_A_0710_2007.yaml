@@ -1,100 +1,107 @@
 ---
-schema-version: v1.2.9
 id: CC-A0710-2007
-title:
-- content: September 2007 CalConnect Interoperability Test Report
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/A 0710:2007
+schema_version: v1.4.1
+title:
+- language: en
+  content: September 2007 CalConnect Interoperability Test Report
+docidentifier:
+- content: CC/A 0710:2007
   type: CalConnect
   primary: true
 docnumber: '0710'
 date:
 - type: published
-  value: '2007-12-14'
+  at: '2007-12-14'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Patricia Egen
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Tony Becker
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Cyrus Daboo
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Mike Douglass
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Tomas Hnetila
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Bill Le
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Brian Moseley
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Clint Talbert
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: IOPTEST
+      type: technical-committee
 edition:
-  content: '2'
+  number: '2'
 version:
 - revision_date: '2007-12-14'
-revdate: '2007-12-14'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2007'
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: administrative
     abbreviation: A
-  editorialgroup:
-  - name: IOPTEST
+    content: administrative
+  flavor: calconnect

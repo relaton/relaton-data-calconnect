@@ -1,76 +1,83 @@
 ---
-schema-version: v1.2.9
 id: CC-A0803-2008
-title:
-- content: February 2008 CalConnect Mobile Interoperability Test Report
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/A 0803:2008
+schema_version: v1.4.1
+title:
+- language: en
+  content: February 2008 CalConnect Mobile Interoperability Test Report
+docidentifier:
+- content: CC/A 0803:2008
   type: CalConnect
   primary: true
 docnumber: '0803'
 date:
 - type: published
-  value: '2008-04-09'
+  at: '2008-04-09'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Patricia Egen
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Mike Zhou
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Tomas Hnetila
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: David Coulter
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: IOPTEST
+      type: technical-committee
 edition:
-  content: '2'
+  number: '2'
 version:
 - revision_date: '2008-04-09'
-revdate: '2008-04-09'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2008'
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: administrative
     abbreviation: A
-  editorialgroup:
-  - name: IOPTEST
+    content: administrative
+  flavor: calconnect

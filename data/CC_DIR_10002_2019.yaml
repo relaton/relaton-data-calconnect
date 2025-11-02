@@ -1,52 +1,59 @@
 ---
-schema-version: v1.2.9
 id: CC-DIR10002-2019
-title:
-- content: 'CalConnect Directive: Standard document requirements'
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/DIR 10002:2019
+schema_version: v1.4.1
+title:
+- language: en
+  content: 'CalConnect Directive: Standard document requirements'
+docidentifier:
+- content: CC/DIR 10002:2019
   type: CalConnect
   primary: true
 docnumber: '10002'
 date:
 - type: published
-  value: '2019-01-18'
+  at: '2019-01-18'
 contributor:
-- organization:
-    name:
-    - content: CalConnect
-  role:
+- role:
   - type: author
-- organization:
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: PUBLISH
+      type: technical-committee
 edition:
-  content: '1'
+  number: '1'
 version:
 - revision_date: '2019-01-18'
-revdate: '2019-01-18'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2019'
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: directive
     abbreviation: DIR
-  editorialgroup:
-  - name: PUBLISH
+    content: directive
+  flavor: calconnect

@@ -1,56 +1,61 @@
 ---
-schema-version: v1.2.9
 id: CC-A0502-2005
-title:
-- content: January 2005 CalConnect Interoperability Test Report
-  language:
-  - en
-  format: text/plain
-- content: Interoperability Testing of RFC 2445 and the current CALDAV draft
-  language:
-  - main-en
-  format: text/plain
 type: standard
-docid:
-- id: CC/A 0502:2005
+schema_version: v1.4.1
+title:
+- language: en
+  content: January 2005 CalConnect Interoperability Test Report
+- language: main-en
+  content: Interoperability Testing of RFC 2445 and the current CALDAV draft
+docidentifier:
+- content: CC/A 0502:2005
   type: CalConnect
   primary: true
 docnumber: '0502'
 date:
 - type: published
-  value: '2005-01-12'
+  at: '2005-01-12'
 contributor:
-- organization:
-    name:
-    - content: CalConnect
-  role:
+- role:
   - type: author
-- organization:
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: IOPTEST
+      type: technical-committee
 edition:
-  content: '1'
+  number: '1'
 version:
 - revision_date: '2005-01-12'
-revdate: '2005-01-12'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2005'
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: administrative
     abbreviation: A
-  editorialgroup:
-  - name: IOPTEST
+    content: administrative
+  flavor: calconnect

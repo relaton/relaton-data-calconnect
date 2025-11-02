@@ -1,27 +1,29 @@
 ---
-schema-version: v1.2.9
 id: CC-R0604-2006
-title:
-- content: iCalendar Recurrence Problems and Recommendations
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/R 0604:2006
+schema_version: v1.4.1
+title:
+- language: en
+  content: iCalendar Recurrence Problems and Recommendations
+docidentifier:
+- content: CC/R 0604:2006
   type: CalConnect
   primary: true
 docnumber: '0604'
 date:
 - type: published
-  value: '2006-03-16'
+  at: '2006-03-16'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: author
-- person:
+- role:
+  - type: editor
+  person:
+    email:
+    - cstoner1@us.ibm.com
     name:
       completename:
         content: Chris Stoner
@@ -29,36 +31,41 @@ contributor:
     - organization:
         name:
         - content: IBM
-    contact:
-    - email: cstoner1@us.ibm.com
-  role:
-  - type: editor
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: RECURR
+      type: technical-committee
 edition:
-  content: '1'
+  number: '1'
 version:
 - revision_date: '2006-03-16'
-revdate: '2006-03-16'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2006'
+- from: '2006'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: report
     abbreviation: R
-  editorialgroup:
-  - name: RECURR
+    content: report
+  flavor: calconnect

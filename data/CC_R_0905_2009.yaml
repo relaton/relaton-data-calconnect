@@ -1,61 +1,68 @@
 ---
-schema-version: v1.2.9
 id: CC-R0905-2009
-title:
-- content: State of Resource Interoperability for Calendaring, Groupware, and Project
-    Management
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/R 0905:2009
+schema_version: v1.4.1
+title:
+- language: en
+  content: State of Resource Interoperability for Calendaring, Groupware, and Project
+    Management
+docidentifier:
+- content: CC/R 0905:2009
   type: CalConnect
   primary: true
 docnumber: '0905'
 date:
 - type: published
-  value: '2009-06-10'
+  at: '2009-06-10'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: author
-- person:
+- role:
+  - type: editor
+  person:
+    email:
+    - jstalnak@wisc.edu
     name:
       completename:
         content: Guy Stalnaker
-    contact:
-    - email: jstalnak@wisc.edu
-  role:
-  - type: editor
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: USECASE
+      type: technical-committee
 edition:
-  content: '1'
+  number: '1'
 version:
 - revision_date: '2009-06-10'
-revdate: '2009-06-10'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2009'
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: report
     abbreviation: R
-  editorialgroup:
-  - name: USECASE
+    content: report
+  flavor: calconnect

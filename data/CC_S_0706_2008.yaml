@@ -1,27 +1,27 @@
 ---
-schema-version: v1.2.9
 id: CC-S0706-2008
-title:
-- content: Mobile Calendar Interoperability Test Suite
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/S 0706:2008
+schema_version: v1.4.1
+title:
+- language: en
+  content: Mobile Calendar Interoperability Test Suite
+docidentifier:
+- content: CC/S 0706:2008
   type: CalConnect
   primary: true
 docnumber: '0706'
 date:
 - type: published
-  value: '2008-08-24'
+  at: '2008-08-24'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: author
-- person:
+- role:
+  - type: editor
+  person:
     name:
       completename:
         content: Chris Dudding
@@ -29,9 +29,9 @@ contributor:
     - organization:
         name:
         - content: Symbian Ltd
-  role:
+- role:
   - type: editor
-- person:
+  person:
     name:
       completename:
         content: Mark Paterson
@@ -39,70 +39,86 @@ contributor:
     - organization:
         name:
         - content: Oracle
-  role:
-  - type: editor
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: MOBILE
+      type: technical-committee
 edition:
-  content: '1.1'
+  number: '1.1'
 version:
 - revision_date: '2008-08-24'
-revdate: '2008-08-24'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2008'
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 relation:
 - type: updatedBy
   bibitem:
-    id: CC-S0706-2008
-    docid:
-    - id: CC/S 0706:2008
+    docidentifier:
+    - content: CC/S 0706:2008
       type: CalConnect
     date:
     - type: published
-      value: '2007-08-28'
+      at: '2007-08-28'
+    contributor:
+    - role:
+      - type: author
+        description:
+        - content: committee
+      organization:
+        name:
+        - content: CalConnect
+        subdivision:
+        - name:
+          - content: MOBILE
+          type: technical-committee
     edition:
-      content: '1.0'
-    revdate: '2007-08-28'
-    ext:
-      doctype:
-        type: specification
-        abbreviation: S
-      editorialgroup:
-      - name: MOBILE
+      number: '1.0'
 - type: updatedBy
   bibitem:
-    id: CC-S0706-2008
-    docid:
-    - id: CC/S 0706:2008
+    docidentifier:
+    - content: CC/S 0706:2008
       type: CalConnect
     date:
     - type: updated
-      value: '2008-08-04'
+      at: '2008-08-04'
+    contributor:
+    - role:
+      - type: author
+        description:
+        - content: committee
+      organization:
+        name:
+        - content: CalConnect
+        subdivision:
+        - name:
+          - content: MOBILE
+          type: technical-committee
     edition:
-      content: '1.1'
-    ext:
-      doctype:
-        type: specification
-        abbreviation: S
-      editorialgroup:
-      - name: MOBILE
+      number: '1.1'
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: specification
     abbreviation: S
-  editorialgroup:
-  - name: MOBILE
+    content: specification
+  flavor: calconnect

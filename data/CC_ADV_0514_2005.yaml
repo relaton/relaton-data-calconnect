@@ -1,52 +1,59 @@
 ---
-schema-version: v1.2.9
 id: CC-Adv0514-2005
-title:
-- content: DST Advisory Notice
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/Adv 0514:2005
+schema_version: v1.4.1
+title:
+- language: en
+  content: DST Advisory Notice
+docidentifier:
+- content: CC/Adv 0514:2005
   type: CalConnect
   primary: true
 docnumber: '0514'
 date:
 - type: published
-  value: '2005-06-29'
+  at: '2005-06-29'
 contributor:
-- organization:
-    name:
-    - content: CalConnect
-  role:
+- role:
   - type: author
-- organization:
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: DST ADHOC
+      type: technical-committee
 edition:
-  content: '1'
+  number: '1'
 version:
 - revision_date: '2005-06-29'
-revdate: '2005-06-29'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2005'
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: advisory
     abbreviation: Adv
-  editorialgroup:
-  - name: DST ADHOC
+    content: advisory
+  flavor: calconnect

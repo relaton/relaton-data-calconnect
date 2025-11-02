@@ -1,118 +1,125 @@
 ---
-schema-version: v1.2.9
 id: CC-A0807-2008
-title:
-- content: October 2008 CalConnect Interoperability Test Report
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/A 0807:2008
+schema_version: v1.4.1
+title:
+- language: en
+  content: October 2008 CalConnect Interoperability Test Report
+docidentifier:
+- content: CC/A 0807:2008
   type: CalConnect
   primary: true
 docnumber: '0807'
 date:
 - type: published
-  value: '2008-12-08'
+  at: '2008-12-08'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Patricia Egen
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Nate Barry
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Cyrus Daboo
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Mike Douglass
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Firdosh Ghyara
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Libor Grafnetr
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Tomas Hnetila
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Kellie Hunter
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: May Ma
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Ross Peter Nelson
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Morgen Sagen
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: IOPTEST
+      type: technical-committee
 edition:
-  content: '1.1'
+  number: '1.1'
 version:
 - revision_date: '2008-12-08'
-revdate: '2008-12-08'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2008'
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: administrative
     abbreviation: A
-  editorialgroup:
-  - name: IOPTEST
+    content: administrative
+  flavor: calconnect

@@ -1,56 +1,64 @@
 ---
-schema-version: v1.2.9
 id: CC-S0903-2009
-title:
-- content: Freebusy Read URL
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/S 0903:2009
+schema_version: v1.4.1
+title:
+- language: en
+  content: Freebusy Read URL
+docidentifier:
+- content: CC/S 0903:2009
   type: CalConnect
   primary: true
 docnumber: '0903'
 date:
 - type: published
-  value: '2009-04-15'
+  at: '2009-04-15'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - eyork@apple.com
+    uri:
+    - content: http://www.apple.com/
     name:
       completename:
         content: Eric York
     affiliation:
     - organization:
+        address:
+          street:
+          - 1 Infinite Loop
+          city: Cupertino
+          country: USA
+          postcode: '95014'
         name:
         - content: Apple Inc.
-        contact:
-        - address:
-            street:
-            - 1 Infinite Loop
-            city: Cupertino
-            country: USA
-            postcode: '95014'
-    contact:
-    - email: eyork@apple.com
-    - uri: http://www.apple.com/
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: FREEBUSY
+      type: technical-committee
 edition:
-  content: '1'
+  number: '1'
 version:
 - revision_date: '2009-04-15'
-revdate: '2009-04-15'
 language:
 - en
 script:
@@ -59,19 +67,17 @@ abstract:
 - content: "&lt;p&gt;This document defines a standardized form of Freebusy read URL
     to improve interoperability between client and server implementations, while extending
     the functionality and utility through the use of optional parameters.&lt;/p&gt;"
-  format: text/plain
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2009'
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: specification
     abbreviation: S
-  editorialgroup:
-  - name: FREEBUSY
+    content: specification
+  flavor: calconnect

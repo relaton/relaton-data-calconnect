@@ -1,52 +1,59 @@
 ---
-schema-version: v1.2.9
 id: CC-R0904-2009
-title:
-- content: xCal - The XML Format for iCalendar
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/R 0904:2009
+schema_version: v1.4.1
+title:
+- language: en
+  content: xCal - The XML Format for iCalendar
+docidentifier:
+- content: CC/R 0904:2009
   type: CalConnect
   primary: true
 docnumber: '0904'
 date:
 - type: published
-  value: '2009-06-04'
+  at: '2009-06-04'
 contributor:
-- organization:
-    name:
-    - content: CalConnect
-  role:
+- role:
   - type: author
-- organization:
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: XML
+      type: technical-committee
 edition:
-  content: '1'
+  number: '1'
 version:
 - revision_date: '2009-06-04'
-revdate: '2009-06-04'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2009'
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: report
     abbreviation: R
-  editorialgroup:
-  - name: XML
+    content: report
+  flavor: calconnect

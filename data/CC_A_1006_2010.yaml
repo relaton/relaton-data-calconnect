@@ -1,52 +1,59 @@
 ---
-schema-version: v1.2.9
 id: CC-A1006-2010
-title:
-- content: LINK Property Extension to iCalendar
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/A 1006:2010
+schema_version: v1.4.1
+title:
+- language: en
+  content: LINK Property Extension to iCalendar
+docidentifier:
+- content: CC/A 1006:2010
   type: CalConnect
   primary: true
 docnumber: '1006'
 date:
 - type: published
-  value: '2010-06-30'
+  at: '2010-06-30'
 contributor:
-- organization:
-    name:
-    - content: CalConnect
-  role:
+- role:
   - type: author
-- organization:
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: EVENTPUB
+      type: technical-committee
 edition:
-  content: '1'
+  number: '1'
 version:
 - revision_date: '2010-06-30'
-revdate: '2010-06-30'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2010'
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: administrative
     abbreviation: A
-  editorialgroup:
-  - name: EVENTPUB
+    content: administrative
+  flavor: calconnect

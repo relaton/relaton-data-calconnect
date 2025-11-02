@@ -1,52 +1,59 @@
 ---
-schema-version: v1.2.9
 id: CC-A1102-2011
-title:
-- content: Calendaring and Scheduling Glossary of Terms
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/A 1102:2011
+schema_version: v1.4.1
+title:
+- language: en
+  content: Calendaring and Scheduling Glossary of Terms
+docidentifier:
+- content: CC/A 1102:2011
   type: CalConnect
   primary: true
 docnumber: '1102'
 date:
 - type: published
-  value: '2011-02-23'
+  at: '2011-02-23'
 contributor:
-- organization:
-    name:
-    - content: CalConnect
-  role:
+- role:
   - type: author
-- organization:
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: USECASE
+      type: technical-committee
 edition:
-  content: '2'
+  number: '2'
 version:
 - revision_date: '2011-02-23'
-revdate: '2011-02-23'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2011'
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: administrative
     abbreviation: A
-  editorialgroup:
-  - name: USECASE
+    content: administrative
+  flavor: calconnect

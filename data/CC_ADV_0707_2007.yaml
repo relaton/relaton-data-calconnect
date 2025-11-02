@@ -1,90 +1,97 @@
 ---
-schema-version: v1.2.9
 id: CC-Adv0707-2007
-title:
-- content: CalConnect EDST (Extended Daylight Savings Time) Reflections and Recommendations
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/Adv 0707:2007
+schema_version: v1.4.1
+title:
+- language: en
+  content: CalConnect EDST (Extended Daylight Savings Time) Reflections and Recommendations
+docidentifier:
+- content: CC/Adv 0707:2007
   type: CalConnect
   primary: true
 docnumber: '0707'
 date:
 - type: published
-  value: '2007-10-04'
+  at: '2007-10-04'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: author
-- person:
+- role:
+  - type: editor
+  person:
+    email:
+    - mmize@mail.fresnostate.edu
+    uri:
+    - content: http://www.fresnostate.edu
     name:
       completename:
         content: Mike Mize
     affiliation:
     - organization:
+        address:
+          street:
+          - 5241 N Maple Ave
+          city: Fresno
+          country: USA
         name:
         - content: California State University, Fresno
-        contact:
-        - address:
-            street:
-            - 5241 N Maple Ave
-            city: Fresno
-            country: USA
-    contact:
-    - email: mmize@mail.fresnostate.edu
-    - uri: http://www.fresnostate.edu
-  role:
+- role:
   - type: editor
-- person:
+  person:
+    email:
+    - schwag@rpi.edu
+    uri:
+    - content: http://www.rpi.edu
     name:
       completename:
         content: Gary Schwartz
     affiliation:
     - organization:
+        address:
+          street:
+          - 110 8th Street
+          city: Troy
+          country: USA
         name:
         - content: Rensselaer Polytechnic Institute
-        contact:
-        - address:
-            street:
-            - 110 8th Street
-            city: Troy
-            country: USA
-    contact:
-    - email: schwag@rpi.edu
-    - uri: http://www.rpi.edu
-  role:
-  - type: editor
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: Ad Hoc DST
+      type: technical-committee
 edition:
-  content: '1'
+  number: '1'
 version:
 - revision_date: '2007-10-04'
-revdate: '2007-10-04'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2007'
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: advisory
     abbreviation: Adv
-  editorialgroup:
-  - name: Ad Hoc DST
+    content: advisory
+  flavor: calconnect

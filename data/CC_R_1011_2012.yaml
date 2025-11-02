@@ -1,27 +1,29 @@
 ---
-schema-version: v1.2.9
 id: CC-R1011-2012
-title:
-- content: CalWS-Rest - Restful Web Services Protocol for Calendaring
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/R 1011:2012
+schema_version: v1.4.1
+title:
+- language: en
+  content: CalWS-Rest - Restful Web Services Protocol for Calendaring
+docidentifier:
+- content: CC/R 1011:2012
   type: CalConnect
   primary: true
 docnumber: '1011'
 date:
 - type: published
-  value: '2012-02-22'
+  at: '2012-02-22'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: author
-- person:
+- role:
+  - type: editor
+  person:
+    email:
+    - douglm@rpi.edu
     name:
       completename:
         content: Michael Douglass
@@ -29,20 +31,26 @@ contributor:
     - organization:
         name:
         - content: Rensselaer Polytechnic Institute
-    contact:
-    - email: douglm@rpi.edu
-  role:
-  - type: editor
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: XML
+      type: technical-committee
 edition:
-  content: 1.0.1
+  number: 1.0.1
 version:
 - revision_date: '2012-02-22'
-revdate: '2012-02-22'
 language:
 - en
 script:
@@ -51,141 +59,158 @@ abstract:
 - content: |-
     &lt;review reviewer="(Unknown)" date="2025-02-17T00:00:00Z" type="todo"&gt;&lt;p&gt;Summary of the technical purpose of the document.&lt;/p&gt;
     &lt;/review&gt;
-  format: text/plain
-docstatus:
+status:
   stage:
-    value: draft
+    content: draft
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2012'
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 relation:
 - type: updatedBy
   bibitem:
-    id: CC-R1011-2012
-    docid:
-    - id: CC/R 1011:2012
+    docidentifier:
+    - content: CC/R 1011:2012
       type: CalConnect
     date:
     - type: published
-      value: '2011-03-19'
+      at: '2011-03-19'
     contributor:
-    - person:
+    - role:
+      - type: author
+      person:
         name:
           completename:
             content: Toby Considine
-      role:
+    - role:
       - type: author
+        description:
+        - content: committee
+      organization:
+        name:
+        - content: CalConnect
+        subdivision:
+        - name:
+          - content: XML
+          type: technical-committee
     edition:
-      content: '0.1'
-    revdate: '2011-03-19'
-    ext:
-      doctype:
-        type: report
-        abbreviation: R
-      editorialgroup:
-      - name: XML
+      number: '0.1'
 - type: updatedBy
   bibitem:
-    id: CC-R1011-2012
-    docid:
-    - id: CC/R 1011:2012
+    docidentifier:
+    - content: CC/R 1011:2012
       type: CalConnect
     date:
     - type: updated
-      value: '2012-02-13'
+      at: '2012-02-13'
     contributor:
-    - person:
+    - role:
+      - type: author
+      person:
         name:
           completename:
             content: Toby Considine
-      role:
+    - role:
       - type: author
+        description:
+        - content: committee
+      organization:
+        name:
+        - content: CalConnect
+        subdivision:
+        - name:
+          - content: XML
+          type: technical-committee
     edition:
-      content: '0.2'
-    ext:
-      doctype:
-        type: report
-        abbreviation: R
-      editorialgroup:
-      - name: XML
+      number: '0.2'
 - type: updatedBy
   bibitem:
-    id: CC-R1011-2012
-    docid:
-    - id: CC/R 1011:2012
+    docidentifier:
+    - content: CC/R 1011:2012
       type: CalConnect
     date:
     - type: updated
-      value: '2012-02-15'
+      at: '2012-02-15'
     contributor:
-    - person:
+    - role:
+      - type: author
+      person:
         name:
           completename:
             content: Toby Considine
-      role:
+    - role:
       - type: author
+        description:
+        - content: committee
+      organization:
+        name:
+        - content: CalConnect
+        subdivision:
+        - name:
+          - content: XML
+          type: technical-committee
     edition:
-      content: '0.3'
-    ext:
-      doctype:
-        type: report
-        abbreviation: R
-      editorialgroup:
-      - name: XML
+      number: '0.3'
 - type: updatedBy
   bibitem:
-    id: CC-R1011-2012
-    docid:
-    - id: CC/R 1011:2012
+    docidentifier:
+    - content: CC/R 1011:2012
       type: CalConnect
     date:
     - type: updated
-      value: '2012-02-17'
+      at: '2012-02-17'
     contributor:
-    - person:
+    - role:
+      - type: author
+      person:
         name:
           completename:
             content: Toby Considine
-      role:
+    - role:
       - type: author
+        description:
+        - content: committee
+      organization:
+        name:
+        - content: CalConnect
+        subdivision:
+        - name:
+          - content: XML
+          type: technical-committee
     edition:
-      content: '0.4'
-    ext:
-      doctype:
-        type: report
-        abbreviation: R
-      editorialgroup:
-      - name: XML
+      number: '0.4'
 - type: updatedBy
   bibitem:
-    id: CC-R1011-2012
-    docid:
-    - id: CC/R 1011:2012
+    docidentifier:
+    - content: CC/R 1011:2012
       type: CalConnect
     date:
     - type: updated
-      value: '2012-02-17'
+      at: '2012-02-17'
     contributor:
-    - person:
+    - role:
+      - type: author
+      person:
         name:
           completename:
             content: Toby Considine
-      role:
+    - role:
       - type: author
+        description:
+        - content: committee
+      organization:
+        name:
+        - content: CalConnect
+        subdivision:
+        - name:
+          - content: XML
+          type: technical-committee
     edition:
-      content: '0.5'
-    ext:
-      doctype:
-        type: report
-        abbreviation: R
-      editorialgroup:
-      - name: XML
+      number: '0.5'
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: report
     abbreviation: R
-  editorialgroup:
-  - name: XML
+    content: report
+  flavor: calconnect

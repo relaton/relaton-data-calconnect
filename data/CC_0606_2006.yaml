@@ -1,27 +1,29 @@
 ---
-schema-version: v1.2.9
 id: CC0606-2006
-title:
-- content: Timezone Registry and Service Recommendations
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC 0606:2006
+schema_version: v1.4.1
+title:
+- language: en
+  content: Timezone Registry and Service Recommendations
+docidentifier:
+- content: CC 0606:2006
   type: CalConnect
   primary: true
 docnumber: '0606'
 date:
 - type: published
-  value: '2006-04-17'
+  at: '2006-04-17'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: author
-- person:
+- role:
+  - type: editor
+  person:
+    email:
+    - simon.vaillancourt@oracle.com
     name:
       completename:
         content: Simon Vaillancourt
@@ -29,35 +31,40 @@ contributor:
     - organization:
         name:
         - content: Oracle Corporation
-    contact:
-    - email: simon.vaillancourt@oracle.com
-  role:
-  - type: editor
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: TIMEZONE
+      type: technical-committee
 edition:
-  content: '1'
+  number: '1'
 version:
 - revision_date: '2006-04-17'
-revdate: '2006-04-17'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2006'
+- from: '2006'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: standard
-  editorialgroup:
-  - name: TIMEZONE
+    content: standard
+  flavor: calconnect

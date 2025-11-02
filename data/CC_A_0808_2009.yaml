@@ -1,112 +1,119 @@
 ---
-schema-version: v1.2.9
 id: CC-A0808-2009
-title:
-- content: November 2008 CalConnect Mobile Interoperability Test
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/A 0808:2009
+schema_version: v1.4.1
+title:
+- language: en
+  content: November 2008 CalConnect Mobile Interoperability Test
+docidentifier:
+- content: CC/A 0808:2009
   type: CalConnect
   primary: true
 docnumber: '0808'
 date:
 - type: published
-  value: '2009-02-19'
+  at: '2009-02-19'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Patricia Egen
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Eremias Alexej
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: James Clarke
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Chris Dudding
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Beat Forster
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Tomas Hnetila
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Jakub Klos
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Gregory Pekofsky
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Milan Vojnovic
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Lukas Zeller
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: IOPTEST
+      type: technical-committee
 edition:
-  content: '2'
+  number: '2'
 version:
 - revision_date: '2009-02-19'
-revdate: '2009-02-19'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2009'
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: administrative
     abbreviation: A
-  editorialgroup:
-  - name: IOPTEST
+    content: administrative
+  flavor: calconnect

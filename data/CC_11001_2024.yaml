@@ -1,68 +1,74 @@
 ---
-schema-version: v1.2.9
 id: CC11001-2024
-title:
-- content: Calendaring — Task Extensions to iCalendar
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC 11001:2024
+schema_version: v1.4.1
+title:
+- language: en
+  content: Calendaring — Task Extensions to iCalendar
+docidentifier:
+- content: CC 11001:2024
   type: CalConnect
   primary: true
 docnumber: '11001'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - adrian.apthorp@dhl.com
     name:
       completename:
         content: Adrian Apthorp
     affiliation:
     - organization:
+        address:
+          street:
+          - Fritz-Erler-Str. 5
+          city: Bonn
+          country: Germany
         name:
         - content: DHL Express
-        contact:
-        - address:
-            street:
-            - Fritz-Erler-Str. 5
-            city: Bonn
-            country: Germany
-    contact:
-    - email: adrian.apthorp@dhl.com
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - mdouglass@bedework.com
     name:
       completename:
         content: Michael Douglass
     affiliation:
     - organization:
+        address:
+          street:
+          - 226 3rd Street
+          city: Troy
+          state: NY
+          country: United States of America
         name:
         - content: Bedework Commercial Services
-        contact:
-        - address:
-            street:
-            - 226 3rd Street
-            city: Troy
-            state: NY
-            country: United States of America
-    contact:
-    - email: mdouglass@bedework.com
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALENDAR
+      type: technical-committee
 version:
 - revision_date: '2024-02-15'
-revdate: '2024-02-15'
 language:
 - en
 script:
@@ -88,18 +94,16 @@ abstract:
     &lt;p&gt;Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.&lt;/p&gt;
 
     &lt;p&gt;This document was prepared by Technical Committee &lt;em&gt;CALENDAR&lt;/em&gt;.&lt;/p&gt;
-  format: text/plain
-docstatus:
+status:
   stage:
-    value: standard
+    content: standard
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2024'
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: standard
-  editorialgroup:
-  - name: CALENDAR
+    content: standard
+  flavor: calconnect

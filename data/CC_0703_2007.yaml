@@ -1,27 +1,27 @@
 ---
-schema-version: v1.2.9
 id: CC0703-2007
-title:
-- content: CalDav Scheduling Requirements
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC 0703:2007
+schema_version: v1.4.1
+title:
+- language: en
+  content: CalDav Scheduling Requirements
+docidentifier:
+- content: CC 0703:2007
   type: CalConnect
   primary: true
 docnumber: '0703'
 date:
 - type: published
-  value: '2007-07-11'
+  at: '2007-07-11'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: author
-- person:
+- role:
+  - type: editor
+  person:
     name:
       completename:
         content: Tony Becker
@@ -29,9 +29,9 @@ contributor:
     - organization:
         name:
         - content: Marware
-  role:
+- role:
   - type: editor
-- person:
+  person:
     name:
       completename:
         content: Cyrus Daboo
@@ -39,9 +39,9 @@ contributor:
     - organization:
         name:
         - content: Apple
-  role:
+- role:
   - type: editor
-- person:
+  person:
     name:
       completename:
         content: Bernard Desruisseaux
@@ -49,33 +49,40 @@ contributor:
     - organization:
         name:
         - content: Oracle
-  role:
-  - type: editor
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALDAV
+      type: technical-committee
 edition:
-  content: '1.1'
+  number: '1.1'
 version:
 - revision_date: '2007-07-11'
-revdate: '2007-07-11'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2007'
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: standard
-  editorialgroup:
-  - name: CALDAV
+    content: standard
+  flavor: calconnect

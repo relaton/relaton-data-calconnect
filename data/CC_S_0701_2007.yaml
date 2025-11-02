@@ -1,27 +1,27 @@
 ---
-schema-version: v1.2.9
 id: CC-S0701-2007
-title:
-- content: Min-IOP (Minimum Interoperable Subset) Use Cases for Tasks (VTODO)
-  language:
-  - en
-  format: text/plain
 type: standard
-docid:
-- id: CC/S 0701:2007
+schema_version: v1.4.1
+title:
+- language: en
+  content: Min-IOP (Minimum Interoperable Subset) Use Cases for Tasks (VTODO)
+docidentifier:
+- content: CC/S 0701:2007
   type: CalConnect
   primary: true
 docnumber: '0701'
 date:
 - type: published
-  value: '2007-04-19'
+  at: '2007-04-19'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: author
-- person:
+- role:
+  - type: editor
+  person:
     name:
       completename:
         content: Mimi Mugler
@@ -29,34 +29,41 @@ contributor:
     - organization:
         name:
         - content: UC Berkeley
-  role:
-  - type: editor
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: USECASE
+      type: technical-committee
 edition:
-  content: '1'
+  number: '1'
 version:
 - revision_date: '2007-04-19'
-revdate: '2007-04-19'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2007'
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: specification
     abbreviation: S
-  editorialgroup:
-  - name: USECASE
+    content: specification
+  flavor: calconnect

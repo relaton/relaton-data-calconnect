@@ -1,32 +1,30 @@
 ---
-schema-version: v1.2.9
 id: CC-R0708-2007
-title:
-- content: Extended Daylight Savings Time Review and Considerations
-  language:
-  - en
-  format: text/plain
-- content: A Review of the Potential Impact of Daylight Saving Time Changes in 2007
-    -- A Reference for Users and Systems Administrators
-  language:
-  - main-en
-  format: text/plain
 type: standard
-docid:
-- id: CC/R 0708:2007
+schema_version: v1.4.1
+title:
+- language: en
+  content: Extended Daylight Savings Time Review and Considerations
+- language: main-en
+  content: A Review of the Potential Impact of Daylight Saving Time Changes in 2007
+    -- A Reference for Users and Systems Administrators
+docidentifier:
+- content: CC/R 0708:2007
   type: CalConnect
   primary: true
 docnumber: '0708'
 date:
 - type: published
-  value: '2007-02-15'
+  at: '2007-02-15'
 contributor:
-- organization:
+- role:
+  - type: author
+  organization:
     name:
     - content: CalConnect
-  role:
+- role:
   - type: author
-- person:
+  person:
     name:
       completename:
         content: Joseph Jackson
@@ -34,34 +32,41 @@ contributor:
     - organization:
         name:
         - content: Carnegie Mellon University
-  role:
-  - type: author
-- organization:
+- role:
+  - type: publisher
+  organization:
     name:
     - content: CalConnect
-  role:
-  - type: publisher
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: DST ADHOC
+      type: technical-committee
 edition:
-  content: '1'
+  number: '1'
 version:
 - revision_date: '2007-02-15'
-revdate: '2007-02-15'
 language:
 - en
 script:
 - Latn
-docstatus:
+status:
   stage:
-    value: published
+    content: published
 copyright:
-- owner:
-  - name:
-    - content: CalConnect
-  from: '2007'
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
 ext:
-  schema-version: v1.0.0
   doctype:
-    type: report
     abbreviation: R
-  editorialgroup:
-  - name: DST ADHOC
+    content: report
+  flavor: calconnect

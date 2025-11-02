@@ -91,6 +91,7 @@ copyright:
       name:
       - content: CalConnect
 ext:
+  schema_version: v1.0.0
   doctype:
     abbreviation: Adv
     content: advisory

@@ -5,6 +5,9 @@ schema_version: v1.4.1
 title:
 - language: en
   content: vObject — Integrity protection for vObject, vCard and iCalendar
+source:
+- type: src
+  content: https://www.ribose.com
 docidentifier:
 - content: CC/CD 51002:2025
   type: CalConnect
@@ -61,6 +64,7 @@ copyright:
       name:
       - content: CalConnect
 ext:
+  schema_version: v1.0.0
   doctype:
     content: standard
   flavor: calconnect

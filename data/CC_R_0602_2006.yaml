@@ -63,6 +63,7 @@ copyright:
       name:
       - content: CalConnect
 ext:
+  schema_version: v1.0.0
   doctype:
     abbreviation: R
     content: report

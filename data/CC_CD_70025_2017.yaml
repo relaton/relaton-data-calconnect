@@ -5,6 +5,9 @@ schema_version: v1.4.1
 title:
 - language: en
   content: Calendaring and scheduling — Push Discovery and Notification Dispatch Protocol
+source:
+- type: src
+  content: http://dmfs.org
 docidentifier:
 - content: CC/CD 70025:2017
   type: CalConnect
@@ -87,6 +90,7 @@ keyword:
 - taxon:
     content: WebDAV
 ext:
+  schema_version: v1.0.0
   doctype:
     content: standard
   flavor: calconnect

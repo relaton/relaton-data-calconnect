@@ -118,6 +118,7 @@ relation:
     edition:
       number: '1.1'
 ext:
+  schema_version: v1.0.0
   doctype:
     abbreviation: S
     content: specification

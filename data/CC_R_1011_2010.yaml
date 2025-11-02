@@ -119,6 +119,7 @@ relation:
     edition:
       number: '0.0'
 ext:
+  schema_version: v1.0.0
   doctype:
     abbreviation: R
     content: report

@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 require 'fileutils'
-require 'relaton_calconnect'
+require 'relaton/calconnect/data_fetcher'
 
 FileUtils.rm_rf("data")
 
 FileUtils.rm(Dir.glob("index*"))
 
-RelatonCalconnect::DataFetcher.fetch
+Relaton::Calconnect::DataFetcher.fetch

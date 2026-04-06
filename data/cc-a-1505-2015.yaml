@@ -1,0 +1,60 @@
+---
+id: CCA15052015
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: Report on Interoperability Test Event XXXIV, Sep 28-30, 2015
+docidentifier:
+- content: CC/A 1505:2015
+  type: CalConnect
+  primary: true
+docnumber: '1505'
+date:
+- type: published
+  at: '2015-10-19'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: IOPTEST
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2015-10-19'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: A
+    content: administrative
+  flavor: calconnect

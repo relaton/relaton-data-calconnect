@@ -1,0 +1,59 @@
+---
+id: CC180112018
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: Date and time — Explicit representation
+docidentifier:
+- content: CC 18011:2018
+  type: CalConnect
+  primary: true
+docnumber: '18011'
+date:
+- type: published
+  at: '2018-09-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: DATETIME
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2018-09-18'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: calconnect

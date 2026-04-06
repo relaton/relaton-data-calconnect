@@ -1,0 +1,77 @@
+---
+id: CCCD510062024
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: Calendaring and scheduling — Consensus scheduling — iCalendar VPOLL component
+docidentifier:
+- content: CC/CD 51006:2024
+  type: CalConnect
+  primary: true
+docnumber: '51006'
+date:
+- type: published
+  at: '2024-04-22'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Eric York
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Cyrus Daboo
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Michael Douglass
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: FREEBUSY
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2024-04-22'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: committee-draft
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: calconnect

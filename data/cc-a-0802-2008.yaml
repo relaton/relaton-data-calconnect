@@ -1,0 +1,114 @@
+---
+id: CCA08022008
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: February 2008 CalConnect Interoperability Test Report
+docidentifier:
+- content: CC/A 0802:2008
+  type: CalConnect
+  primary: true
+docnumber: '0802'
+date:
+- type: published
+  at: '2008-04-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Patricia Egen
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Cyrus Daboo
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Firdosh Ghyara
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Gren Elliott
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Michael Douglass
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Mu Zhang
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Simon Vaillancourt
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Tomas Hnetila
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Tony Becker
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: IOPTEST
+      type: technical-committee
+edition:
+  number: '2'
+version:
+- revision_date: '2008-04-09'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: A
+    content: administrative
+  flavor: calconnect

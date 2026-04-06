@@ -1,0 +1,113 @@
+---
+id: CCS05052005
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: Results from First Recurrence Questionnaire
+docidentifier:
+- content: CC/S 0505:2005
+  type: CalConnect
+  primary: true
+docnumber: '0505'
+date:
+- type: published
+  at: '2005-07-21'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: RECURR
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2005-07-21'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+relation:
+- type: derivedFrom
+  bibitem:
+    title:
+    - language: en
+      content: Questionnaire on Implementation of Recurrence
+    docidentifier:
+    - content: CC/S 0505:2005
+      type: CalConnect
+      primary: true
+    docnumber: '0505'
+    date:
+    - type: published
+      at: '2005-07-21'
+    contributor:
+    - role:
+      - type: author
+      organization:
+        name:
+        - content: CalConnect
+    - role:
+      - type: publisher
+      organization:
+        name:
+        - content: CalConnect
+    - role:
+      - type: author
+        description:
+        - content: committee
+      organization:
+        name:
+        - content: CalConnect
+        subdivision:
+        - name:
+          - content: RECURR
+          type: technical-committee
+    edition:
+      number: '1'
+    version:
+    - revision_date: '2005-07-21'
+    language:
+    - en
+    script:
+    - Latn
+    status:
+      stage:
+        content: published
+    copyright:
+    - from: '2005'
+      owner:
+      - organization:
+          name:
+          - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: S
+    content: specification
+  flavor: calconnect

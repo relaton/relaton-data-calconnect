@@ -1,0 +1,60 @@
+---
+id: CCA09082009
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: Report on Roundtable XV, June 3-5 2009
+docidentifier:
+- content: CC/A 0908:2009
+  type: CalConnect
+  primary: true
+docnumber: '0908'
+date:
+- type: published
+  at: '2009-06-11'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALCONNECT
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2009-06-11'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: A
+    content: administrative
+  flavor: calconnect

@@ -1,0 +1,96 @@
+---
+id: CCS09062009
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: Use Cases for Resources
+docidentifier:
+- content: CC/S 0906:2009
+  type: CalConnect
+  primary: true
+docnumber: '0906'
+date:
+- type: published
+  at: '2009-06-10'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: editor
+  person:
+    email:
+    - alaurence@ucirvine.edu
+    name:
+      completename:
+        content: Andrew Laurence
+- role:
+  - type: editor
+  person:
+    email:
+    - mmugler@berkeley.edu
+    name:
+      completename:
+        content: Mimi Mugler
+- role:
+  - type: editor
+  person:
+    email:
+    - jstalnak@wisc.edu
+    name:
+      completename:
+        content: Guy Stalnaker
+- role:
+  - type: editor
+  person:
+    email:
+    - ciny.joy@sun.com
+    name:
+      completename:
+        content: Ciny Joy
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: USECASE
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2009-06-10'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "&lt;p&gt;This document lists use cases that utilize resources within the
+    calendaring and scheduling application domain.&lt;/p&gt;"
+  format: text/plain
+status:
+  stage:
+    content: published
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: S
+    content: specification
+  flavor: calconnect

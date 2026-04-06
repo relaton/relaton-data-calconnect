@@ -1,0 +1,60 @@
+---
+id: CCA08062008
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: CalConnect Technical Preview - Roundtable XIII
+docidentifier:
+- content: CC/A 0806:2008
+  type: CalConnect
+  primary: true
+docnumber: '0806'
+date:
+- type: published
+  at: '2008-10-08'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALCONNECT
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2008-10-08'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: A
+    content: administrative
+  flavor: calconnect

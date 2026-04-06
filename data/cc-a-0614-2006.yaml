@@ -1,0 +1,60 @@
+---
+id: CCA06142006
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: Report on Roundtable VI, 22-25 May 2006
+docidentifier:
+- content: CC/A 0614:2006
+  type: CalConnect
+  primary: true
+docnumber: '0614'
+date:
+- type: published
+  at: '2006-05-23'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALCONNECT
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2006-05-23'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: A
+    content: administrative
+  flavor: calconnect

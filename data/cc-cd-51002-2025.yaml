@@ -1,0 +1,70 @@
+---
+id: CCCD510022025
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: vObject — Integrity protection for vObject, vCard and iCalendar
+source:
+- type: src
+  content: https://www.ribose.com
+docidentifier:
+- content: CC/CD 51002:2025
+  type: CalConnect
+  primary: true
+docnumber: '51002'
+date:
+- type: published
+  at: '2018-11-30'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    email:
+    - ronald.tse@ribose.com
+    name:
+      completename:
+        content: Ronald Henry Tse
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: VCARD
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2018-11-30'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: committee-draft
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: calconnect

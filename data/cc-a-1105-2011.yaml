@@ -1,0 +1,60 @@
+---
+id: CCA11052011
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: Report on Roundtable XXI, May 25-27, 2011
+docidentifier:
+- content: CC/A 1105:2011
+  type: CalConnect
+  primary: true
+docnumber: '1105'
+date:
+- type: published
+  at: '2011-06-20'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALCONNECT
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2011-06-20'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: A
+    content: administrative
+  flavor: calconnect

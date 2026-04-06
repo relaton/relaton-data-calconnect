@@ -1,0 +1,70 @@
+---
+id: CCS05072005
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: CalDav Use Cases
+docidentifier:
+- content: CC/S 0507:2005
+  type: CalConnect
+  primary: true
+docnumber: '0507'
+date:
+- type: published
+  at: '2005-09-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: editor
+  person:
+    name:
+      completename:
+        content: Bernard Desruisseaux
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALDAV
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2005-09-26'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: S
+    content: specification
+  flavor: calconnect

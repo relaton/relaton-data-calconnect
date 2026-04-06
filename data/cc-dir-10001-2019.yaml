@@ -1,0 +1,60 @@
+---
+id: CCDIR100012019
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: 'CalConnect Directive: Standardization and publication'
+docidentifier:
+- content: CC/DIR 10001:2019
+  type: CalConnect
+  primary: true
+docnumber: '10001'
+date:
+- type: published
+  at: '2019-01-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: PUBLISH
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2019-01-18'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: DIR
+    content: directive
+  flavor: calconnect

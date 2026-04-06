@@ -1,0 +1,102 @@
+---
+id: CCA09022009
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: February 2009 CalConnect Interoperability Test Report
+docidentifier:
+- content: CC/A 0902:2009
+  type: CalConnect
+  primary: true
+docnumber: '0902'
+date:
+- type: published
+  at: '2009-04-14'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Patricia Egen
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Nate Barry
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Gordon Connelly
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Cyrus Daboo
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Jong Yoon Lee
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Mu Zhang
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Bruce Wiedemann
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: IOPTEST
+      type: technical-committee
+edition:
+  number: '2'
+version:
+- revision_date: '2009-04-14'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: A
+    content: administrative
+  flavor: calconnect

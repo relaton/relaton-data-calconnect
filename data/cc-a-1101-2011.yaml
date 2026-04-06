@@ -1,0 +1,60 @@
+---
+id: CCA11012011
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: Event Publishing Extensions to iCalendar
+docidentifier:
+- content: CC/A 1101:2011
+  type: CalConnect
+  primary: true
+docnumber: '1101'
+date:
+- type: published
+  at: '2011-02-16'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: EVENTPUB
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2011-02-16'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: A
+    content: administrative
+  flavor: calconnect

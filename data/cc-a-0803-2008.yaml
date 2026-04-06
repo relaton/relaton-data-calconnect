@@ -1,0 +1,84 @@
+---
+id: CCA08032008
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: February 2008 CalConnect Mobile Interoperability Test Report
+docidentifier:
+- content: CC/A 0803:2008
+  type: CalConnect
+  primary: true
+docnumber: '0803'
+date:
+- type: published
+  at: '2008-04-09'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Patricia Egen
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Mike Zhou
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Tomas Hnetila
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: David Coulter
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: IOPTEST
+      type: technical-committee
+edition:
+  number: '2'
+version:
+- revision_date: '2008-04-09'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: A
+    content: administrative
+  flavor: calconnect

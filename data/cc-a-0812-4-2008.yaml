@@ -1,0 +1,72 @@
+---
+id: CCA081242008
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: iSchedule TC
+docidentifier:
+- content: CC/A 0812-4:2008
+  type: CalConnect
+  primary: true
+docnumber: '0812-4'
+date:
+- type: published
+  at: '2008-11-07'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    email:
+    - mattiasa@it.su.se
+    name:
+      completename:
+        content: Mattias Amnefelt
+    affiliation:
+    - organization:
+        name:
+        - content: Stockholm University
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALCONNECT
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2008-11-07'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: A
+    content: administrative
+  flavor: calconnect

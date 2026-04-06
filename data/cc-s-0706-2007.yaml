@@ -1,0 +1,80 @@
+---
+id: CCS07062007
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: Mobile Calendar Interoperability Test Suite
+docidentifier:
+- content: CC/S 0706:2007
+  type: CalConnect
+  primary: true
+docnumber: '0706'
+date:
+- type: published
+  at: '2007-08-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: editor
+  person:
+    name:
+      completename:
+        content: Chris Dudding
+    affiliation:
+    - organization:
+        name:
+        - content: Symbian Ltd
+- role:
+  - type: editor
+  person:
+    name:
+      completename:
+        content: Mark Paterson
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: MOBILE
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2007-08-28'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: S
+    content: specification
+  flavor: calconnect

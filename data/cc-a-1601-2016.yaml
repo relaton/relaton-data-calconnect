@@ -1,0 +1,60 @@
+---
+id: CCA16012016
+type: standard
+schema_version: v1.5.6
+title:
+- language: en
+  content: Report on CalConnect Conference XXXV, January 11-15, 2016
+docidentifier:
+- content: CC/A 1601:2016
+  type: CalConnect
+  primary: true
+docnumber: '1601'
+date:
+- type: published
+  at: '2016-02-03'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALCONNECT
+      type: technical-committee
+edition:
+  number: '1'
+version:
+- revision_date: '2016-02-03'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: A
+    content: administrative
+  flavor: calconnect

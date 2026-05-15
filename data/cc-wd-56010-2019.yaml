@@ -1,0 +1,78 @@
+---
+id: CCWD560102019
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: vObject — Internationalization
+  type: main
+docidentifier:
+- content: CC/WD 56010:2019
+  type: CalConnect
+  primary: true
+docnumber: '56010'
+date:
+- type: published
+  at: '2021-04-15'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Ronald Tse
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Jeffrey Lau
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Mike Douglass
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: VCARD
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1'
+version:
+- content: '2021-04-15'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: working-draft
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: cc

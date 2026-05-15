@@ -1,10 +1,11 @@
 ---
 id: CCA081272008
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Stockholm University — Membership in CalConnect
+  type: main
 docidentifier:
 - content: CC/A 0812-7:2008
   type: CalConnect
@@ -28,14 +29,11 @@ contributor:
       completename:
         content: Mattias Amnefelt
     affiliation:
-    - organization:
+    - name:
+        content: Infrastructure architect
+      organization:
         name:
         - content: Stockholm University
-- role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
 - role:
   - type: author
     description:
@@ -46,11 +44,16 @@ contributor:
     subdivision:
     - name:
       - content: CALCONNECT
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2008-11-07'
+- content: '2008-11-07'
 language:
 - en
 script:
@@ -69,4 +72,4 @@ ext:
   doctype:
     abbreviation: A
     content: administrative
-  flavor: calconnect
+  flavor: cc

@@ -1,11 +1,11 @@
 ---
 id: CCFDS100102019
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
-  content: ISO/CalConnect Partner Standards Development Organization (PSDO) Cooperation
-    Agreement
+  content: CalConnect Partner Standards Cooperation Agreement
+  type: main
 docidentifier:
 - content: CC/FDS 10010:2019
   type: CalConnect
@@ -21,11 +21,6 @@ contributor:
     name:
     - content: CalConnect
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -35,11 +30,16 @@ contributor:
     subdivision:
     - name:
       - content: PUBLISH
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2019-01-18'
+- content: '2019-01-18'
 language:
 - en
 script:
@@ -57,4 +57,4 @@ ext:
   schema_version: v1.1.2
   doctype:
     content: standard
-  flavor: calconnect
+  flavor: cc

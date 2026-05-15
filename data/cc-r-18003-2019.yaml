@@ -1,0 +1,73 @@
+---
+id: CCR180032019
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: Calendar operator practices — Guidelines to protect against calendar abuse
+  type: main
+docidentifier:
+- content: CC/R 18003:2019
+  type: CalConnect
+  primary: true
+docnumber: '18003'
+date:
+- type: published
+  at: '2019-01-18'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Thomas Schäfer, 1&1 Mail&Media Development and Technology GmbH
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Jesse Thompson, University of Wisconsin-Madison
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALSPAM
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1'
+version:
+- content: '2019-01-18'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: R
+    content: report
+  flavor: cc

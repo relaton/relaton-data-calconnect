@@ -1,0 +1,78 @@
+---
+id: CCWD510122016
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: vObject — vObject Model and vFormat Syntax
+  type: main
+source:
+- content: https://www.apple.com
+docidentifier:
+- content: CC/WD 51012:2016
+  type: CalConnect
+  primary: true
+docnumber: '51012'
+date:
+- type: published
+  at: '2016-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    email:
+    - cyrus@daboo.name
+    name:
+      completename:
+        content: Cyrus Daboo
+- role:
+  - type: author
+  person:
+    email:
+    - murch@andrew.cmu.edu
+    name:
+      completename:
+        content: Kenneth Murchison
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALENDAR
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1'
+version:
+- content: '2016-10-28'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: working-draft
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: cc

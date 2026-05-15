@@ -1,0 +1,81 @@
+---
+id: CCWD510202019
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: Collection Query Report for Web Distributed Authoring and Versioning (WebDAV)
+  type: main
+docidentifier:
+- content: CC/WD 51020:2019
+  type: CalConnect
+  primary: true
+docnumber: '51020'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Kenneth Murchison
+    affiliation:
+    - organization:
+        name:
+        - content: FastMail US LLC
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Michael Douglass
+    affiliation:
+    - organization:
+        name:
+        - content: Spherical Cow Group
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALENDAR
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1'
+version:
+- content: '2019-05-30'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This specification defines an extension to Web Distributed Authoring
+    and Versioning (WebDAV) to search for WebDAV collections based upon a set of client-supplied
+    criteria.</p>\n"
+status:
+  stage:
+    content: working-draft
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: cc

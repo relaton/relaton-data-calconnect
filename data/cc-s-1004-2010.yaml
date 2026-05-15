@@ -1,10 +1,11 @@
 ---
 id: CCS10042010
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Cal-WS Web Services API for Calendaring and Scheduling
+  type: main
 docidentifier:
 - content: CC/S 1004:2010
   type: CalConnect
@@ -20,11 +21,6 @@ contributor:
     name:
     - content: CalConnect
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -34,11 +30,16 @@ contributor:
     subdivision:
     - name:
       - content: XML
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '0.3'
+  content: '0.3'
 version:
-- revision_date: '2010-05-19'
+- content: '2010-05-19'
 language:
 - en
 script:
@@ -60,21 +61,8 @@ relation:
       type: CalConnect
     date:
     - type: updated
-      at: '2010-01-01'
-    contributor:
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.1'
+      content: '0.1'
 - type: updatedBy
   bibitem:
     docidentifier:
@@ -82,21 +70,8 @@ relation:
       type: CalConnect
     date:
     - type: updated
-      at: '2010-01-01'
-    contributor:
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.2'
+      content: '0.2'
 - type: updatedBy
   bibitem:
     docidentifier:
@@ -104,24 +79,11 @@ relation:
       type: CalConnect
     date:
     - type: updated
-      at: '2010-01-01'
-    contributor:
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.3'
+      content: '0.3'
 ext:
   schema_version: v1.1.2
   doctype:
     abbreviation: S
     content: specification
-  flavor: calconnect
+  flavor: cc

@@ -1,11 +1,12 @@
 ---
 id: CCCD510052024
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: 'CalConnect Standard: Calendaring and scheduling — Calendar subscription
     upgrades'
+  type: main
 docidentifier:
 - content: CC/CD 51005:2024
   type: CalConnect
@@ -27,11 +28,6 @@ contributor:
       completename:
         content: Michael Douglass
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -41,11 +37,16 @@ contributor:
     subdivision:
     - name:
       - content: FREEBUSY
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2024-12-01'
+- content: '2024-12-01'
 language:
 - en
 script:
@@ -63,4 +64,4 @@ ext:
   schema_version: v1.1.2
   doctype:
     content: standard
-  flavor: calconnect
+  flavor: cc

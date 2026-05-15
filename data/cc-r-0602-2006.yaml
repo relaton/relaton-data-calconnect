@@ -1,10 +1,11 @@
 ---
 id: CCR06022006
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: iCalendar Timezone Problems and Recommendations
+  type: main
 docidentifier:
 - content: CC/R 0602:2006
   type: CalConnect
@@ -30,11 +31,6 @@ contributor:
         name:
         - content: Oracle Corporation
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -44,11 +40,16 @@ contributor:
     subdivision:
     - name:
       - content: TIMEZONE
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2006-01-24'
+- content: '2006-01-24'
 language:
 - en
 script:
@@ -67,4 +68,4 @@ ext:
   doctype:
     abbreviation: R
     content: report
-  flavor: calconnect
+  flavor: cc

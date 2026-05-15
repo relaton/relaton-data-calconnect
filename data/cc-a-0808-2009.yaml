@@ -1,10 +1,11 @@
 ---
 id: CCA08082009
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: November 2008 CalConnect Mobile Interoperability Test
+  type: main
 docidentifier:
 - content: CC/A 0808:2009
   type: CalConnect
@@ -80,11 +81,6 @@ contributor:
       completename:
         content: Lukas Zeller
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -94,11 +90,16 @@ contributor:
     subdivision:
     - name:
       - content: IOPTEST
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '2'
+  content: '2'
 version:
-- revision_date: '2009-02-19'
+- content: '2009-02-19'
 language:
 - en
 script:
@@ -117,4 +118,4 @@ ext:
   doctype:
     abbreviation: A
     content: administrative
-  flavor: calconnect
+  flavor: cc

@@ -1,10 +1,11 @@
 ---
 id: CCA10082010
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Timezone XML Specification
+  type: main
 docidentifier:
 - content: CC/A 1008:2010
   type: CalConnect
@@ -20,11 +21,6 @@ contributor:
     name:
     - content: CalConnect
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -34,11 +30,16 @@ contributor:
     subdivision:
     - name:
       - content: TIMEZONE
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2010-07-05'
+- content: '2010-07-05'
 language:
 - en
 script:
@@ -57,4 +58,4 @@ ext:
   doctype:
     abbreviation: A
     content: administrative
-  flavor: calconnect
+  flavor: cc

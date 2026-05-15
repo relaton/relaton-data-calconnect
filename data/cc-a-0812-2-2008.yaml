@@ -1,10 +1,11 @@
 ---
 id: CCA081222008
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: 'Introduction to CalConnect: The Calendaring and Scheduling Consortium'
+  type: main
 docidentifier:
 - content: CC/A 0812-2:2008
   type: CalConnect
@@ -26,14 +27,11 @@ contributor:
       completename:
         content: Dave Thewlis
     affiliation:
-    - organization:
+    - name:
+        content: Executive Director
+      organization:
         name:
         - content: The Calendaring and Scheduling Consortium
-- role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
 - role:
   - type: author
     description:
@@ -44,11 +42,16 @@ contributor:
     subdivision:
     - name:
       - content: CALCONNECT
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2008-11-07'
+- content: '2008-11-07'
 language:
 - en
 script:
@@ -67,4 +70,4 @@ ext:
   doctype:
     abbreviation: A
     content: administrative
-  flavor: calconnect
+  flavor: cc

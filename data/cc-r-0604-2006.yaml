@@ -1,10 +1,11 @@
 ---
 id: CCR06042006
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: iCalendar Recurrence Problems and Recommendations
+  type: main
 docidentifier:
 - content: CC/R 0604:2006
   type: CalConnect
@@ -32,11 +33,6 @@ contributor:
         name:
         - content: IBM
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -46,11 +42,16 @@ contributor:
     subdivision:
     - name:
       - content: RECURR
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2006-03-16'
+- content: '2006-03-16'
 language:
 - en
 script:
@@ -69,4 +70,4 @@ ext:
   doctype:
     abbreviation: R
     content: report
-  flavor: calconnect
+  flavor: cc

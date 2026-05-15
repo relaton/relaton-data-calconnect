@@ -1,10 +1,11 @@
 ---
 id: CCA14052014
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Report on CalConnect Conference XXX, May 21-23, 2014
+  type: main
 docidentifier:
 - content: CC/A 1405:2014
   type: CalConnect
@@ -20,11 +21,6 @@ contributor:
     name:
     - content: CalConnect
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -34,11 +30,16 @@ contributor:
     subdivision:
     - name:
       - content: CALCONNECT
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2014-06-09'
+- content: '2014-06-09'
 language:
 - en
 script:
@@ -57,4 +58,4 @@ ext:
   doctype:
     abbreviation: A
     content: administrative
-  flavor: calconnect
+  flavor: cc

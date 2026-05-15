@@ -1,0 +1,73 @@
+---
+id: CCWD510222016
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: DAV Server Information Object
+  type: main
+docidentifier:
+- content: CC/WD 51022:2016
+  type: CalConnect
+  primary: true
+docnumber: '51022'
+date:
+- type: published
+  at: '2016-04-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Michael Douglass
+    affiliation:
+    - organization:
+        name:
+        - content: Spherical Cow Group
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALENDAR
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1'
+version:
+- content: '2016-04-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This specification describes a new XML object that can be retrieved
+    from hosts to discover applications, features and limits for that host or domain.</p>\n"
+status:
+  stage:
+    content: working-draft
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: cc

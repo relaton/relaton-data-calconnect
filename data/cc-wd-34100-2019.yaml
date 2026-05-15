@@ -1,0 +1,60 @@
+---
+id: CCWD341002019
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: Date and time — Reference time scales
+  type: main
+docidentifier:
+- content: CC/WD 34100:2019
+  type: CalConnect
+  primary: true
+docnumber: '34100'
+date:
+- type: published
+  at: '2019-02-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: DATETIME
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1'
+version:
+- content: '2019-02-02'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: working-draft
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: cc

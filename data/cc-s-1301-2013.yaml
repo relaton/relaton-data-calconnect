@@ -1,10 +1,11 @@
 ---
 id: CCS13012013
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: CalWS-SOAP SOAP Web Services Protocol for Calendaring
+  type: main
 docidentifier:
 - content: CC/S 1301:2013
   type: CalConnect
@@ -32,11 +33,6 @@ contributor:
         name:
         - content: Rensselaer Polytechnic Institute
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -46,22 +42,26 @@ contributor:
     subdivision:
     - name:
       - content: XML
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2013-01-10'
+- content: '2013-01-10'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "&lt;p&gt;This document describes standard messages and interactions for
-    service interactions with a system that hosts calendar-based information using
-    SOAP. Hosted information can be either traditional personal and enterprise calendar
-    information or services that support XML payloads developed in conformance with
-    the WS-Calendar specification.&lt;/p&gt;"
-  format: text/plain
+- content: "<p>This document describes standard messages and interactions for service
+    interactions with a system that hosts calendar-based information using SOAP. Hosted
+    information can be either traditional personal and enterprise calendar information
+    or services that support XML payloads developed in conformance with the WS-Calendar
+    specification.</p>\n"
 status:
   stage:
     content: published
@@ -81,30 +81,15 @@ relation:
     - type: published
       at: '2011-03-15'
     contributor:
-    - role:
-      - type: author
-      person:
+    - person:
         name:
           completename:
             content: Michael Douglass
-    - role:
-      - type: publisher
-      organization:
+    - organization:
         name:
         - content: CalConnect
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.0'
+      content: '0.0'
 - type: updatedBy
   bibitem:
     docidentifier:
@@ -114,30 +99,15 @@ relation:
     - type: updated
       at: '2011-07-15'
     contributor:
-    - role:
-      - type: author
-      person:
+    - person:
         name:
           completename:
             content: Michael Douglass
-    - role:
-      - type: publisher
-      organization:
+    - organization:
         name:
         - content: CalConnect
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.1'
+      content: '0.1'
 - type: updatedBy
   bibitem:
     docidentifier:
@@ -145,32 +115,16 @@ relation:
       type: CalConnect
     date:
     - type: updated
-      at: '2011-01-01'
     contributor:
-    - role:
-      - type: author
-      person:
+    - person:
         name:
           completename:
             content: Michael Douglass
-    - role:
-      - type: publisher
-      organization:
+    - organization:
         name:
         - content: CalConnect
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.2'
+      content: '0.2'
 - type: updatedBy
   bibitem:
     docidentifier:
@@ -180,30 +134,15 @@ relation:
     - type: updated
       at: '2011-09-07'
     contributor:
-    - role:
-      - type: author
-      person:
+    - person:
         name:
           completename:
             content: Michael Douglass
-    - role:
-      - type: publisher
-      organization:
+    - organization:
         name:
         - content: CalConnect
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.3'
+      content: '0.3'
 - type: updatedBy
   bibitem:
     docidentifier:
@@ -213,30 +152,15 @@ relation:
     - type: updated
       at: '2011-11-11'
     contributor:
-    - role:
-      - type: author
-      person:
+    - person:
         name:
           completename:
             content: Michael Douglass
-    - role:
-      - type: publisher
-      organization:
+    - organization:
         name:
         - content: CalConnect
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.4'
+      content: '0.4'
 - type: updatedBy
   bibitem:
     docidentifier:
@@ -246,30 +170,15 @@ relation:
     - type: updated
       at: '2011-12-15'
     contributor:
-    - role:
-      - type: author
-      person:
+    - person:
         name:
           completename:
             content: Michael Douglass
-    - role:
-      - type: publisher
-      organization:
+    - organization:
         name:
         - content: CalConnect
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.5'
+      content: '0.5'
 - type: updatedBy
   bibitem:
     docidentifier:
@@ -279,30 +188,15 @@ relation:
     - type: updated
       at: '2012-01-03'
     contributor:
-    - role:
-      - type: author
-      person:
+    - person:
         name:
           completename:
             content: Michael Douglass
-    - role:
-      - type: publisher
-      organization:
+    - organization:
         name:
         - content: CalConnect
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.6'
+      content: '0.6'
 - type: updatedBy
   bibitem:
     docidentifier:
@@ -312,30 +206,15 @@ relation:
     - type: updated
       at: '2012-02-07'
     contributor:
-    - role:
-      - type: author
-      person:
+    - person:
         name:
           completename:
             content: Michael Douglass
-    - role:
-      - type: publisher
-      organization:
+    - organization:
         name:
         - content: CalConnect
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.7'
+      content: '0.7'
 - type: updatedBy
   bibitem:
     docidentifier:
@@ -345,30 +224,15 @@ relation:
     - type: updated
       at: '2012-02-13'
     contributor:
-    - role:
-      - type: author
-      person:
+    - person:
         name:
           completename:
             content: Michael Douglass
-    - role:
-      - type: publisher
-      organization:
+    - organization:
         name:
         - content: CalConnect
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.8'
+      content: '0.8'
 - type: updatedBy
   bibitem:
     docidentifier:
@@ -378,36 +242,19 @@ relation:
     - type: updated
       at: '2012-02-14'
     contributor:
-    - role:
-      - type: author
-      person:
+    - person:
         name:
           completename:
             content: Michael Douglass
-    - role:
-      - type: author
-      person:
+    - person:
         name:
           completename:
             content: Toby Considine
-    - role:
-      - type: publisher
-      organization:
+    - organization:
         name:
         - content: CalConnect
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.9'
+      content: '0.9'
 - type: updatedBy
   bibitem:
     docidentifier:
@@ -417,30 +264,15 @@ relation:
     - type: updated
       at: '2012-07-29'
     contributor:
-    - role:
-      - type: author
-      person:
+    - person:
         name:
           completename:
             content: Toby Considine
-    - role:
-      - type: publisher
-      organization:
+    - organization:
         name:
         - content: CalConnect
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.1'
+      content: '0.1'
 - type: updatedBy
   bibitem:
     docidentifier:
@@ -450,33 +282,18 @@ relation:
     - type: updated
       at: '2012-11-06'
     contributor:
-    - role:
-      - type: author
-      person:
+    - person:
         name:
           completename:
             content: Michael Douglass
-    - role:
-      - type: publisher
-      organization:
+    - organization:
         name:
         - content: CalConnect
-    - role:
-      - type: author
-        description:
-        - content: committee
-      organization:
-        name:
-        - content: CalConnect
-        subdivision:
-        - name:
-          - content: XML
-          type: technical-committee
     edition:
-      number: '0.11'
+      content: '0.11'
 ext:
   schema_version: v1.1.2
   doctype:
     abbreviation: S
     content: specification
-  flavor: calconnect
+  flavor: cc

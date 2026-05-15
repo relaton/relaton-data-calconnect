@@ -1,10 +1,11 @@
 ---
 id: CCS09032009
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Freebusy Read URL
+  type: main
 docidentifier:
 - content: CC/S 0903:2009
   type: CalConnect
@@ -32,18 +33,13 @@ contributor:
     affiliation:
     - organization:
         address:
-          street:
+        - street:
           - 1 Infinite Loop
           city: Cupertino
           country: USA
           postcode: '95014'
         name:
         - content: Apple Inc.
-- role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
 - role:
   - type: author
     description:
@@ -54,20 +50,24 @@ contributor:
     subdivision:
     - name:
       - content: FREEBUSY
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2009-04-15'
+- content: '2009-04-15'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "&lt;p&gt;This document defines a standardized form of Freebusy read URL
-    to improve interoperability between client and server implementations, while extending
-    the functionality and utility through the use of optional parameters.&lt;/p&gt;"
-  format: text/plain
+- content: "<p>This document defines a standardized form of Freebusy read URL to improve
+    interoperability between client and server implementations, while extending the
+    functionality and utility through the use of optional parameters.</p>\n"
 status:
   stage:
     content: published
@@ -82,4 +82,4 @@ ext:
   doctype:
     abbreviation: S
     content: specification
-  flavor: calconnect
+  flavor: cc

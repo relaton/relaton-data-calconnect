@@ -1,10 +1,11 @@
 ---
 id: CCA06122006
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Calendar Interoperability Test Report, September 26-27, 2006
+  type: main
 docidentifier:
 - content: CC/A 0612:2006
   type: CalConnect
@@ -66,11 +67,6 @@ contributor:
         name:
         - content: CalConnect
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -80,11 +76,16 @@ contributor:
     subdivision:
     - name:
       - content: IOPTEST
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1.2'
+  content: '1.2'
 version:
-- revision_date: '2006-12-06'
+- content: '2006-12-06'
 language:
 - en
 script:
@@ -103,4 +104,4 @@ ext:
   doctype:
     abbreviation: A
     content: administrative
-  flavor: calconnect
+  flavor: cc

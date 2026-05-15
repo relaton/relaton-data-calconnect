@@ -1,10 +1,11 @@
 ---
 id: CC180112018
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Date and time — Explicit representation
+  type: main
 docidentifier:
 - content: CC 18011:2018
   type: CalConnect
@@ -20,11 +21,6 @@ contributor:
     name:
     - content: CalConnect
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -34,11 +30,16 @@ contributor:
     subdivision:
     - name:
       - content: DATETIME
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2018-09-18'
+- content: '2018-09-18'
 language:
 - en
 script:
@@ -56,4 +57,4 @@ ext:
   schema_version: v1.1.2
   doctype:
     content: standard
-  flavor: calconnect
+  flavor: cc

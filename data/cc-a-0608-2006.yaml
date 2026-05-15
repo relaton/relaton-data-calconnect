@@ -1,10 +1,11 @@
 ---
 id: CCA06082006
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: The Open Group Federated Freebusy Challenge Demo
+  type: main
 docidentifier:
 - content: CC/A 0608:2006
   type: CalConnect
@@ -50,11 +51,6 @@ contributor:
         name:
         - content: RPI
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -64,11 +60,16 @@ contributor:
     subdivision:
     - name:
       - content: FREEBUSY
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2006-07-17'
+- content: '2006-07-17'
 language:
 - en
 script:
@@ -87,4 +88,4 @@ ext:
   doctype:
     abbreviation: A
     content: administrative
-  flavor: calconnect
+  flavor: cc

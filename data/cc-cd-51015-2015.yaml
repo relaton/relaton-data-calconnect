@@ -1,0 +1,90 @@
+---
+id: CCCD510152015
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: 'Calendaring and scheduling — v-event URI: An URI scheme for events'
+  type: main
+source:
+- content: http://www.google.com/
+docidentifier:
+- content: CC/CD 51015:2015
+  type: CalConnect
+  primary: true
+docnumber: '51015'
+date:
+- type: published
+  at: '2015-11-02'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: editor
+  person:
+    email:
+    - menderico@google.com
+    name:
+      completename:
+        content: Raphael Menderico
+- role:
+  - type: author
+  person:
+    email:
+    - pschlup@google.com
+    name:
+      completename:
+        content: Paulo Schlup
+- role:
+  - type: author
+  person:
+    email:
+    - lucka@google.com
+    name:
+      completename:
+        content: Lucia Kristiansen
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: EVENTPUB
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1'
+version:
+- content: '2015-11-02'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This document defines the format of Uniform Resource Identifiers (URIs)
+    for calendar events, allowing users to add these events to their calendar application
+    from any source that defines them, like web sites and printed QR codes</p>\n"
+status:
+  stage:
+    content: committee-draft
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: cc

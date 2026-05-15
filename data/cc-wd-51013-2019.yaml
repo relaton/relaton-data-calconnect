@@ -1,0 +1,96 @@
+---
+id: CCWD510132019
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: CalDAV Managed Attachments
+  type: main
+docidentifier:
+- content: CC/WD 51013:2019
+  type: CalConnect
+  primary: true
+docnumber: '51013'
+date:
+- type: published
+  at: '2019-01-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Cyrus Daboo
+    affiliation:
+    - organization:
+        name:
+        - content: Apple Inc.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Arnaud Quillaud
+    affiliation:
+    - organization:
+        name:
+        - content: Oracle Corporation
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Kenneth Murchison
+    affiliation:
+    - organization:
+        name:
+        - content: FastMail US LLC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALENDAR
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1'
+version:
+- content: '2019-01-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |
+    <p>This specification defines an extension to the calendar access protocol (CalDAV) to allow attachments associated with iCalendar data to be stored and managed on the server.</p>
+
+    <p>This specification documents existing code deployed by multiple vendors. It is published as an Informational specification rather than Standards Track due to its noncompliance with multiple best current practices of HTTP.</p>
+status:
+  stage:
+    content: working-draft
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+keyword:
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: cc

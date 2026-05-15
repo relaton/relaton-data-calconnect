@@ -1,0 +1,76 @@
+---
+id: CCWD510142016
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: The iCalendar VINSTANCE Component
+  type: main
+docidentifier:
+- content: CC/WD 51014:2016
+  type: CalConnect
+  primary: true
+docnumber: '51014'
+date:
+- type: published
+  at: '2016-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Cyrus Daboo
+    affiliation:
+    - organization:
+        name:
+        - content: Apple Inc.
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALENDAR
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1'
+version:
+- content: '2016-10-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: '<p>This document updates the iCalendar (<eref type="inline" bibitemid="RFC5545"
+    citeas="IETF RFC 5545"/>) specification to allow a more compact representation
+    of overridden recurrence instances.</p>
+
+    '
+status:
+  stage:
+    content: working-draft
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: cc

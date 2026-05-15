@@ -1,10 +1,11 @@
 ---
 id: CCS05052005
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Results from First Recurrence Questionnaire
+  type: main
 docidentifier:
 - content: CC/S 0505:2005
   type: CalConnect
@@ -20,11 +21,6 @@ contributor:
     name:
     - content: CalConnect
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -34,11 +30,16 @@ contributor:
     subdivision:
     - name:
       - content: RECURR
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2005-07-21'
+- content: '2005-07-21'
 language:
 - en
 script:
@@ -58,6 +59,7 @@ relation:
     title:
     - language: en
       content: Questionnaire on Implementation of Recurrence
+      type: main
     docidentifier:
     - content: CC/S 0505:2005
       type: CalConnect
@@ -73,11 +75,6 @@ relation:
         name:
         - content: CalConnect
     - role:
-      - type: publisher
-      organization:
-        name:
-        - content: CalConnect
-    - role:
       - type: author
         description:
         - content: committee
@@ -87,11 +84,16 @@ relation:
         subdivision:
         - name:
           - content: RECURR
-          type: technical-committee
+          type: Technical committee
+    - role:
+      - type: publisher
+      organization:
+        name:
+        - content: CalConnect
     edition:
-      number: '1'
+      content: '1'
     version:
-    - revision_date: '2005-07-21'
+    - content: '2005-07-21'
     language:
     - en
     script:
@@ -110,4 +112,4 @@ ext:
   doctype:
     abbreviation: S
     content: specification
-  flavor: calconnect
+  flavor: cc

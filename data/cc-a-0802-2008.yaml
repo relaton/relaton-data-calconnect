@@ -1,10 +1,11 @@
 ---
 id: CCA08022008
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: February 2008 CalConnect Interoperability Test Report
+  type: main
 docidentifier:
 - content: CC/A 0802:2008
   type: CalConnect
@@ -74,11 +75,6 @@ contributor:
       completename:
         content: Tony Becker
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -88,11 +84,16 @@ contributor:
     subdivision:
     - name:
       - content: IOPTEST
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '2'
+  content: '2'
 version:
-- revision_date: '2008-04-09'
+- content: '2008-04-09'
 language:
 - en
 script:
@@ -111,4 +112,4 @@ ext:
   doctype:
     abbreviation: A
     content: administrative
-  flavor: calconnect
+  flavor: cc

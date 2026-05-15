@@ -1,10 +1,11 @@
 ---
 id: CCS09062009
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Use Cases for Resources
+  type: main
 docidentifier:
 - content: CC/S 0906:2009
   type: CalConnect
@@ -52,11 +53,6 @@ contributor:
       completename:
         content: Ciny Joy
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -66,19 +62,23 @@ contributor:
     subdivision:
     - name:
       - content: USECASE
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2009-06-10'
+- content: '2009-06-10'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: "&lt;p&gt;This document lists use cases that utilize resources within the
-    calendaring and scheduling application domain.&lt;/p&gt;"
-  format: text/plain
+- content: "<p>This document lists use cases that utilize resources within the calendaring
+    and scheduling application domain.</p>\n"
 status:
   stage:
     content: published
@@ -93,4 +93,4 @@ ext:
   doctype:
     abbreviation: S
     content: specification
-  flavor: calconnect
+  flavor: cc

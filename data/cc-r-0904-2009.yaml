@@ -1,10 +1,11 @@
 ---
 id: CCR09042009
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: xCal - The XML Format for iCalendar
+  type: main
 docidentifier:
 - content: CC/R 0904:2009
   type: CalConnect
@@ -20,11 +21,6 @@ contributor:
     name:
     - content: CalConnect
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -34,11 +30,16 @@ contributor:
     subdivision:
     - name:
       - content: XML
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2009-06-04'
+- content: '2009-06-04'
 language:
 - en
 script:
@@ -57,4 +58,4 @@ ext:
   doctype:
     abbreviation: R
     content: report
-  flavor: calconnect
+  flavor: cc

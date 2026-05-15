@@ -1,10 +1,11 @@
 ---
 id: CCA10062010
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: LINK Property Extension to iCalendar
+  type: main
 docidentifier:
 - content: CC/A 1006:2010
   type: CalConnect
@@ -20,11 +21,6 @@ contributor:
     name:
     - content: CalConnect
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -34,11 +30,16 @@ contributor:
     subdivision:
     - name:
       - content: EVENTPUB
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2010-06-30'
+- content: '2010-06-30'
 language:
 - en
 script:
@@ -57,4 +58,4 @@ ext:
   doctype:
     abbreviation: A
     content: administrative
-  flavor: calconnect
+  flavor: cc

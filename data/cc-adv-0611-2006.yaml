@@ -1,10 +1,11 @@
 ---
 id: CCAdv06112006
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: The Benefits of iCalendar for the Mobile Industry
+  type: main
 docidentifier:
 - content: CC/Adv 0611:2006
   type: CalConnect
@@ -60,11 +61,6 @@ contributor:
         name:
         - content: Oracle
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -74,11 +70,16 @@ contributor:
     subdivision:
     - name:
       - content: MOBILE
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2006-11-27'
+- content: '2006-11-27'
 language:
 - en
 script:
@@ -97,4 +98,4 @@ ext:
   doctype:
     abbreviation: Adv
     content: advisory
-  flavor: calconnect
+  flavor: cc

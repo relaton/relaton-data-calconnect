@@ -1,0 +1,81 @@
+---
+id: CCAdv070712007
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: CalConnect EDST Reflections and Recommendations
+  type: main
+docidentifier:
+- content: CC/Adv 0707.1:2007
+  type: CalConnect
+  primary: true
+docnumber: '0707.1'
+date:
+- type: published
+  at: '2007-10-04'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: editor
+  person:
+    name:
+      completename:
+        content: Mike Mize
+    affiliation:
+    - organization:
+        name:
+        - content: California State University Fresno
+- role:
+  - type: editor
+  person:
+    name:
+      completename:
+        content: Gary Schwartz
+    affiliation:
+    - organization:
+        name:
+        - content: Rensselaer Polytechnic Institute
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: DST ADHOC
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1.1'
+version:
+- content: '2007-10-04'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: published
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    abbreviation: Adv
+    content: advisory
+  flavor: cc

@@ -1,13 +1,13 @@
 ---
 id: CCCD700252017
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Calendaring and scheduling — Push Discovery and Notification Dispatch Protocol
+  type: main
 source:
-- type: src
-  content: http://dmfs.org
+- content: http://dmfs.org
 docidentifier:
 - content: CC/CD 70025:2017
   type: CalConnect
@@ -31,11 +31,6 @@ contributor:
       completename:
         content: Marten Gajda
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -45,33 +40,37 @@ contributor:
     subdivision:
     - name:
       - content: PUSH
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2017-04-17'
+- content: '2017-04-17'
 language:
 - en
 script:
 - Latn
 abstract:
-- content: |-
-    &lt;p&gt;This specification defines a framework and protocols for a push notification system that allows clients, application servers and push notification servers to interact with each other in a standardized manner.&lt;/p&gt;
+- content: |
+    <p>This specification defines a framework and protocols for a push notification system that allows clients, application servers and push notification servers to interact with each other in a standardized manner.</p>
 
-    &lt;p&gt;The Calendaring and Scheduling Consortium ("CalConnect") is a global non-profit organization with the aim to facilitate interoperability of collaborative technologies and tools through open standards.&lt;/p&gt;
+    <p>The Calendaring and Scheduling Consortium ("<tt>CalConnect</tt>") is a global non-profit organization with the aim to facilitate interoperability of collaborative technologies and tools through open standards.</p>
 
-    &lt;p&gt;CalConnect works closely with international and regional partners, of which the full list is available on our website ( &lt;link target="https://www.calconnect.org/about/liaisons-and-relationships"/&gt;).&lt;/p&gt;
+    <p>CalConnect works closely with international and regional partners, of which the full list is available on our website (<link target="https://www.calconnect.org/about/liaisons-and-relationships"/>).</p>
 
-    &lt;p&gt;The procedures used to develop this document and those intended for its further maintenance are described in the CalConnect Directives.&lt;/p&gt;
+    <p>The procedures used to develop this document and those intended for its further maintenance are described in the CalConnect Directives.</p>
 
-    &lt;p&gt;In particular the different approval criteria needed for the different types of CalConnect documents should be noted. This document was drafted in accordance with the editorial rules of the CalConnect Directives.&lt;/p&gt;
+    <p>In particular the different approval criteria needed for the different types of CalConnect documents should be noted. This document was drafted in accordance with the editorial rules of the CalConnect Directives.</p>
 
-    &lt;p&gt;Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. CalConnect shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be provided in the Introduction.&lt;/p&gt;
+    <p>Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. CalConnect shall not be held responsible for identifying any or all such patent rights. Details of any patent rights identified during the development of the document will be provided in the Introduction.</p>
 
-    &lt;p&gt;Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.&lt;/p&gt;
+    <p>Any trade name used in this document is information given for the convenience of users and does not constitute an endorsement.</p>
 
-    &lt;p&gt;This document was prepared by Technical Committee &lt;em&gt;PUSH&lt;/em&gt;.&lt;/p&gt;
-  format: text/plain
+    <p>This document was prepared by Technical Committee <em>PUSH</em>.</p>
 status:
   stage:
     content: committee-draft
@@ -82,16 +81,8 @@ copyright:
       name:
       - content: CalConnect
 keyword:
-- vocab:
-    content: push
-- vocab:
-    content: CardDAV
-- vocab:
-    content: CalDAV
-- vocab:
-    content: WebDAV
 ext:
   schema_version: v1.1.2
   doctype:
     content: standard
-  flavor: calconnect
+  flavor: cc

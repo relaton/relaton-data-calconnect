@@ -1,10 +1,11 @@
 ---
 id: CCS05072005
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: CalDav Use Cases
+  type: main
 docidentifier:
 - content: CC/S 0507:2005
   type: CalConnect
@@ -30,11 +31,6 @@ contributor:
         name:
         - content: Oracle
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -44,11 +40,16 @@ contributor:
     subdivision:
     - name:
       - content: CALDAV
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2005-09-26'
+- content: '2005-09-26'
 language:
 - en
 script:
@@ -67,4 +68,4 @@ ext:
   doctype:
     abbreviation: S
     content: specification
-  flavor: calconnect
+  flavor: cc

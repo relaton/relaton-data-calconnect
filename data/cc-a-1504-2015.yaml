@@ -1,10 +1,11 @@
 ---
 id: CCA15042015
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Report on Interoperability Test Event XXXIII, May 18-20, 2015
+  type: main
 docidentifier:
 - content: CC/A 1504:2015
   type: CalConnect
@@ -20,11 +21,6 @@ contributor:
     name:
     - content: CalConnect
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -34,11 +30,16 @@ contributor:
     subdivision:
     - name:
       - content: IOPTEST
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2015-06-23'
+- content: '2015-06-23'
 language:
 - en
 script:
@@ -57,4 +58,4 @@ ext:
   doctype:
     abbreviation: A
     content: administrative
-  flavor: calconnect
+  flavor: cc

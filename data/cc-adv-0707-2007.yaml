@@ -1,10 +1,11 @@
 ---
 id: CCAdv07072007
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: CalConnect EDST (Extended Daylight Savings Time) Reflections and Recommendations
+  type: main
 docidentifier:
 - content: CC/Adv 0707:2007
   type: CalConnect
@@ -32,7 +33,7 @@ contributor:
     affiliation:
     - organization:
         address:
-          street:
+        - street:
           - 5241 N Maple Ave
           city: Fresno
           country: USA
@@ -51,17 +52,12 @@ contributor:
     affiliation:
     - organization:
         address:
-          street:
+        - street:
           - 110 8th Street
           city: Troy
           country: USA
         name:
         - content: Rensselaer Polytechnic Institute
-- role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
 - role:
   - type: author
     description:
@@ -72,11 +68,16 @@ contributor:
     subdivision:
     - name:
       - content: Ad Hoc DST
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2007-10-04'
+- content: '2007-10-04'
 language:
 - en
 script:
@@ -95,4 +96,4 @@ ext:
   doctype:
     abbreviation: Adv
     content: advisory
-  flavor: calconnect
+  flavor: cc

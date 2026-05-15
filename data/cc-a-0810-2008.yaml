@@ -1,10 +1,11 @@
 ---
 id: CCA08102008
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Report on Roundtable XII, June 4-6 2008
+  type: main
 docidentifier:
 - content: CC/A 0810:2008
   type: CalConnect
@@ -20,11 +21,6 @@ contributor:
     name:
     - content: CalConnect
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -34,11 +30,16 @@ contributor:
     subdivision:
     - name:
       - content: CALCONNECT
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2008-06-06'
+- content: '2008-06-06'
 language:
 - en
 script:
@@ -57,4 +58,4 @@ ext:
   doctype:
     abbreviation: A
     content: administrative
-  flavor: calconnect
+  flavor: cc

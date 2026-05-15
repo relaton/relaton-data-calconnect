@@ -1,10 +1,11 @@
 ---
 id: CCCD510062024
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Calendaring and scheduling — Consensus scheduling — iCalendar VPOLL component
+  type: main
 docidentifier:
 - content: CC/CD 51006:2024
   type: CalConnect
@@ -38,11 +39,6 @@ contributor:
       completename:
         content: Michael Douglass
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -52,11 +48,16 @@ contributor:
     subdivision:
     - name:
       - content: FREEBUSY
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2024-04-22'
+- content: '2024-04-22'
 language:
 - en
 script:
@@ -74,4 +75,4 @@ ext:
   schema_version: v1.1.2
   doctype:
     content: standard
-  flavor: calconnect
+  flavor: cc

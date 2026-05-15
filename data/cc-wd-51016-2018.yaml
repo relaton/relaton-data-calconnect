@@ -1,0 +1,75 @@
+---
+id: CCWD510162018
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: Streaming Calendar and Contacts Data
+  type: main
+docidentifier:
+- content: CC/WD 51016:2018
+  type: CalConnect
+  primary: true
+docnumber: '51016'
+date:
+- type: published
+  at: '2018-08-01'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Michael Douglass
+    affiliation:
+    - organization:
+        name:
+        - content: Spherical Cow Group
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALENDAR
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1'
+version:
+- content: '2018-08-01'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: "<p>This specification defines a model for streaming calendar and contact
+    data. This allows for a more efficient method for synchronizing collections of
+    data and may be used to augment existing protocols such as CalDAV.</p>\n"
+status:
+  stage:
+    content: working-draft
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+keyword:
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: cc

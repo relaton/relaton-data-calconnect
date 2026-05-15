@@ -1,10 +1,11 @@
 ---
 id: CCA07102007
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: September 2007 CalConnect Interoperability Test Report
+  type: main
 docidentifier:
 - content: CC/A 0710:2007
   type: CalConnect
@@ -68,11 +69,6 @@ contributor:
       completename:
         content: Clint Talbert
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -82,11 +78,16 @@ contributor:
     subdivision:
     - name:
       - content: IOPTEST
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '2'
+  content: '2'
 version:
-- revision_date: '2007-12-14'
+- content: '2007-12-14'
 language:
 - en
 script:
@@ -105,4 +106,4 @@ ext:
   doctype:
     abbreviation: A
     content: administrative
-  flavor: calconnect
+  flavor: cc

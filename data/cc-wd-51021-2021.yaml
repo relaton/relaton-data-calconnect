@@ -1,0 +1,75 @@
+---
+id: CCWD510212021
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: Event Publishing Extensions to iCalendar
+  type: main
+docidentifier:
+- content: CC/WD 51021:2021
+  type: CalConnect
+  primary: true
+docnumber: '51021'
+date:
+- type: published
+  at: '2021-03-26'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Michael Douglass
+    affiliation:
+    - organization:
+        name:
+        - content: Bedework
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: CALENDAR
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1'
+version:
+- content: '2021-03-26'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: |
+    <p>This specification updates <eref type="inline" bibitemid="RFC5545" citeas="IETF RFC 5545"/> by introducing a number of new iCalendar properties and components which are of particular use for event publishers and in social networking.</p>
+
+    <p>This specification also defines a new STRUCTURED-DATA property for iCalendar <eref type="inline" bibitemid="RFC5545" citeas="IETF RFC 5545"/> to allow for data that is directly pertinent to an event or task to be included with the calendar data.</p>
+status:
+  stage:
+    content: working-draft
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: cc

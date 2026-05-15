@@ -1,11 +1,12 @@
 ---
 id: CCR101002019
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Alignment to international principles — WTO TBT principles for the Development
     of International Standards, Guides and Recommendations
+  type: main
 docidentifier:
 - content: CC/R 10100:2019
   type: CalConnect
@@ -21,11 +22,6 @@ contributor:
     name:
     - content: CalConnect
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -35,11 +31,16 @@ contributor:
     subdivision:
     - name:
       - content: PUBLISH
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2019-03-18'
+- content: '2019-03-18'
 language:
 - en
 script:
@@ -58,4 +59,4 @@ ext:
   doctype:
     abbreviation: R
     content: report
-  flavor: calconnect
+  flavor: cc

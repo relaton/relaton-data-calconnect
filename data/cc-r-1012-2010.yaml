@@ -1,10 +1,11 @@
 ---
 id: CCR10122010
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
-  content: An Introduction to Internet Calendaring and Scheduling
+  content: An Introduction to Internet Calendaring
+  type: main
 docidentifier:
 - content: CC/R 1012:2010
   type: CalConnect
@@ -12,15 +13,10 @@ docidentifier:
 docnumber: '1012'
 date:
 - type: published
-  at: '2011-10-20'
+  at: '2010-10-14'
 contributor:
 - role:
   - type: author
-  organization:
-    name:
-    - content: CalConnect
-- role:
-  - type: publisher
   organization:
     name:
     - content: CalConnect
@@ -34,11 +30,16 @@ contributor:
     subdivision:
     - name:
       - content: CALCONNECT
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1.1'
+  content: '1'
 version:
-- revision_date: '2011-10-20'
+- content: '2010-10-14'
 language:
 - en
 script:
@@ -57,4 +58,4 @@ ext:
   doctype:
     abbreviation: R
     content: report
-  flavor: calconnect
+  flavor: cc

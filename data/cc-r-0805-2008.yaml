@@ -1,10 +1,11 @@
 ---
 id: CCR08052008
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
   content: Mobile Recurrence Interoperability Recommendations
+  type: main
 docidentifier:
 - content: CC/R 0805:2008
   type: CalConnect
@@ -40,11 +41,6 @@ contributor:
         name:
         - content: Oracle Corporation
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -54,11 +50,16 @@ contributor:
     subdivision:
     - name:
       - content: MOBILE
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2008-07-29'
+- content: '2008-07-29'
 language:
 - en
 script:
@@ -77,4 +78,4 @@ ext:
   doctype:
     abbreviation: R
     content: report
-  flavor: calconnect
+  flavor: cc

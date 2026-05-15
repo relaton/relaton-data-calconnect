@@ -1,13 +1,12 @@
 ---
 id: CCR07082007
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
-  content: Extended Daylight Savings Time Review and Considerations
-- language: main-en
-  content: A Review of the Potential Impact of Daylight Saving Time Changes in 2007
-    -- A Reference for Users and Systems Administrators
+  content: A Review of the Potential Impact of Daylight Saving Time Changes in 2007 — A
+    Reference for Users and Systems Administrators
+  type: main
 docidentifier:
 - content: CC/R 0708:2007
   type: CalConnect
@@ -33,11 +32,6 @@ contributor:
         name:
         - content: Carnegie Mellon University
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -47,11 +41,16 @@ contributor:
     subdivision:
     - name:
       - content: DST ADHOC
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2007-02-15'
+- content: '2007-02-15'
 language:
 - en
 script:
@@ -70,4 +69,4 @@ ext:
   doctype:
     abbreviation: R
     content: report
-  flavor: calconnect
+  flavor: cc

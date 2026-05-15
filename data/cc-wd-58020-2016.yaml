@@ -1,0 +1,88 @@
+---
+id: CCWD580202016
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: The iCalendar VPATCH Component
+  type: main
+docidentifier:
+- content: CC/WD 58020:2016
+  type: CalConnect
+  primary: true
+docnumber: '58020'
+date:
+- type: published
+  at: '2016-10-28'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Cyrus Daboo
+    affiliation:
+    - organization:
+        name:
+        - content: Apple Inc.
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Kenneth Murchison
+    affiliation:
+    - organization:
+        name:
+        - content: Carnegie Mellon University
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: VCARD
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1'
+version:
+- content: '2016-10-28'
+language:
+- en
+script:
+- Latn
+abstract:
+- content: '<p>This document defines a new iCalendar <eref type="inline" bibitemid="RFC5545"
+    citeas="IETF RFC 5545"/> component that allows small "patches" to be applied to
+    large iCalendar data objects, to allow for efficient data updates. It also describes
+    how this new component can be used with the CalDAV calendar data access protocol  <eref
+    type="inline" bibitemid="RFC4791" citeas="IETF RFC 4791"/>.</p>
+
+    '
+status:
+  stage:
+    content: working-draft
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: cc

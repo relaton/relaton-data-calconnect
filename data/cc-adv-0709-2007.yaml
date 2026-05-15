@@ -1,13 +1,12 @@
 ---
 id: CCAdv07092007
-type: standard
 schema_version: v1.5.6
+type: standard
 title:
 - language: en
-  content: Extended Daylight Savings Time Links, Advisories and Changes
-- language: main-en
   content: Links to Advisory and Vendor Material on the Daylight Saving Time Changes
-    in 2007 -- A Reference for Users and Systems Administrators
+    in 2007 — A Reference for Users and Systems Administrators
+  type: main
 docidentifier:
 - content: CC/Adv 0709:2007
   type: CalConnect
@@ -23,11 +22,6 @@ contributor:
     name:
     - content: CalConnect
 - role:
-  - type: publisher
-  organization:
-    name:
-    - content: CalConnect
-- role:
   - type: author
     description:
     - content: committee
@@ -37,11 +31,16 @@ contributor:
     subdivision:
     - name:
       - content: DST ADHOC
-      type: technical-committee
+      type: Technical committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
 edition:
-  number: '1'
+  content: '1'
 version:
-- revision_date: '2007-10-06'
+- content: '2007-10-06'
 language:
 - en
 script:
@@ -60,4 +59,4 @@ ext:
   doctype:
     abbreviation: Adv
     content: advisory
-  flavor: calconnect
+  flavor: cc

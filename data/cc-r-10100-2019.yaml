@@ -31,7 +31,7 @@ contributor:
     subdivision:
     - name:
       - content: PUBLISH
-      type: Technical committee
+      type: technical-committee
 - role:
   - type: publisher
   organization:

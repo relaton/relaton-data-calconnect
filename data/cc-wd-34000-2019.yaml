@@ -30,7 +30,7 @@ contributor:
     subdivision:
     - name:
       - content: DATETIME
-      type: Technical committee
+      type: technical-committee
 - role:
   - type: publisher
   organization:

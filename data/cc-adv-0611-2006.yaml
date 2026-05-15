@@ -70,7 +70,7 @@ contributor:
     subdivision:
     - name:
       - content: MOBILE
-      type: Technical committee
+      type: technical-committee
 - role:
   - type: publisher
   organization:

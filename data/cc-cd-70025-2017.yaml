@@ -40,7 +40,7 @@ contributor:
     subdivision:
     - name:
       - content: PUSH
-      type: Technical committee
+      type: technical-committee
 - role:
   - type: publisher
   organization:

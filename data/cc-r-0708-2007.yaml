@@ -41,7 +41,7 @@ contributor:
     subdivision:
     - name:
       - content: DST ADHOC
-      type: Technical committee
+      type: technical-committee
 - role:
   - type: publisher
   organization:

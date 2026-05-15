@@ -56,7 +56,7 @@ contributor:
     subdivision:
     - name:
       - content: EVENTPUB
-      type: Technical committee
+      type: technical-committee
 - role:
   - type: publisher
   organization:

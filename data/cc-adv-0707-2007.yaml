@@ -68,7 +68,7 @@ contributor:
     subdivision:
     - name:
       - content: Ad Hoc DST
-      type: Technical committee
+      type: technical-committee
 - role:
   - type: publisher
   organization:

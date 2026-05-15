@@ -37,7 +37,7 @@ contributor:
     subdivision:
     - name:
       - content: FREEBUSY
-      type: Technical committee
+      type: technical-committee
 - role:
   - type: publisher
   organization:

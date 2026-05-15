@@ -51,7 +51,7 @@ contributor:
     subdivision:
     - name:
       - content: CALENDAR
-      type: Technical committee
+      type: technical-committee
 - role:
   - type: publisher
   organization:

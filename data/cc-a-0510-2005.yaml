@@ -36,7 +36,7 @@ contributor:
     subdivision:
     - name:
       - content: TIMEZONE
-      type: Technical committee
+      type: technical-committee
 - role:
   - type: publisher
   organization:

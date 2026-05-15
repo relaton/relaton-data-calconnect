@@ -76,7 +76,7 @@ contributor:
     subdivision:
     - name:
       - content: IOPTEST
-      type: Technical committee
+      type: technical-committee
 - role:
   - type: publisher
   organization:

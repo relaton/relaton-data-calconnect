@@ -48,7 +48,7 @@ contributor:
     subdivision:
     - name:
       - content: VCARD
-      type: Technical committee
+      type: technical-committee
 - role:
   - type: publisher
   organization:

@@ -62,7 +62,7 @@ contributor:
     subdivision:
     - name:
       - content: USECASE
-      type: Technical committee
+      type: technical-committee
 - role:
   - type: publisher
   organization:

@@ -11,13 +11,14 @@ on:
   - cron: '0 14 * * *'
   workflow_dispatch:
     inputs:
-      args:
-        description: Extra args to pass to crawler.rb script
+      force:
+        description: 'Force a fresh re-download (ignore cached ETag)'
+        type: boolean
         required: false
-        default: 'latest'
+        default: false
 
 jobs:
   crawl:
     uses: relaton/support/.github/workflows/crawler.yml@main
     with:
-      args: ${{ github.event.inputs.args }}
+      args: ${{ inputs.force && '--force' || '' }}

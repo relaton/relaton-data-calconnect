@@ -66,8 +66,8 @@ script:
 - Latn
 abstract:
 - content: '<p>This document defines new protocol features for CalDAV (<eref type="inline"
-    bibitemid="RFC4791" citeas="IETF RFC 4791"/>) to improve the efficiency of synchronizing
-    data changes between a client and server.</p>
+    bibitemid="RFC4791" citeas="IETF&#xA0;RFC&#xA0;4791"/>) to improve the efficiency
+    of synchronizing data changes between a client and server.</p>
 
     '
 status:

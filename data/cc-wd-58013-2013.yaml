@@ -76,8 +76,8 @@ script:
 - Latn
 abstract:
 - content: '<p>This specification describes a new property for vCard Format Specification
-    <eref type="inline" bibitemid="RFC6350" citeas="IETF RFC 6350"/> to allow the
-    specification of objectclasses.</p>
+    <eref type="inline" bibitemid="RFC6350" citeas="IETF&#xA0;RFC&#xA0;6350"/> to
+    allow the specification of objectclasses.</p>
 
     '
 status:

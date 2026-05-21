@@ -66,10 +66,10 @@ script:
 - Latn
 abstract:
 - content: '<p>This document defines a new iCalendar <eref type="inline" bibitemid="RFC5545"
-    citeas="IETF RFC 5545"/> component that allows small "patches" to be applied to
-    large iCalendar data objects, to allow for efficient data updates. It also describes
-    how this new component can be used with the CalDAV calendar data access protocol  <eref
-    type="inline" bibitemid="RFC4791" citeas="IETF RFC 4791"/>.</p>
+    citeas="IETF&#xA0;RFC&#xA0;5545"/> component that allows small "patches" to be
+    applied to large iCalendar data objects, to allow for efficient data updates.
+    It also describes how this new component can be used with the CalDAV calendar
+    data access protocol  <eref type="inline" bibitemid="RFC4791" citeas="IETF&#xA0;RFC&#xA0;4791"/>.</p>
 
     '
 status:

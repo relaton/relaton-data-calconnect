@@ -56,7 +56,7 @@ script:
 - Latn
 abstract:
 - content: '<p>This document updates the iCalendar (<eref type="inline" bibitemid="RFC5545"
-    citeas="IETF RFC 5545"/>) specification to allow a more compact representation
+    citeas="IETF&#xA0;RFC&#xA0;5545"/>) specification to allow a more compact representation
     of overridden recurrence instances.</p>
 
     '

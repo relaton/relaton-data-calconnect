@@ -1,0 +1,74 @@
+---
+id: CCWD343002019
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: Date and time — Codes for calendar systems
+  type: main
+docidentifier:
+- content: CC/WD 34300:2019
+  type: CalConnect
+  primary: true
+docnumber: '34300'
+date:
+- type: published
+  at: '2019-07-05'
+- type: updated
+  at: '2019-07-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Ronald Tse
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Jeffrey Lau
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: DATETIME
+      type: technical-committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1'
+version:
+- content: '2019-07-05'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: working-draft
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: cc

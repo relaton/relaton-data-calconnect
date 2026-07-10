@@ -4,7 +4,7 @@ schema_version: v1.5.6
 type: standard
 title:
 - language: en
-  content: CalConnect EDST Reflections and Recommendations
+  content: CalConnect EDST (Extended Daylight Savings Time) Reflections and Recommendations
   type: main
 docidentifier:
 - content: CC/Adv 0707:2007
@@ -13,7 +13,7 @@ docidentifier:
 docnumber: '0707'
 date:
 - type: published
-  at: '2007-09-14'
+  at: '2007-10-04'
 contributor:
 - role:
   - type: author
@@ -23,21 +23,39 @@ contributor:
 - role:
   - type: editor
   person:
+    email:
+    - mmize@mail.fresnostate.edu
+    uri:
+    - content: http://www.fresnostate.edu
     name:
       completename:
         content: Mike Mize
     affiliation:
     - organization:
+        address:
+        - street:
+          - 5241 N Maple Ave
+          city: Fresno
+          country: USA
         name:
-        - content: California State University Fresno
+        - content: California State University, Fresno
 - role:
   - type: editor
   person:
+    email:
+    - schwag@rpi.edu
+    uri:
+    - content: http://www.rpi.edu
     name:
       completename:
         content: Gary Schwartz
     affiliation:
     - organization:
+        address:
+        - street:
+          - 110 8th Street
+          city: Troy
+          country: USA
         name:
         - content: Rensselaer Polytechnic Institute
 - role:
@@ -49,7 +67,7 @@ contributor:
     - content: CalConnect
     subdivision:
     - name:
-      - content: DST ADHOC
+      - content: Ad Hoc DST
       type: technical-committee
 - role:
   - type: publisher
@@ -59,7 +77,7 @@ contributor:
 edition:
   content: '1'
 version:
-- content: '2007-09-14'
+- content: '2007-10-04'
 language:
 - en
 script:

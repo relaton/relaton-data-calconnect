@@ -1,0 +1,80 @@
+---
+id: CCWD360102019
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  content: Lightweight document — Document metamodel
+  type: main
+docidentifier:
+- content: CC/WD 36010:2019
+  type: CalConnect
+  primary: true
+docnumber: '36010'
+date:
+- type: published
+  at: '2019-06-05'
+- type: updated
+  at: '2019-06-05'
+contributor:
+- role:
+  - type: author
+  organization:
+    name:
+    - content: CalConnect
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Ronald Tse
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Jeffrey Lau
+- role:
+  - type: author
+  person:
+    name:
+      completename:
+        content: Nick Nicholas
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: CalConnect
+    subdivision:
+    - name:
+      - content: VCARD
+      type: technical-committee
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: CalConnect
+edition:
+  content: '1'
+version:
+- content: '2019-06-05'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: working-draft
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: CalConnect
+ext:
+  schema_version: v1.1.2
+  doctype:
+    content: standard
+  flavor: cc

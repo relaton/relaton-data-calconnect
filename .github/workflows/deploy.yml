@@ -16,10 +16,14 @@ jobs:
   deploy:
     uses: relaton/support/.github/workflows/data-deploy.yml@main
     with:
+      # Branding -- title, favicon, description -- is resolved by the
+      # reusable workflow from relaton/support's data-index/configs.yml,
+      # keyed on this repository. Do not re-add a `title:` here: cimas.yml
+      # copies this file whole, so a hand-added `with:` entry is dropped by
+      # the next `cimas sync`, silently.
       # Pilot the relaton-cli index build from GitHub `main`. The default
       # `gem` source installs the latest stable relaton-cli, which predates the
       # `index` command; `git` builds relaton + relaton-cli from source
       # (compiling the frontend). Switch back to the default once a stable
       # relaton-cli with `index` is released.
       source: git
-      title: "CalConnect Index"

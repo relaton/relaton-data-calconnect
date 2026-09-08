@@ -4,4 +4,58 @@ This repository is used by Relaton-CalConnect to represent known publications.
 
 Data is stored in Relaton YAML format.
 
-This repository contains a crawler script that runs daily. The script parses the file https://standards.calconnect.org/relaton/index.yaml and stores documents in the `data` directory.
+This repository uses the CalConnect flavor of the
+https://github.com/relaton/relaton[relaton] gem to fetch the documents, and runs
+daily. `relaton-calconnect` no longer exists as a gem of its own -- the flavor
+lives in the combined `relaton` gem. `crawler.rb` reads
+https://standards.calconnect.org/cc/index.json and stores the documents in the
+`data` directory. The fetch is conditional on an ETag, so an unchanged upstream
+writes nothing.
+
+== Indexes
+
+Two indexes are published. `relaton/support`'s shared `crawler.yml` zips and
+commits both; nothing in this repository zips.
+
+`index-v2`:: The pubid-keyed index, written by
+`Relaton::Calconnect::DataFetcher` itself, with each row's `:id` a
+`Pubid::Calconnect::Identifier` serialised to its `_type: pubid:calconnect:*`
+hash. The fetcher does not write it yet: the migration has not landed on
+relaton `main`, which the `Gemfile` pins, so a crawl today still produces
+`index-v1` alone.
+
+`index-v1`:: The legacy index, a bare id string per row, kept alive for every
+released `relaton` line that still reads `index-v1.zip` from this branch. The
+gem stops writing it at the migration, so `crawler.rb` rebuilds it here through
+`build_index_v1.rb`, before and after.
+
+`index-v1` is built from the primary docidentifier of each document in `data/`,
+and not derived from `index-v2` the way relaton-data-ecma, relaton-data-w3c,
+relaton-data-iana and relaton-data-bipm derive theirs. CalConnect can do this
+and they cannot: a v1 row id here is the document's own printed docidentifier, a
+bare string, with no edition and no volume to split out. Reading it back from
+the document keeps `index-v1` independent of pubid, so a renderer change cannot
+silently rewrite the file every released consumer reads, and a document whose id
+pubid cannot parse keeps its v1 row instead of disappearing.
+
+`IndexV1.write` declines, and writes nothing, when `data/` holds no document. A
+crawl that fetched nothing must not replace the published index with `--- []`.
+`crawler.rb` treats that decline as fatal, because `DataFetcher#fetch` swallows
+every per-document scrape error and never raises -- so a declined rebuild is the
+only signal that a crawl produced nothing, and the job has to go red rather than
+let CI commit a half-empty tree. For the same reason `--force` clears `index-v2`
+only: `IndexV1.write` rebuilds `index-v1` from scratch anyway, and deleting it
+first would leave the published file missing whenever the rebuild declines.
+
+Run the specs that guard the build with:
+
+[source,sh]
+----
+bundle exec rspec
+----
+
+The `Gemfile` pins both `relaton` and `pubid` to their `main` branches. Pin
+`pubid` here as well as in relaton: bundler reads a git gem's gemspec, never its
+Gemfile, so relaton's own pin does not reach this bundle. `Gemfile.lock` is
+git-ignored, so CI resolves fresh on every crawl -- check `bundle list | grep
+pubid` before you trust a generated index.

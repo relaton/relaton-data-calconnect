@@ -1,3 +1,4 @@
+---
 id: CCR09072009
 schema_version: v1.5.6
 type: standard
@@ -68,7 +69,9 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document is a recommendation from the CalConnect USECASE Technical Committee regarding the minimum interoperability of resources in the calendaring and scheduling domain.</p>\n"
+- content: "<p>This document is a recommendation from the CalConnect USECASE Technical
+    Committee regarding the minimum interoperability of resources in the calendaring
+    and scheduling domain.</p>\n"
 status:
   stage:
     content: published

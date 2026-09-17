@@ -1,3 +1,4 @@
+---
 id: CCWD510232022
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,10 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This specification provides a mechanism whereby subscriptions to external resources can be handled by the server.</p>\n\n<p>This specification updates <eref type=\"inline\" bibitemid=\"RFC4791\" citeas=\"IETF&#xA0;RFC&#xA0;4791\"/> to add new properties for the MKCOL request.</p>\n"
+- content: |
+    <p>This specification provides a mechanism whereby subscriptions to external resources can be handled by the server.</p>
+
+    <p>This specification updates <eref type="inline" bibitemid="RFC4791" citeas="IETF&#xA0;RFC&#xA0;4791"/> to add new properties for the MKCOL request.</p>
 status:
   stage:
     content: working-draft

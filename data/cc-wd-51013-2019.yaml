@@ -1,3 +1,4 @@
+---
 id: CCWD510132019
 schema_version: v1.5.6
 type: standard
@@ -74,7 +75,10 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This specification defines an extension to the calendar access protocol (CalDAV) to allow attachments associated with iCalendar data to be stored and managed on the server.</p>\n\n<p>This specification documents existing code deployed by multiple vendors. It is published as an Informational specification rather than Standards Track due to its noncompliance with multiple best current practices of HTTP.</p>\n"
+- content: |
+    <p>This specification defines an extension to the calendar access protocol (CalDAV) to allow attachments associated with iCalendar data to be stored and managed on the server.</p>
+
+    <p>This specification documents existing code deployed by multiple vendors. It is published as an Informational specification rather than Standards Track due to its noncompliance with multiple best current practices of HTTP.</p>
 status:
   stage:
     content: working-draft
@@ -84,7 +88,7 @@ copyright:
   - organization:
       name:
       - content: CalConnect
-keyword: null
+keyword:
 ext:
   schema_version: v1.1.2
   doctype:

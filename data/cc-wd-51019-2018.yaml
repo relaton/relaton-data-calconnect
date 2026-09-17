@@ -1,3 +1,4 @@
+---
 id: CCWD510192018
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,8 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This memo lists specifications and resources available to developers of calendaring and scheduling applications.</p>\n"
+- content: "<p>This memo lists specifications and resources available to developers
+    of calendaring and scheduling applications.</p>\n"
 status:
   stage:
     content: working-draft

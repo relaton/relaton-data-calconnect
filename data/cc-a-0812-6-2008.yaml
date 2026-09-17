@@ -1,3 +1,4 @@
+---
 id: CCA081262008
 schema_version: v1.5.6
 type: standard
@@ -30,7 +31,8 @@ contributor:
         content: Director
       organization:
         name:
-        - content: Communications & Middleware Technologies, Rensselaer Polytechnic Institute
+        - content: Communications & Middleware Technologies, Rensselaer Polytechnic
+            Institute
 - role:
   - type: author
     description:

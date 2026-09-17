@@ -1,3 +1,4 @@
+---
 id: CCWD510142016
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,11 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This document updates the iCalendar (<eref type=\"inline\" bibitemid=\"RFC5545\" citeas=\"IETF&#xA0;RFC&#xA0;5545\"/>) specification to allow a more compact representation of overridden recurrence instances.</p>\n"
+- content: '<p>This document updates the iCalendar (<eref type="inline" bibitemid="RFC5545"
+    citeas="IETF&#xA0;RFC&#xA0;5545"/>) specification to allow a more compact representation
+    of overridden recurrence instances.</p>
+
+    '
 status:
   stage:
     content: working-draft

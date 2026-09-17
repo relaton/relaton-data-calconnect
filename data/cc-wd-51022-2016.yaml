@@ -1,3 +1,4 @@
+---
 id: CCWD510222016
 schema_version: v1.5.6
 type: standard
@@ -54,7 +55,8 @@ language:
 script:
 - Latn
 abstract:
-- content: "<p>This specification describes a new XML object that can be retrieved from hosts to discover applications, features and limits for that host or domain.</p>\n"
+- content: "<p>This specification describes a new XML object that can be retrieved
+    from hosts to discover applications, features and limits for that host or domain.</p>\n"
 status:
   stage:
     content: working-draft

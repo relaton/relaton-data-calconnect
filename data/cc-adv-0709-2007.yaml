@@ -1,9 +1,11 @@
+---
 id: CCAdv07092007
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
-  content: Links to Advisory and Vendor Material on the Daylight Saving Time Changes in 2007 — A Reference for Users and Systems Administrators
+  content: Links to Advisory and Vendor Material on the Daylight Saving Time Changes
+    in 2007 — A Reference for Users and Systems Administrators
   type: main
 docidentifier:
 - content: CC/Adv 0709:2007

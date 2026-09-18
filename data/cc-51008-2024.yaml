@@ -1,11 +1,9 @@
----
 id: CC510082024
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
-  content: Calendar and scheduling — iCalendar Transport-Independent Interoperability
-    Protocol (iTIP)
+  content: Calendar and scheduling — iCalendar Transport-Independent Interoperability Protocol (iTIP)
   type: main
 docidentifier:
 - content: CC 51008:2024

@@ -1,2 +1,155 @@
 ---
-[]
+- :id:
+    _type: pubid:calconnect:standard
+    series: S
+    number: '0505'
+    year: '2005'
+  :file: data/cc-s-0505-2005.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: S
+    number: '0507'
+    year: '2005'
+  :file: data/cc-s-0507-2005.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: S
+    number: '0601'
+    year: '2006'
+  :file: data/cc-s-0601-2006.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: S
+    number: '0601'
+    year: '2005'
+  :file: data/cc-s-0601-2005.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: R
+    number: '0604'
+    year: '2006'
+  :file: data/cc-r-0604-2006.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: S
+    number: '0701'
+    year: '2007'
+  :file: data/cc-s-0701-2007.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: S
+    number: '0706'
+    year: '2008'
+  :file: data/cc-s-0706-2008.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: S
+    number: '0706'
+    year: '2007'
+  :file: data/cc-s-0706-2007.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: R
+    number: '0708'
+    year: '2007'
+  :file: data/cc-r-0708-2007.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: R
+    number: '0805'
+    year: '2008'
+  :file: data/cc-r-0805-2008.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: S
+    number: '0903'
+    year: '2009'
+  :file: data/cc-s-0903-2009.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: R
+    number: '0904'
+    year: '2009'
+  :file: data/cc-r-0904-2009.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: R
+    number: '0905'
+    year: '2009'
+  :file: data/cc-r-0905-2009.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: S
+    number: '0906'
+    year: '2009'
+  :file: data/cc-s-0906-2009.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: R
+    number: '0907'
+    year: '2009'
+  :file: data/cc-r-0907-2009.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: DIR
+    number: '10006'
+    year: '2019'
+  :file: data/cc-dir-10006-2019.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: R
+    number: '1011'
+    year: '2010'
+  :file: data/cc-r-1011-2010.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: R
+    number: '1012'
+    year: '2010'
+  :file: data/cc-r-1012-2010.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: R
+    number: '1104'
+    year: '2011'
+  :file: data/cc-r-1104-2011.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: S
+    number: '1202'
+    year: '2012'
+  :file: data/cc-s-1202-2012.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: S
+    number: '1301'
+    year: '2013'
+  :file: data/cc-s-1301-2013.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    number: '18011'
+    year: '2018'
+  :file: data/cc-18011-2018.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: WD
+    number: '34300'
+    year: '2019'
+  :file: data/cc-wd-34300-2019.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    number: '36010'
+    year: '2026'
+  :file: data/cc-36010-2026.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: WD
+    number: '36010'
+    year: '2019'
+  :file: data/cc-wd-36010-2019.yaml
+- :id:
+    _type: pubid:calconnect:standard
+    series: WD
+    number: '58020'
+    year: '2016'
+  :file: data/cc-wd-58020-2016.yaml
